@@ -80,7 +80,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Rodrigo Pereira dos Santos</h3>
             <br>
-            Universidade Federal do Rio de Janeiro, Brazil 
+            UNIRIO, Brazil 
         </div>
         </div>
     <div style="flex: 33.33%; padding: 5px;">
