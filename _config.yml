@@ -111,6 +111,8 @@ conference:
             relative_url: "/PhDRetreatSubmissions"
           - name: Posters and Demos
             relative_url: "/Posters"
+          - name: Special Issue
+            relative_url: "/Specialissue"
           - name: Awards
             relative_url: /Awards/
       - name: Program 
