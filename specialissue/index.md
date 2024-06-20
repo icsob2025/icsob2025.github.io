@@ -6,6 +6,13 @@ layout: importantdates
 
 <br>
 
+<img src="/assets/images/journal.PNG" alt="" width="200" height="300" id="hp"/>
+
+#hp  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+
 Software facilitates the vast majority of social, commercial, and governmental interactions in our society. The rules that were once implicit in person-to-person interactions or embedded in municipal bylaws are now codified into a set of instructions that govern how people can interact with organizations or with each other online. At the same time, software grassroots in the form of Free and Open Source Software (FLOSS) and civic technology initiatives are creating new ideas and alternatives. All these changes have introduced significant challenges that question established practices and norms, especially from the perspectives of ethics, equity, and sustainability. Examining the intersection of software and society is critical to informing the ethical, equitable, and sustainable use of information and software technology in the future.
 
 This special issue aims to advance the research field of software and society by collecting high-quality research articles on the latest advances and emerging trends in the field of software and society. Topics of interest include but are not limited to:
