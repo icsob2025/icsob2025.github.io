@@ -33,6 +33,7 @@ We also welcome submissions that address current issues in the field, such as di
 This special issue provides a unique opportunity for researchers and practitioners at the intersection of sustainability and software to share their insights, experiences, and perspectives on the unique challenges and latest advancements in ethics, equity, and sustainability that we face in the field of information and software technology.
 
 <b> Peer review process: </b>
+
 During the peer review process, we will follow the software engineering research field’s best practices, IST recommendations, and Elsevier guidelines. Concisely, the process is as follows.
 
 <ul style="list-style: none;">
