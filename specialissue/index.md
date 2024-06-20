@@ -7,7 +7,7 @@ layout: importantdates
 <br>
 
 
-<div style="text-align: left;"><img src="/assets/images/journal.PNG" alt=""></div>
+<img src="/assets/images/journal.PNG" alt="" style="float: right; margin-right: 10px;">
 
 
 Software facilitates the vast majority of social, commercial, and governmental interactions in our society. The rules that were once implicit in person-to-person interactions or embedded in municipal bylaws are now codified into a set of instructions that govern how people can interact with organizations or with each other online. At the same time, software grassroots in the form of Free and Open Source Software (FLOSS) and civic technology initiatives are creating new ideas and alternatives. All these changes have introduced significant challenges that question established practices and norms, especially from the perspectives of ethics, equity, and sustainability. Examining the intersection of software and society is critical to informing the ethical, equitable, and sustainable use of information and software technology in the future.
