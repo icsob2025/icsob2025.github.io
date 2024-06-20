@@ -6,7 +6,7 @@ layout: importantdates
 
 <br>
 
-<img src="/assets/images/journal.PNG" alt="" style="float: left; margin-right: 15px;">
+<img src="/assets/images/journal.PNG" alt="" style="float: left; margin-right: 10px;">
 
 
 
