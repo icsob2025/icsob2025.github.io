@@ -2,7 +2,7 @@
 layout: importantdates
 ---
 
-<b style="font-size: 22px" id="SpecialIsuse">Special Journal Issue on Information and Software Technology journal</b>
+<b style="font-size: 22px" id="SpecialIsuse">Special Journal Issue on Information and Software Technology Journal</b>
 
 <br>
 
