@@ -112,7 +112,7 @@ conference:
           - name: Posters and Demos
             relative_url: "/Posters"
           - name: Special Issue
-            relative_url: "/Specialissue"
+            relative_url: "/specialissue"
           - name: Awards
             relative_url: /Awards/
       - name: Program 
