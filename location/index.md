@@ -9,7 +9,7 @@ layout: location
     </h1>
     <p>Utrecht is conveniently accessible via air travel to Amsterdam Schiphol Airport (AMS). The train journey from Schiphol Airport to Utrecht Central, covering an approximate distance of 34 km, takes an average of 35 minutes. The train service operates from early morning, with the first train departing at 0:08, until late at night, with the last train departing at 23:57. Notably, there are 84 trains on this route each day, providing ample options for transportation. Tickets for this route start at €11.20.</p>
     <p>This conference will be held in <b>Winkel van Sinkel</b> (address is <b>Oudegracht 158, 3511 AZ Utrecht</b>). It is 600 meters from the Utrecht Centraal, which can be reached on foot in 9 minutes or by bus 4, 55, 77, or 8. </p>
-    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.3280186134557!2d5.116136810888498!3d52.091961571835064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f44c37ed4b5%3A0xe4b72f028f606747!2sWinkel%20van%20Sinkel!5e0!3m2!1sen!2ssg!4v1719294929346!5m2!1sen!2ssg" width="900" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.3280186134557!2d5.116136810888498!3d52.091961571835064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f44c37ed4b5%3A0xe4b72f028f606747!2sWinkel%20van%20Sinkel!5e0!3m2!1sen!2ssg!4v1719294929346!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </p>
 
 <div>
