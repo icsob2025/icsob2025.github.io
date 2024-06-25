@@ -35,8 +35,6 @@ layout: importantdates
 
 <p> A link to online registration will be available by ***, 2024.</p>
 
-<p> Authors of accepted papers are required to register before ***, 2024.</p>
-
 <p> Registration fees:</p>
 <p>
  <table id="registration">
