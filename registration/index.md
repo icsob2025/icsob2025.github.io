@@ -1,5 +1,7 @@
+---
 layout: importantdates
 ---
+
 <style>
 #registration {
   font-family: Arial, Helvetica, sans-serif;
@@ -49,9 +51,27 @@ layout: importantdates
     <td>€ 700.00</td>
   </tr>
   <tr>
-    <td>Student, conference</td>
-    <td>€ 600.00</td>
+    <td>Regular, conference</td>
     <td>€ 700.00</td>
+    <td>€ 800.00</td>
+  </tr>
+   
+  <tr>
+    <td>Student, conference + PhD Retreat (if accepted) </td>
+    <td>€ 500.00</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Student, only PhD retreat</td>
+    <td>€ 200.00</td>
+    <td></td>
+  </tr>
+
+    <tr>
+    <td>Workshop and dinner</td>
+    <td>€ 350.00</td>
+    <td></td>
   </tr>
   </table>
 
