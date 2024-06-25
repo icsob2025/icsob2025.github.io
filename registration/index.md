@@ -2,33 +2,15 @@
 layout: importantdates
 ---
 
-<style type="text/css">
-  th {
-    padding: 0 40px;
-    line-height: 2;
-  }
+<div class="col-lg8 mx-auto">
+    <h1 class="display-4" style="text-align: left;">
+        Registration
+    </h1>
+    <p> Registration and payments for the ICSOB 2024 conference should be completed via the online registration system. Registration is required for all persons attending the conference.</p>
 
-  .button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
+<p> A link to online registration will be available by the end of October 1st, 2024.</p>
 
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-}
-</style>
+<p> Authors of accepted papers are required to register before November 15th, 2024.</p>
 
-<br>
-<b>Registration Details to be Added Soon<br>
+<p> Registration fees:</p>
 
