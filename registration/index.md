@@ -43,7 +43,7 @@ layout: importantdates
   <tr>
     <th>Categories</th>
     <th>Early Bird Registration Fee (till October 1st)</th>
-    <th>Standard Registration Fee (from October 1st)</th>
+    <th>Standard Registration Fee (from October 2nd)</th>
   </tr>
   <tr>
     <td>Student, conference</td>
