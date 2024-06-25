@@ -4,7 +4,7 @@ layout: location
 
 
 <div class="col-lg8 mx-auto">
-    <h1 class="display-4" style="text-align: center;">
+    <h1 class="display-4" style="text-align: left;">
         Location
     </h1>
     <p>Utrecht is conveniently accessible via air travel to Amsterdam Schiphol Airport (AMS). The train journey from Schiphol Airport to Utrecht Central, covering an approximate distance of 34 km, takes an average of 35 minutes. The train service operates from early morning, with the first train departing at 0:08, until late at night, with the last train departing at 23:57. Notably, there are 84 trains on this route each day, providing ample options for transportation. Tickets for this route start at €11.20.</p>
@@ -12,30 +12,27 @@ layout: location
     </p>
 
 <div>
-    <h1 class="display-5" style="text-align: center;">
+    <h1 class="display-5" style="text-align: left;">
         Reception Venue
     </h1>
     <figure>
-        <img src="/assets/images/L0.png" alt="" style="max-width: 100%;
-        height: auto;">
+        <img src="/assets/images/L0.png" alt="" width="500" height="600">
         
     </figure>  
 <hr>
-    <h1 class="display-5" style="text-align: center;">
+    <h1 class="display-5" style="text-align: left;" width="500" height="600">
         PhD Retreat Venue 
     </h1>
     <figure>
-        <img src="/assets/images/L1.png" alt="" style="max-width: 100%;
-        height: auto;">
+        <img src="/assets/images/L1.png" alt="" width="500" height="600">
        
     </figure>
     <hr>
-    <h1 class="display-5" style="text-align: center;">
+    <h1 class="display-5" style="text-align: left;">
         Conference Venue
     </h1>
     <figure>
-        <img src="/assets/images/L2.png" alt="" style="max-width: 100%;
-        height: auto;">
+        <img src="/assets/images/L2.png" alt="" width="500" height="600">
         
     </figure>
             
