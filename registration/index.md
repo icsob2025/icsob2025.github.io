@@ -44,18 +44,18 @@ layout: importantdates
     <th>Standard Registration Fee (from October 2nd)</th>
   </tr>
   <tr>
-    <td>Student, conference</td>
+    <td>Student, Full conference</td>
     <td>€ 600.00</td>
     <td>€ 700.00</td>
   </tr>
   <tr>
-    <td>Regular, conference</td>
+    <td>Regular, Full conference</td>
     <td>€ 700.00</td>
     <td>€ 800.00</td>
   </tr>
    
   <tr>
-    <td>Student, conference + PhD Retreat (if accepted) </td>
+    <td>Student, Full conference + PhD Retreat (if accepted) </td>
     <td>€ 500.00</td>
     <td></td>
   </tr>
