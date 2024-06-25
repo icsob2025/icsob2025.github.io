@@ -16,15 +16,15 @@ layout: location
         Reception Venue
     </h1>
     <figure>
-        <img src="/assets/images/L0.png" alt="" width="500" height="600">
+        <img src="/assets/images/L0.png" alt="" width="800" height="600">
         
     </figure>  
 <hr>
-    <h1 class="display-5" style="text-align: left;" width="500" height="600">
+    <h1 class="display-5" style="text-align: left;" width="800" height="600">
         PhD Retreat Venue 
     </h1>
     <figure>
-        <img src="/assets/images/L1.png" alt="" width="500" height="600">
+        <img src="/assets/images/L1.png" alt="" width="800" height="600">
        
     </figure>
     <hr>
@@ -32,7 +32,7 @@ layout: location
         Conference Venue
     </h1>
     <figure>
-        <img src="/assets/images/L2.png" alt="" width="500" height="600">
+        <img src="/assets/images/L2.png" alt="" width="800" height="600">
         
     </figure>
             
