@@ -1,4 +1,4 @@
----
+![image](https://github.com/icsob2024/icsob2024.github.io/assets/54010269/4c60a8ed-c55a-420c-adca-c0df9acf6ee7)---
 layout: importantdates
 ---
 
@@ -14,60 +14,73 @@ layout: importantdates
 
 <p> Registration fees:</p>
 <p>
- <div class="row">
+ <div class="wrapper">
+  
+
+  <div class="table">
+    
+    <div class="row header blue">
+      <div class="cell">
+        Categories
+      </div>
+      <div class="cell">
+        Early Bird Registration Fee (till October 1st)
+      </div>
+      <div class="cell">
+        Standard Registration Fee (from October 1st)
+      </div>
+     </div>
+    
+    <div class="row">
       <div class="cell" data-title="Categories">
-        ninjalug
+        Student, conference
       </div>
-      <div class="cell" data-title="Email">
-        misterninja@hotmail.com
+      <div class="cell" data-title="Early Bird Registration Fee (till October 1st)">
+        € 600.00
       </div>
-      <div class="cell" data-title="Password">
-        ************
+      <div class="cell" data-title="Standard Registration Fee (from October 1st)">
+        € 700.00
       </div>
-      <div class="cell" data-title="Active">
-        Yes
-      </div>
+
     </div>
     
     <div class="row">
       <div class="cell" data-title="Categories">
         Student, conference
       </div>
-      <div class="cell" data-title="Early Bird Registration Fee
-(till October 1st)">
+      <div class="cell" data-title="Early Bird Registration Fee (till October 1st)">
         € 600.00
       </div>
-      <div class="cell" data-title="Standard Registration Fee
-(from October 1st)">
+      <div class="cell" data-title="Standard Registration Fee (from October 1st)">
         € 700.00
       </div>
-    </div>
     
+    <div class="row">
       <div class="cell" data-title="Categories">
         Student, conference
       </div>
-      <div class="cell" data-title="Early Bird Registration Fee
-(till October 1st)">
+      <div class="cell" data-title="Early Bird Registration Fee (till October 1st)">
         € 600.00
       </div>
-      <div class="cell" data-title="Standard Registration Fee
-(from October 1st)">
+      <div class="cell" data-title="Standard Registration Fee (from October 1st)">
         € 700.00
       </div>
-    </div>
     
+    <div class="row">
       <div class="cell" data-title="Categories">
         Student, conference
       </div>
-      <div class="cell" data-title="Early Bird Registration Fee
-(till October 1st)">
+      <div class="cell" data-title="Early Bird Registration Fee (till October 1st)">
         € 600.00
       </div>
-      <div class="cell" data-title="Standard Registration Fee
-(from October 1st)">
+      <div class="cell" data-title="Standard Registration Fee (from October 1st)">
         € 700.00
       </div>
-    </div>
+    
+  </div>
+  
+</div>
+
 </p>
 <p><b>Each full or short paper must have a unique registered presenter. This policy applies also to PhD Retreat.</b></p>
 
