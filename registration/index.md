@@ -33,7 +33,7 @@ layout: importantdates
     </h1>
     <p> Registration and payments for the ICSOB 2024 conference should be completed via the online registration system. Registration is required for all persons attending the conference.</p>
 
-<p> A link to online registration will be available by ***, 2024.</p>
+<p> A link to online registration will be available by July-1, 2024.</p>
 
 <p> Registration fees:</p>
 <p>
@@ -81,8 +81,21 @@ layout: importantdates
 Full information will be provided, once the registration link is active.
 
 <p><b>Cancellation policy</b></p>
-TBC
 
+<p>Cancellation Fee</p>
+<p>
+  <ul>
+    <li>All cancellations will incur a fee of 150 euros, regardless of the timing of the cancellation.</li>
+  </ul>
+</p>
+<p>Cancellation Deadline</p>
+<p>
+<ul>
+    <li>Cancellations made more than one month prior to the conference start date will be eligible for a refund minus the 150 euro cancellation fee.</li>
+    <li>Cancellations made less than one month before the conference start date will not be eligible for any refund.</li>
+    
+</ul>
+</p>
 <p><b>Privacy Policy</b></p>
 
 By registering to this event you accept that the personal information you provide will be used by the hosting organization(s) in connection with the administration of the event, and may be shared with the service providers when necessary.
