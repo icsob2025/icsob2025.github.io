@@ -8,7 +8,7 @@ layout: importantdates
         Keynotes
     </h1>
 
-    <h1 class="display-8" style="text-align: left;">
+    <h1 class="display-10" style="text-align: left;">
         Ethics In Practice: How It Influences The Software We Build
     </h1>
     
