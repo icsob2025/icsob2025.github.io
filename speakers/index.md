@@ -1,4 +1,4 @@
-![image](https://github.com/icsob2024/icsob2024.github.io/assets/54010269/d3ac99f1-99aa-40ce-a7b8-e37a401acdc7)---
+---
 layout: importantdates
 ---
 
@@ -11,9 +11,7 @@ layout: importantdates
     <h1 class="display-5" style="text-align: center;">
         Ethics In Practice: How It Influences The Software We Build
     </h1>
-    <figure>
-        <img src="/assets/images/Michiel.PNG" alt="" width="300" height="300">
-    </figure>
+![image](https://github.com/icsob2024/icsob2024.github.io/assets/54010269/d3ac99f1-99aa-40ce-a7b8-e37a401acdc7)
 
 <p> <b>Abstract</b>: Business software plays a pivotal role in driving the growth and operations of many successful companies. When confronted with changes in the behavior or failures of this software, the very survival of a company may be at stake. This gives software suppliers great responsibility and power. This keynote explores how companies, such as AFAS, can actively incorporate ethical considerations into their software and the service they provide as part of their commitment to creating dependable, effective solutions. Drawing from experiences in product management, artificial intelligence, and licensing, we demonstrate not only how adhering to ethical practices strengthens corporate responsibility, but also contributes to a thriving and sustainable company. </p>
 
