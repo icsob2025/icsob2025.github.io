@@ -8,7 +8,7 @@ layout: importantdates
         Keynotes
     </h1>
 
-    <h1 class="display-5" style="text-align: center;">
+    <h1 class="display-6" style="text-align: left;">
         Ethics In Practice: How It Influences The Software We Build
     </h1>
 ![image](https://github.com/icsob2024/icsob2024.github.io/assets/54010269/d3ac99f1-99aa-40ce-a7b8-e37a401acdc7)
