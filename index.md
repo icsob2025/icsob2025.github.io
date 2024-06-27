@@ -62,12 +62,25 @@ The Conference holds societal impact and international importance as it tackles 
     <hr>
     
     <p><b>Location</b></p>
-    <div class="image-container">
-        <img src="/assets/images/r1.png"  alt="">
-        <img src="/assets/images/r2.png"   alt="">
-        <img src="/assets/images/r3.png"  alt="">
-        <img src="/assets/images/r4.png"   alt="">
-     </div>
+    <p>
+    <div id="banner">
+    <div class="inline-block">
+        <img src ="/assets/images/r1.png">
+    </div>
+
+    <div class="inline-block">
+        <img src ="/assets/images/r2.png">
+    </div>
+
+    <div class="inline-block">
+        <img src ="/assets/images/r3.png">
+    </div>
+
+        <div class="inline-block">
+        <img src ="/assets/images/r4.png">
+    </div>
+</div>
+     </p>
 <!--      
 <b> Special Tracks and Additional Opportunities: </b>
   <ul style="list-style: none;">
