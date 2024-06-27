@@ -52,6 +52,17 @@
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
+
+  <style>
+  .image-container {
+    display: flex; /* Use flexbox to align images in a row */
+  }
+  .image-container img {
+    margin-right: 10px; /* Optional: Adds space between images */
+  }
+</style>
+
+  
 </head>
 
 <body class="pb-4">
