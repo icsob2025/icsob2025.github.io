@@ -120,7 +120,7 @@ conference:
          - name: Program Overview
            relative_url: /program/
          - name: Keynotes
-           relative_url: /keynotes/
+           relative_url: /speakers/
 
       - name: Important Dates
         relative_url: /importantdates/
