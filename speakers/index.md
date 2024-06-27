@@ -5,7 +5,7 @@ layout: importantdates
 
 <div class="col-lg8 mx-auto">
     <h1 class="display-4" style="text-align: left;">
-        Registration
+        Keynotes
     </h1>
 
     <h1 class="display-2" style="text-align: center;">
