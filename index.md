@@ -66,23 +66,23 @@ The Conference holds societal impact and international importance as it tackles 
 
    <div id="banner" style="overflow: hidden; display: inline-block;">
        
-        <div class="image" style="max-width: 15%; max-height: 15%;">
+        <div class="image" style="max-width: 18%; max-height: 18%;">
             <img src ="/assets/images/r1.PNG">
         </div>
 
-        <div class="image" style="max-width: 15%; max-height: 15%;">
+        <div class="image" style="max-width: 18%; max-height: 18%;">
             <img src ="/assets/images/r2.PNG">
         </div>
 
-        <div class="image" style="max-width: 15%; max-height: 15%;">
+        <div class="image" style="max-width: 18%; max-height: 18%;">
             <img src ="/assets/images/r3.PNG">
         </div>
 
-        <div class="image" style="max-width: 15%; max-height: 15%;">
+        <div class="image" style="max-width: 18%; max-height: 18%;">
             <img src ="/assets/images/r4.PNG">
         </div>
         
-        <div class="image" style="max-width: 15%; max-height: 15%;">
+        <div class="image" style="max-width: 18%; max-height: 18%;">
             <img src ="/assets/images/r5.PNG">
         </div>
     </div>
