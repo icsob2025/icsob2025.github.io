@@ -116,7 +116,11 @@ conference:
           - name: Awards
             relative_url: /Awards/
       - name: Program 
-        relative_url: /program/
+        menu:
+         - name: Program Overview
+           relative_url: /program/
+         - name: Keynotes
+           relative_url: /keynotes/
 
       - name: Important Dates
         relative_url: /importantdates/
