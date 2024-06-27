@@ -59,6 +59,14 @@ The Conference holds societal impact and international importance as it tackles 
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
 
+    <hr>
+    
+    <p><b>Location</b></p>
+    <img src="/assets/images/r1.png"  style="display:inline-block;">
+    <img src="/assets/images/r2.png"   style="display:inline-block;">
+    <img src="/assets/images/r3.png"  style="display:inline-block;">
+    <img src="/assets/images/r4.png"   style="display:inline-block;">
+ 
 <!--      
 <b> Special Tracks and Additional Opportunities: </b>
   <ul style="list-style: none;">
