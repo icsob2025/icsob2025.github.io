@@ -4,11 +4,12 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">Call for Research Paper Submissions</b>
 
-The theme for ICSOB 2024 revolves around the critical and timely topics of ethics, equity, and sustainability within the software business sector. In an era where digital transformation is ubiquitous, it's imperative to consider the ethical implications and equitable practices, as they are intrinsically linked to the sustainability of software initiatives, vital to realizing social justice, human rights, and democracy. This conference will delve into these topics, offering a platform for discussing how they are shaping the future of software business.
+The theme for ICSOB 2024 revolves around the critical and timely topics of ethics, equity, and sustainability within the software business sector. In an era where digital transformation is ubiquitous, it’s imperative to consider the ethical implications and equitable practices, as they are intrinsically linked to the sustainability of software initiatives, vital to realizing social justice, human rights, and democracy. This conference will delve into these topics, offering a platform for discussing how they are shaping the future of software business.
 
-We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be: (i) <b>Full Research Papers</b> (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) <b>Short Position and Practice Papers</b> for industry insights, case studies, artifacts, and explorations of new areas. All accepted papers will be published in the conference proceedings, part of the Springer Lecture Notes in Business Information Processing (LNBIP) series. 
+We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be (i) Full Research Papers (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) Short Position and Practice Papers for industry insights, case studies, artifacts, and explorations of new areas. All accepted papers will be published in the conference proceedings, part of the Springer Lecture Notes in Business Information Processing (LNBIP) series.
 
 The topics that ICSOB welcomes, but not limited to, are listed below:
+
 
 <ul style="list-style: none;">
             <li>Ethics in Software Product Management and Development</li>
@@ -37,6 +38,7 @@ We also anticipate a range of networking events and keynote speeches from leadin
 
 Join us in Utrecht for what promises to be an enlightening and engaging event, contributing to the critical discourse on ethics, equity, and sustainability in the software business.
 
+
 <hr>
 <b style="font-size: 18px">Submission Process and Guidelines:</b>:
 <ul style="list-style: none;">
@@ -55,6 +57,7 @@ Submissions must conform to Springer’s LNBIP format and should not exceed 15 p
 
 Submissions not conforming to the LNBIP format, exceeding 15 pages (for full papers) or 6 pages (for short papers), or 4 pages (for poster papers) or being obviously out of the scope of the conference might be rejected.
 
+
 Information about the Springer LNBIP format can be found <a href="https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines" target="_blank">here</a>. Three to five keywords characterizing the paper should be indicated at the end of the abstract. The type of paper (technical/empirical evaluation/experience/exploratory paper) should be indicated in the submission. Submission is done through EasyChair.
 
 Each paper will be reviewed by at least three reviewers. Accepted papers will be presented at ICSOB ’24 and published in the conference proceedings, which is published in the Springer Lecture Notes in Business Information Processing (LNBIP).
@@ -67,8 +70,8 @@ Each paper will be reviewed by at least three reviewers. Accepted papers will be
 <p class="lead">
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
-  <li>Abstract Submission Deadline: September 2, 2024 (AoE) </li>
-    <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
+  <li>Abstract Submission Deadline: August 19, 2024 (AoE) </li>
+    <li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
