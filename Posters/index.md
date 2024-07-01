@@ -25,6 +25,7 @@ Posters are intended to stimulate face-to-face discussions among conference part
 If accepted, you are to create and print your own poster to bring to the conference. The poster should briefly summarise your research. Posters should be A1-sized (594 mm x 841 mm) and in portrait orientation. A good poster should be visually engaging and easy to read from a short distance (1 meter). Use large fonts, clear headings, and a logical layout to guide viewers through your research. Use visual elements and avoid long blocks of text. The goal of the poster is to spark conversation with other attendees!
 
 Participants of the PhD retreat are especially encouraged to submit to the poster track to receive extended feedback from the conference community.
+
 <hr>
 
 <b style="font-size: 20px" id="demo">Demos</b>
