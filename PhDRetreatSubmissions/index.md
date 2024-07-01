@@ -5,7 +5,7 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat – Call for Submissions </b>
 
-The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen at a special location (to be defined). The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
+The ICSOB 2024 PhD Retreat is an exciting one-day event. The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
 
 <hr> 
 <b>Program:</b> 
@@ -96,7 +96,7 @@ All submissions will be peer-reviewed by the Program Committee members. The main
 <hr>
 <b style="font-size: 18px" id="Presentation">Presentation</b><br>
 
-Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (Deadline: November 20, 2024), so that participants have the chance to polish their papers based on the feedback they got from the conference. 
+Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (Deadline: November 20, 2024), so that participants have the chance to polish their papers based on the feedback they got from the conference.
 <br>
 <br>
 Authors will present their research at the conference. Each participant will have 10 to 15 minutes to present plus 10 to 15 minutes for answering questions. There will be networking breaks after blocks of  presentations in which participants can get feedback and comments about their research in a more relaxed Q&A session. After running the presentations, a thesis-design workshop session with experts who will be acting as mentors for the participants during the session is planned.   
