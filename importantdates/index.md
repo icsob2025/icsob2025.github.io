@@ -11,8 +11,8 @@ layout: importantdates
     <p class="lead">
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
-    <li>Abstract Submission Deadline: September 2, 2024 (AoE) </li>
-    <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
+    <li>Abstract Submission Deadline: August 19, 2024 (AoE)</li>
+    <li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
