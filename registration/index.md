@@ -45,7 +45,8 @@ layout: importantdates
   </tr>
   <tr>
     <td>Student, Full conference</td>
-    <td>€ 600.00 <label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
+    <td>€ 600.00 <label>
+  <input type="radio" onclick="window.location.href='http://www.google.com'" /> Register</label> </td>
     <td>€ 700.00 <label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
   </tr>
   <tr>
