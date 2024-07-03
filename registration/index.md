@@ -22,13 +22,13 @@ layout: importantdates
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #1F618D;
+  background-color: #000;
   color: white;
 }
 
     /* Styling for the button */
     .styled-button {
-      background-color: #1F618D; /* Green background */
+      background-color: #000; /* Green background */
       border: none; /* Remove border */
       color: white; /* White text */
       padding: 15px 32px; /* Padding */
