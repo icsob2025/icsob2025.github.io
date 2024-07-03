@@ -65,31 +65,42 @@ layout: importantdates
   <tr>
     <td>Student, Full conference</td>
     <td> <label>
-  <input type="radio" id="googleRadio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st')" /> € 600.00 </label> </td>
-    <td>€ 700.00 <label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st')" /> € 600.00 </label> </td>
+    <td> <label>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st')" /> € 700.00 </label> </td>
+
   </tr>
   <tr>
     <td>Regular, Full conference</td>
-    <td>€ 700.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
-    <td>€ 800.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-registration-after-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
+    <td> <label>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-1st')" /> € 700.00 </label> </td>
+    <td> <label>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-registration-after-october-1st')" /> € 800.00 </label> </td>
+    
   </tr>
    
   <tr>
     <td>Student, Full conference + PhD Retreat (if accepted) </td>
-    <td>€ 500.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st-retreat-combo" onclick="window.location.href=this.action;"  />Register</label> </td>
-    <td></td>
+    <td> <label>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st-retreat-combo')" /> € 500.00 </label> </td>
+    
+   <td></td>
   </tr>
 
   <tr>
     <td>Student, only PhD retreat</td>
-    <td>€ 200.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-student-october-1st-phd-retreat-only" onclick="window.location.href=this.action;"  />Register</label> </td>
+    <td> <label>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-student-october-1st-phd-retreat-only')" /> € 200.00 </label> </td>
+    
     <td></td>
   </tr>
 
     <tr>
     <td>Workshop and dinner</td>
-    <td>€ 350.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-workshop-and-dinner" onclick="window.location.href=this.action;"  />Register</label> </td>
-    <td></td>
+    <td> <label>
+      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-workshop-and-dinner')" /> € 350.00 </label> </td>
+      
+     <td></td>
   </tr>
   </table>
 
