@@ -22,13 +22,13 @@ layout: importantdates
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #f2f2f2;
+  background-color: #1F618D;
   color: white;
 }
 
     /* Styling for the button */
     .styled-button {
-      background-color: #4CAF50; /* Green background */
+      background-color: #1F618D; /* Green background */
       border: none; /* Remove border */
       color: white; /* White text */
       padding: 15px 32px; /* Padding */
@@ -124,8 +124,10 @@ layout: importantdates
   </table>
 
 </p>
-<p><button class="styled-button" onclick="redirectToSelected()">Register</button></p>
+
 <p><b>Please note: Each full or short paper must have a unique registered presenter. This policy applies also to PhD Retreat.</b></p>
+
+<p><button class="styled-button" onclick="redirectToSelected()">Register</button></p>
 
 <p><b>Cancellation policy</b></p>
 
