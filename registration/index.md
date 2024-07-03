@@ -25,11 +25,32 @@ layout: importantdates
   background-color: #04AA6D;
   color: white;
 }
-</style>
+
+    /* Styling for the button */
+    .styled-button {
+      background-color: #4CAF50; /* Green background */
+      border: none; /* Remove border */
+      color: white; /* White text */
+      padding: 15px 32px; /* Padding */
+      text-align: center; /* Center text */
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Inline block display */
+      font-size: 16px; /* Font size */
+      margin: 4px 2px; /* Margin */
+      cursor: pointer; /* Pointer cursor */
+      border-radius: 8px; /* Rounded corners */
+      transition: background-color 0.3s ease; /* Smooth background color transition */
+    }
+
+    /* Hover effect */
+    .styled-button:hover {
+      background-color: #45a049; /* Darker green background on hover */
+    }
+  </style>
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Redirect Example</title>
+  
   <script>
     let redirectUrl = '';
 
@@ -65,24 +86,24 @@ layout: importantdates
   <tr>
     <td>Student, Full conference</td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st')" /> € 600.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st')" /> € 600.00 </label> </td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st')" /> € 700.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st')" /> € 700.00 </label> </td>
 
   </tr>
   <tr>
     <td>Regular, Full conference</td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-1st')" /> € 700.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-1st')" /> € 700.00 </label> </td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-registration-after-october-1st')" /> € 800.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-registration-after-october-1st')" /> € 800.00 </label> </td>
     
   </tr>
    
   <tr>
     <td>Student, Full conference + PhD Retreat (if accepted) </td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st-retreat-combo')" /> € 500.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st-retreat-combo')" /> € 500.00 </label> </td>
     
    <td></td>
   </tr>
@@ -90,7 +111,7 @@ layout: importantdates
   <tr>
     <td>Student, only PhD retreat</td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-student-october-1st-phd-retreat-only')" /> € 200.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-student-october-1st-phd-retreat-only')" /> € 200.00 </label> </td>
     
     <td></td>
   </tr>
@@ -98,14 +119,14 @@ layout: importantdates
     <tr>
     <td>Workshop and dinner</td>
     <td> <label>
-      <input type="radio" id="Radio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-workshop-and-dinner')" /> € 350.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-workshop-and-dinner')" /> € 350.00 </label> </td>
       
      <td></td>
   </tr>
   </table>
 
 </p>
-<p><button onclick="redirectToSelected()">Register</button></p>
+<p><button class="styled-button" onclick="redirectToSelected()">Register</button></p>
 <p><b>Please note: Each full or short paper must have a unique registered presenter. This policy applies also to PhD Retreat.</b></p>
 
 <p><b>Payment</b></p>
