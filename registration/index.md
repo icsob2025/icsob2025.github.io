@@ -73,8 +73,6 @@ layout: importantdates
     </h1>
     <p> Registration and payments for the ICSOB 2024 conference should be completed via the online registration system. Registration is required for all persons attending the conference.</p>
 
-<p> A link to online registration will be available by July-1, 2024.</p>
-
 <p> Registration fees:</p>
 <p>
  <table id="registration">
@@ -128,10 +126,6 @@ layout: importantdates
 </p>
 <p><button class="styled-button" onclick="redirectToSelected()">Register</button></p>
 <p><b>Please note: Each full or short paper must have a unique registered presenter. This policy applies also to PhD Retreat.</b></p>
-
-<p><b>Payment</b></p>
-
-Full information will be provided, once the registration link is active.
 
 <p><b>Cancellation policy</b></p>
 
