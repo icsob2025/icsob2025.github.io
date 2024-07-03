@@ -45,30 +45,30 @@ layout: importantdates
   </tr>
   <tr>
     <td>Student, Full conference</td>
-    <td>€ 600.00 <label><input type="radio" action="http://www.google.com" onclick="window.location.href=this.action;"  />Google</label></td>
-    <td>€ 700.00</td>
+    <td>€ 600.00 <label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
+    <td>€ 700.00 <label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
   </tr>
   <tr>
     <td>Regular, Full conference</td>
-    <td>€ 700.00</td>
-    <td>€ 800.00</td>
+    <td>€ 700.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
+    <td>€ 800.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-registration-after-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
   </tr>
    
   <tr>
     <td>Student, Full conference + PhD Retreat (if accepted) </td>
-    <td>€ 500.00</td>
+    <td>€ 500.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st-retreat-combo" onclick="window.location.href=this.action;"  />Register</label> </td>
     <td></td>
   </tr>
 
   <tr>
     <td>Student, only PhD retreat</td>
-    <td>€ 200.00</td>
+    <td>€ 200.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-student-october-1st-phd-retreat-only" onclick="window.location.href=this.action;"  />Register</label> </td>
     <td></td>
   </tr>
 
     <tr>
     <td>Workshop and dinner</td>
-    <td>€ 350.00</td>
+    <td>€ 350.00<label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-workshop-and-dinner" onclick="window.location.href=this.action;"  />Register</label> </td>
     <td></td>
   </tr>
   </table>
