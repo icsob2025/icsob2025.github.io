@@ -45,7 +45,7 @@ layout: importantdates
   </tr>
   <tr>
     <td>Student, Full conference</td>
-    <td>€ 600.00</td>
+    <td>€ 600.00 <label><input type="radio" action="http://www.google.com" onclick="window.location.href=this.action;"  />Google</label></td>
     <td>€ 700.00</td>
   </tr>
   <tr>
