@@ -45,8 +45,8 @@ layout: importantdates
   </tr>
   <tr>
     <td>Student, Full conference</td>
-    <td>€ 600.00 <label>
-  <input type="radio" onclick="window.location.href='http://www.google.com'" /> Register</label> </td>
+    <td> <label>
+  <input type="radio" id="googleRadio" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st')" /> € 600.00 </label> </td>
     <td>€ 700.00 <label><input type="radio" action="https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st" onclick="window.location.href=this.action;"  />Register</label> </td>
   </tr>
   <tr>
@@ -75,6 +75,7 @@ layout: importantdates
   </table>
 
 </p>
+<p><button onclick="redirectToSelected()">Register</button></p>
 <p><b>Please note: Each full or short paper must have a unique registered presenter. This policy applies also to PhD Retreat.</b></p>
 
 <p><b>Payment</b></p>
