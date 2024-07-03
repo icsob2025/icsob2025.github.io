@@ -27,6 +27,25 @@ layout: importantdates
 }
 </style>
 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirect Example</title>
+  <script>
+    let redirectUrl = '';
+
+    function setRedirectUrl(url) {
+      redirectUrl = url;
+    }
+
+    function redirectToSelected() {
+      if (redirectUrl !== '') {
+        window.location.href = redirectUrl;
+      } else {
+        alert('Please select a radio button first.');
+      }
+    }
+  </script>
+
 <div class="col-lg8 mx-auto">
     <h1 class="display-4" style="text-align: left;">
         Registration
