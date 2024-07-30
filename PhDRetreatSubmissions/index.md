@@ -2,24 +2,7 @@
 layout: importantdates
 ---
 
-<script>
-    function saveFile(url) {
-    var filename = url.substring(url.lastIndexOf("/") + 1).split("?")[0];
-    var xhr = new XMLHttpRequest();
-    xhr.responseType = 'blob';
-    xhr.onload = function() {
-        var a = document.createElement('a');
-        a.href = window.URL.createObjectURL(xhr.response); // xhr.response is a blob
-        a.download = filename; // Set the file name.
-        a.style.display = 'none';
-        document.body.appendChild(a);
-        a.click();
-        delete a;
-    };
-    xhr.open('GET', url);
-    xhr.send();
-    }
-</script>
+
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat – Call for Submissions </b>
 
 The ICSOB 2024 PhD Retreat is an exciting one-day event. The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
