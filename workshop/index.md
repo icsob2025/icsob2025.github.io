@@ -29,6 +29,7 @@ The AiSIS workshop will create an active forum for researchers and practitioners
 </p>
 The workshop is planned for one day. It will start with two invited inspirational talks on software startups. Then the workshop organisers will present the book project to which all participants are invited to contribute. The rest of the day will be dedicated to interactive sessions in which the participants will work in small groups to brainstorm on the book chapters they can collaborate on. The workshop will be wrapped up with a plan for continuing collaboration among the participants after the workshop. A Slack workspace will be created for the participants to interact during and after the workshop and share the documents and other resources. If the project goes smoothly, the book will be ready to be presented at the 3rd AiSIS at ICSOB 2025.
 
+
 To maximise participation in the workshop and the book project, the workshop will be organised in a hybrid mode and open to online participation. 
 
 
