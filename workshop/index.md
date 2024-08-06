@@ -6,7 +6,9 @@ layout: importantdates
 	Workshop
 </h1>
 
-<b> 2nd International Workshop on Advances in Software Intensive Startups (AiSIS) </b>
+<h1 class="display-10" style="text-align: left;"> 
+	2nd International Workshop on Advances in Software Intensive Startups (AiSIS) 
+</h1>
 
 Software startups research has been established over the past decade, and the body of knowledge accumulated enabled researchers and various startup ecosystem players to better understand and support software startups and entrepreneurs. However, the landscape of software startups is extremely dynamic, unpredictable and even chaotic. The recent substantial developments in artificial intelligence (AI) technologies such as machine learning, deep learning, natural language processing, and generative AI,  as well as other technological and societal advances, such as quantum computing and sustainability goals, brought forward both new opportunities and challenges to startups with software intensive products or services which are yet to be fully explored and properly handled. 
  
