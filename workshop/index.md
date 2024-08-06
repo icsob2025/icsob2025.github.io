@@ -6,7 +6,7 @@ layout: importantdates
 	Workshop
 </h1>
 
-<h2 class="display-10" style="text-align: left;"> 
+<h2 style="text-align: left;"> 
 	2nd International Workshop on Advances in Software Intensive Startups (AiSIS) 
 </h2>
 
