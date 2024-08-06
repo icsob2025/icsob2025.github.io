@@ -3,10 +3,9 @@ layout: importantdates
 ---
 
 
-<div class="col-lg8 mx-auto">
-    <h1 class="display-4" style="text-align: left;">
-        Keynotes
-    </h1>
+<h1 class="display-4" style="text-align: center;">
+	Keynotes
+</h1>
 
     <h1 class="display-10" style="text-align: left;">
         Ethics In Practice: How It Influences The Software We Build
