@@ -34,7 +34,9 @@ To maximise participation in the workshop and the book project, the workshop wil
 
 <p><b>Workshop Organisers</b></p>
 
-Henry Edison, Blekinge Institute of Technology, Sweden
-Nirnaya Tripathi, University of Oulu, Finland
-Xiaofeng Wang, Free University of Bolzano, Italy
+Henry Edison, <a href= "mailto:henry.edison@bth.se" target="_blank">henry.edison@bth.se</a>, Blekinge Institute of Technology, Sweden
+
+Nirnaya Tripathi, <a href= "mailto:nirnaya.tripathi@oulu.fi" target="_blank">nirnaya.tripathi@oulu.fi</a>, University of Oulu, Finland
+
+Xiaofeng Wang, <a href= "mailto:xiaofeng.wang@unibz.it" target="_blank">xiaofeng.wang@unibz.it</a>, Free University of Bolzano, Italy
 
