@@ -61,7 +61,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Efi Papatheocharous</h3>
             <br>
-            RISE SICS, Sweden
+            RISE Research Institutes of Sweden, Sweden
         </div>
         </div>
     </div>
