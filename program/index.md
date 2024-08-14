@@ -3,7 +3,7 @@ layout: importantdates
 ---
 
 <h1 class="display-4" style="text-align: center;">
-	Program overview
+	Program Overview
 </h1>
 <b> Day 1: PhD Retreat </b>
 
