@@ -51,7 +51,7 @@ layout: importantdates
     <td>Andrey Maglyas</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
-    <td>Andrey Saltan</td>    <td>LUT University</td>
+    <td>Andrey Saltan</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Anh Nguyen Duc</td>    <td>University college of Southeast Norway</td>
@@ -60,7 +60,7 @@ layout: importantdates
     <td>Anton Wijs</td>    <td>Eindhoven University of Technology</td>
   </tr>
   <tr>
-    <td>Antti Knutas</td>    <td>LUT University</td>
+    <td>Antti Knutas</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Arnd Hartmanns</td>    <td>University of Twente</td>
@@ -117,7 +117,7 @@ layout: importantdates
     <td>Emitzá Guzmán</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
-    <td>Erno Vanhala</td>    <td>LUT University</td>
+    <td>Erno Vanhala</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Fabian Fagerholm</td>    <td>Aalto University</td>
@@ -168,7 +168,7 @@ layout: importantdates
     <td>Jens Knodel</td>    <td>Caruso GmbH</td>
   </tr>
   <tr>
-    <td>Jesper Andersson</td>    <td>Linnaeus university</td>
+    <td>Jesper Andersson</td>    <td>Linnaeus University</td>
   </tr>
   <tr>
     <td>João M. Fernandes</td>    <td>University of Minho</td>
@@ -201,7 +201,7 @@ layout: importantdates
     <td>Jurriaan Hage</td>    <td>Utrecht University</td>
   </tr>
   <tr>
-    <td>Jussi Kasurinen</td>    <td>LUT University</td>
+    <td>Jussi Kasurinen</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Kai Kristian Kemell</td>    <td>University of Helsinki</td>
@@ -231,7 +231,7 @@ layout: importantdates
     <td>Luiz Olavo Bonino da Silva Santos</td>    <td>University of Twente</td>
   </tr>
   <tr>
-    <td>Maria Paasivaara</td>    <td>LUT University</td>
+    <td>Maria Paasivaara</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Marko Seppänen</td>    <td>Tampere University</td>
@@ -255,7 +255,7 @@ layout: importantdates
     <td>Minna Rantanen</td>    <td>University of Turku</td>
   </tr>
   <tr>
-    <td>Muhammad Azeem Akbar</td>    <td>LUT University</td>
+    <td>Muhammad Azeem Akbar</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Niko Mäkitalo</td>    <td>University of Jyväskylä</td>
@@ -264,7 +264,7 @@ layout: importantdates
     <td>Nirnaya Tripathi</td>    <td>University of Oulu</td>
   </tr>
   <tr>
-    <td>Pablo Oliveira Antonino</td>    <td>Fraunhofer</td>
+    <td>Pablo Oliveira Antonino</td>    <td>Fraunhofer IESE</td>
   </tr>
   <tr>
     <td>Pasi Tyrväinen</td>    <td>University of Jyväskylä</td>
@@ -291,7 +291,7 @@ layout: importantdates
     <td>Rena Bakhshi</td>    <td>Netherlands eScience Center</td>
   </tr>
   <tr>
-    <td>Richard Berntsson Svensson</td>    <td>Chalmers | University of Gothenburg</td>
+    <td>Richard Berntsson Svensson</td>    <td>Chalmers and University of Gothenburg</td>
   </tr>
   <tr>
     <td>Rini Van Solingen</td>    <td>Delft University of Technology</td>
@@ -303,7 +303,7 @@ layout: importantdates
     <td>Sajid Hashmi</td>    <td>M3S, University of Oulu</td>
   </tr>
   <tr>
-    <td>Sami Hyrynsalmi</td>    <td>LUT University</td>
+    <td>Sami Hyrynsalmi</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Samuel A. Fricker</td>    <td>FHNW</td>
@@ -318,7 +318,7 @@ layout: importantdates
     <td>Slinger Jansen</td>    <td>Utrecht University</td>
   </tr>
   <tr>
-    <td>Sonja Hyrynsalmi</td>    <td>LUT University</td>
+    <td>Sonja Hyrynsalmi</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Stanislav Chren</td>    <td>Aalto University</td>
