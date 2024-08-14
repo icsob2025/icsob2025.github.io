@@ -78,7 +78,7 @@ layout: importantdates
     <td>Bilal Al Ahmad</td>    <td>The University of Jordan/Aqaba</td>
   </tr>
   <tr>
-    <td>Carolin Brandt</td>    <td>Delft University of Technology and Software Engineering Research Group</td>
+    <td>Carolin Brandt</td>    <td>Delft University of Technology</td>
   </tr>
   <tr>
     <td>Casper Lassenius</td>    <td>Aalto University</td>
@@ -132,7 +132,7 @@ layout: importantdates
     <td>Francesca Lonetti</td>    <td>CNR-ISTI</td>
   </tr>
   <tr>
-    <td>Georg Herzwurm</td>    <td>University of Stuttgart, Institute of Business Administration, Dept. VIII: Information Systems II</td>
+    <td>Georg Herzwurm</td>    <td>University of Stuttgart</td>
   </tr>
   <tr>
     <td>George Valença</td>    <td>Universidade Federal Rural de Pernambuco (UFRPE)</td>
@@ -156,7 +156,7 @@ layout: importantdates
     <td>Helena Holmström Olsson</td>    <td>University of Malmo</td>
   </tr>
   <tr>
-    <td>Hongxiu Li</td>    <td>Information Systmes Science Institute, Turku School of Economics, Finland</td>
+    <td>Hongxiu Li</td>    <td>Tampere University</td>
   </tr>
   <tr>
     <td>Jacob Krüger</td>    <td>Eindhoven University of Technology</td>
