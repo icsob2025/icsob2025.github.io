@@ -1,3 +1,7 @@
+---
+layout: importantdates
+---
+
 <style>
 #customers {
   font-family: Arial, Helvetica, sans-serif;
@@ -23,9 +27,6 @@
 }
 </style>
 
----
-layout: importantdates
----
 
 
 <h2 style="text-align: left;"> 
