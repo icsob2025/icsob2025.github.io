@@ -34,6 +34,16 @@ layout: importantdates
   
 <p>
 <table id="customers">
+  <tr>
+    <th>Alexander Bakhtin</th>    <th>University of Oulu</th>
+  </tr>
+  <tr>
+    <th>Alfons Laarman</th>    <th>Leiden University</th>
+  </tr>
+  <tr>
+    <th>Ana Maria Oprescu</th>    <th>University of Amsterdam and VU Amsterdam</th>
+  </tr>
+
 
   <tr>
     <td> </td>
