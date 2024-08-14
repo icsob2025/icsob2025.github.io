@@ -84,7 +84,7 @@ A short paper that describes the PhD student’s thesis. The short paper should 
 To address the items above, we suggest the following structure: Problem Definition, Knowledge Gap, Research Method, Timeline, Preliminary Results (if any), and Expected Contributions. All submissions must be written in English.
 
 <br>
-Students interested in participating in the PhD Retreat must submit a short paper (5-9 pages) using the CEUR-ART one-column template, which is available here: <a href="/PhDRetreatSubmissions/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip></a>(LaTeX) or <a href="/PhDRetreatSubmissions/CEUR-Template-1col.docx">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx></a>(Word). The accepted PhD Retreat submissions will be offered for publication by CEUR-WS.org (open access) in the ICSOB 2024 Companion Proceedings.
+Students interested in participating in the PhD Retreat must submit a short paper (5-9 pages) using the CEUR-ART one-column template, which is available here: <a href="/PhDRetreatSubmissions/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip</a>(LaTeX) or <a href="/PhDRetreatSubmissions/CEUR-Template-1col.docx">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a>(Word). The accepted PhD Retreat submissions will be offered for publication by CEUR-WS.org (open access) in the ICSOB 2024 Companion Proceedings.
 
 <hr>
 <b style="font-size: 18px" id="Reviewprocesss">Review Process</b><br>
