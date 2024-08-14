@@ -96,7 +96,7 @@ layout: importantdates
     <td>Dipti Sarmah</td>    <td>University of Twente</td>
   </tr>
   <tr>
-    <td>Edona Elshan</td>    <td>Vrij Universiteit Amsterdam</td>
+    <td>Edona Elshan</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
     <td>Eduardo Guerra</td>    <td>Free University of Bolzen-Bolzano</td>
@@ -114,7 +114,7 @@ layout: importantdates
     <td>Emil Numminen</td>    <td>Blekinge Institute of Technology</td>
   </tr>
   <tr>
-    <td>Emitzá Guzmán</td>    <td>VU Amsterdam</td>
+    <td>Emitzá Guzmán</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
     <td>Erno Vanhala</td>    <td>LUT University</td>
@@ -123,7 +123,7 @@ layout: importantdates
     <td>Fabian Fagerholm</td>    <td>Aalto University</td>
   </tr>
   <tr>
-    <td>Fernanda Madeiral</td>    <td>Vrij Universiteit Amsterdam</td>
+    <td>Fernanda Madeiral</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
     <td>Fernando Castor</td>    <td>University of Twente</td>
@@ -222,7 +222,7 @@ layout: importantdates
     <td>Krzysztof Wnuk</td>    <td>Blekinge Institute of Technology</td>
   </tr>
   <tr>
-    <td>Luciana Zaina</td>    <td>UFSCar</td>
+    <td>Luciana Zaina</td>    <td>Federal University of São Carlos</td>
   </tr>
   <tr>
     <td>Luís Ferreira Pires</td>    <td>University of Twente</td>
@@ -270,7 +270,7 @@ layout: importantdates
     <td>Pasi Tyrväinen</td>    <td>University of Jyväskylä</td>
   </tr>
   <tr>
-    <td>Patricia Lago</td>    <td>Vrij Universiteit Amsterdam</td>
+    <td>Patricia Lago</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
     <td>Pertti Seppänen</td>    <td>University of Oulu</td>
