@@ -27,11 +27,12 @@ layout: importantdates
 }
 </style>
 
+<div class="col-lg8 mx-auto">
+    <h1 class="display-4" style="text-align: left;">
+        Program Committee
+    </h1>
 
 
-<h2 style="text-align: left;"> 
-	Program Committee
-</h2>
 
 <table id="customers">
   <tr>
