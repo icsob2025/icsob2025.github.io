@@ -66,7 +66,7 @@ layout: importantdates
     <td>Arnd Hartmanns</td>    <td>University of Twente</td>
   </tr>
   <tr>
-    <td>Barbara Steffen</td>    <td>University of Potsdam</td>
+    <td>Barbara Steffen</td>    <td>TU Dortmund University</td>
   </tr>
   <tr>
     <td>Bedir Tekinerdogan</td>    <td>Wageningen University & Research</td>
