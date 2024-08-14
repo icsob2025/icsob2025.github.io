@@ -35,44 +35,52 @@ layout: importantdates
 <p>
 <table id="customers">
   <tr>
-    <th>Name</th>    <th>Affiliation</th>
+    <th>Name</th>
+    <th>Affiliation</th>
   </tr>
   <tr>
-    <th>Alexander Bakhtin</th>    <th>University of Oulu</th>
+    <td>Alexander Bakhtin</td>    <td>University of Oulu</td>
   </tr>
   <tr>
-    <th>Alfons Laarman</th>    <th>Leiden University</th>
+    <td>Alfons Laarman</td>    <td>Leiden University</td>
   </tr>
   <tr>
-    <th>Ana Maria Oprescu</th>    <th>University of Amsterdam and VU Amsterdam</th>
-  </tr>
-    <tr>
-    <td>Anh Nguyen Duc</th>    <th>University college of Southeast Norway</th>
+    <td>Ana Maria Sutii</td>    <td>Eindhoven University of Technology</td>
   </tr>
   <tr>
-    <td>Anton Wijs</th>    <th>Eindhoven University of Technology</th>
+    <td>Andrey Maglyas</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
-    <td>Antti Knutas</th>    <th>LUT University</th>
+    <td>Andrey Saltan</td>    <td>LUT University</td>
   </tr>
   <tr>
-    <td>Arnd Hartmanns</th>    <th>University of Twente</th>
+    <td>Anh Nguyen Duc</td>    <td>University college of Soutdeast Norway</td>
   </tr>
   <tr>
-    <td>Barbara Steffen</th>    <th>TU Dortmund</th>
+    <td>Anton Wijs</td>    <td>Eindhoven University of Technology</td>
   </tr>
   <tr>
-    <td>Bedir Tekinerdogan</th>    <th>Wageningen University & Research</th>
+    <td>Antti Knutas</td>    <td>LUT University</td>
   </tr>
   <tr>
-    <td>Bernard van Gastel</th>    <th>Radboud University</th>
+    <td>Arnd Hartmanns</td>    <td>University of Twente</td>
   </tr>
   <tr>
-    <td>Bilal Al Ahmad</th>    <th>The University of Jordan/Aqaba</th>
+    <td>Barbara Steffen</td>    <td>TU Dortmund</td>
   </tr>
   <tr>
-    <td>Carolin Brandt</th>    <th>Delft University of Technology and Software Engineering Research Group</th>
+    <td>Bedir Tekinerdogan</td>    <td>Wageningen University & Research</td>
   </tr>
+  <tr>
+    <td>Bernard van Gastel</td>    <td>Radboud University</td>
+  </tr>
+  <tr>
+    <td>Bilal Al Ahmad</td>    <td>tde University of Jordan/Aqaba</td>
+  </tr>
+  <tr>
+    <td>Carolin Brandt</td>    <td>Delft University of Technology and Software Engineering Research Group</td>
+  </tr>
+
 
   <tr>
     <td> </td>
