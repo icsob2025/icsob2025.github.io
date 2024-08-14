@@ -54,7 +54,7 @@ layout: importantdates
     <td>Andrey Saltan</td>    <td>LUT University</td>
   </tr>
   <tr>
-    <td>Anh Nguyen Duc</td>    <td>University college of Soutdeast Norway</td>
+    <td>Anh Nguyen Duc</td>    <td>University college of Southeast Norway</td>
   </tr>
   <tr>
     <td>Anton Wijs</td>    <td>Eindhoven University of Technology</td>
@@ -75,7 +75,7 @@ layout: importantdates
     <td>Bernard van Gastel</td>    <td>Radboud University</td>
   </tr>
   <tr>
-    <td>Bilal Al Ahmad</td>    <td>tde University of Jordan/Aqaba</td>
+    <td>Bilal Al Ahmad</td>    <td>The University of Jordan/Aqaba</td>
   </tr>
   <tr>
     <td>Carolin Brandt</td>    <td>Delft University of Technology and Software Engineering Research Group</td>
