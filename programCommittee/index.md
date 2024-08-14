@@ -34,63 +34,7 @@ layout: importantdates
 
 
 
-<table id="customers">
-  <tr>
-    <th>Name</th>
-    <th>Affiliation</th>
-  
-  </tr>
-  <tr>
-    <td>Alexander Bakhtin</td>
-    <td>University of Oulu</td>
-    
-  </tr>
-  <tr>
-    <td>Alfons Laarman</td>
-    <td>Leiden University</td>
-    
-  </tr>
-  <tr>
-    <td>Ana Maria Oprescu</td>
-    <td>University of Amsterdam and VU Amsterdam</td>
-    
-  </tr>
-  <tr>
-    <td>Ana Maria Sutii</td>
-    <td>Eindhoven University of Technology</td>
-    <
-  </tr>
-  <tr>
-    <td>Andrey Maglyas</td>
-    <td>Lappeenranta University of Technology</td>
-    
-  </tr>
-  <tr>
-    <td>Andrey Saltan</td>
-    <td>LUT University</td>
-    
-  </tr>
-  <tr>
-    <td>Anh Nguyen Duc</td>
-    <td>University college of Southeast Norway</td>
-    
-  </tr>
-  <tr>
-    <td> </td>
-    <td> </td>
-    
-  </tr>
-  <tr>
-    <td> </td>
-    <td> </td>
-    
-  </tr>
-  <tr>
-    <td> </td>
-    <td> </td>
-    
-  </tr>
-</table>
+
 
 
 
