@@ -36,7 +36,7 @@ To maximise participation in the workshop and the book project, the workshop wil
 
 <p><b>Time and Place</b></p>
 
-Tuinzaal (<a href="/location/index.md">Sinkel's Shop Oudegracht 158, 3511 AZ Utrecht></a>), November 18, 2024
+Tuinzaal (<a href="/location/">Sinkel's Shop Oudegracht 158, 3511 AZ Utrecht></a>), November 18, 2024
 
 
 <p><b>Workshop Organisers</b></p>
