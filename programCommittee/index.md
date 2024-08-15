@@ -28,11 +28,10 @@ layout: importantdates
 </style>
 
 <div class="col-lg8 mx-auto">
-    <h1 class="display-4" style="text-align: left;">
-        Program Committee Research Track
+    <h2 class="display-4" style="text-align: left;">
                <span style="color:black; font-weight:bold"> Program Committee </span> 
                <span style="color:grey; font-weight:bold"> Research Track </span> 
-    </h1>
+    </h2>
   
 <p>
 <table id="customers">
