@@ -55,7 +55,7 @@ layout: importantdates
     <td>Andrey Saltan</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
-    <td>Anh Nguyen Duc</td>    <td>University college of Southeast Norway</td>
+    <td>Anh Nguyen Duc</td>    <td>University of South Eastern Norway</td>
   </tr>
   <tr>
     <td>Anton Wijs</td>    <td>Eindhoven University of Technology</td>
@@ -70,7 +70,7 @@ layout: importantdates
     <td>Barbara Steffen</td>    <td>TU Dortmund University</td>
   </tr>
   <tr>
-    <td>Bedir Tekinerdogan</td>    <td>Wageningen University & Research</td>
+    <td>Bedir Tekinerdogan</td>    <td>Wageningen University</td>
   </tr>
   <tr>
     <td>Bernard van Gastel</td>    <td>Radboud University</td>
@@ -328,7 +328,7 @@ layout: importantdates
     <td>Tero Päivärinta</td>    <td>Luleå University of Technology</td>
   </tr>
   <tr>
-    <td>Tiziana Margaria</td>    <td>Lero</td>
+    <td>Tiziana Margaria</td>    <td>University of Limerick</td>
   </tr>
   <tr>
     <td>Tommi Mikkonen</td>    <td>University of Jyväskylä</td>
