@@ -29,8 +29,8 @@ layout: importantdates
 
 <div class="col-lg8 mx-auto">
     <h2 class="display-4" style="text-align: left;">
-               <span font-weight:normal"> Program Committee </span> 
-               <span style="color:grey; font-weight:60%"> Research Track </span> 
+               <span style="font-weight:normal"> Program Committee </span> 
+               <span style="color:grey; font-weight:25px"> Research Track </span> 
     </h2>
   
 <p>
