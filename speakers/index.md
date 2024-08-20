@@ -10,9 +10,8 @@ layout: importantdates
 <div style="display: flex; align-items: center;">
     <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200" style="margin-right: 20px;">  
     <div>
-        <h2>Ethics In Practice: How It Influences the Software We Build</h2>
-	    <h2></h2>
-	    <h2></h2>
+        <h3>Ethics In Practice: How It Influences the Software We Build</h3>
+	<br>
         <h2>Michiel Overeem</h2>
     </div>
 </div>
@@ -30,9 +29,8 @@ layout: importantdates
 <div style="display: flex; align-items: center;">
     <img src="/assets/images/Magne.PNG" alt="" width="200" height="200" style="margin-right: 20px;">  
     <div>
-        <h2>Successful Cost-Benefit Management of Agile Software Development Projects</h2>
-	    <h2></h2>
-	    <h2></h2>
+        <h3>Successful Cost-Benefit Management of Agile Software Development Projects</h3>
+	<br>
         <h2>Magne Jørgensen</h2>
     </div>
 </div>
