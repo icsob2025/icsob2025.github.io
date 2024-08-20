@@ -9,9 +9,9 @@ layout: organisation
 </h1>
 
 <div>
-        <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200" style="float:left;"/>
-	<span style="float:right;>Michiel Overeem/span>
-	<span style="float:right;>Ethics In Practice: How It Influences the Software We Build</span>	
+        <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200" style="float:left;">
+	<span style="float:right;">Michiel Overeem/span>
+	<span style="float:right;">Ethics In Practice: How It Influences the Software We Build</span>	
        
 
 </div>        
