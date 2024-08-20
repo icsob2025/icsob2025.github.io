@@ -97,6 +97,9 @@ layout: importantdates
     <td>Dipti Sarmah</td>    <td>University of Twente</td>
   </tr>
   <tr>
+    <td>Dron Khanna</td>    <td>Free university of Bozen-Bolzano</td>
+  </tr>
+  <tr>
     <td>Edona Elshan</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
