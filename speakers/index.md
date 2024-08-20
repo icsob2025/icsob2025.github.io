@@ -1,49 +1,25 @@
 ---
 layout: organisation
 ---
-.colz1 {
-  width:40%;
- 	display: flex;
-	flex-flow: row wrap;
-}
-.colz2 {
-  width:60%;
-  
-	
-}
-/* STRUCTURE */
 
-.wrapperz {
-	
-	max-width: 1100px;
-	width: 100%;
-	
-}
-
-.columnsz {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: center;
-	
-  border:solid #0f1113;
-  
-}
 
 <h1 class="display-4" style="text-align: center;">
 	Keynotes
 </h1>
 
-<div class="wrapperz">	
-<section class="columnsz">
-	
-	<div class="colz1">
-		<img src="/assets/images/Michiel.PNG" alt="" width="200" height="200">
-	
-	</div>
-	
-	<div class="colz2">
- 	<p>Ethics In Practice: How It Influences the Software We Build</p>
-  </div>
+    <div style="display: flex;">
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Michiel Overeem</h3>
+            <br>
+            Ethics In Practice: How It Influences the Software We Build
+        </div>
+    </div>
+    </div>
 <p> <b>Abstract</b>: Business software plays a pivotal role in driving the growth and operations of many successful companies. When confronted with changes in the behaviour or failures of this software, the very survival of a company may be at stake. This gives software suppliers great responsibility and power. This keynote explores how companies, such as AFAS, can actively incorporate ethical considerations into their software and the service they provide as part of their commitment to creating dependable, effective solutions. Drawing from experiences in product management, artificial intelligence, and licensing, we demonstrate not only how adhering to ethical practices strengthens corporate responsibility, but also contributes to a thriving and sustainable company. </p>
 
 
