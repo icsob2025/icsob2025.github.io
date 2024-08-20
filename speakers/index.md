@@ -7,20 +7,18 @@ layout: importantdates
 	Keynotes
 </h1>
 
- <div style="display: flex;">
-     <div style="flex: 70%; padding: 140px;">
-	<h2 style="text-align: left;">
-        Ethics In Practice: How It Influences the Software We Build
-	</h2>
-    	<br>
-	     <h2 style="text-align: left;">
-	     Michiel Overeem
-	 	</h2>
-	<div style="margin-top: 5px;">
-	<p class="lead">
+    <div style="display: flex;">
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200">
-      </p>
+        <img src="/assets/images/Michiel.PNG" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Michiel Overeem</h3>
+	    <br>
+     		Ethics In Practice: How It Influences the Software We Build
+
         </div>
     </div>
 <p> <b>Abstract</b>: Business software plays a pivotal role in driving the growth and operations of many successful companies. When confronted with changes in the behaviour or failures of this software, the very survival of a company may be at stake. This gives software suppliers great responsibility and power. This keynote explores how companies, such as AFAS, can actively incorporate ethical considerations into their software and the service they provide as part of their commitment to creating dependable, effective solutions. Drawing from experiences in product management, artificial intelligence, and licensing, we demonstrate not only how adhering to ethical practices strengthens corporate responsibility, but also contributes to a thriving and sustainable company. </p>
