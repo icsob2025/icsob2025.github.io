@@ -6,12 +6,13 @@ layout: importantdates
 <h1 class="display-4" style="text-align: center;">
 	Keynotes
 </h1>
+<h2 style="text-align: left;">
+    Ethics In Practice: How It Influences the Software We Build
+</h2>
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200" style="margin-right: 20px;">  
     <div>
-        <h2>Ethics In Practice: How It Influences the Software We Build</h2>
-	<br>
         <h3>Michiel Overeem</h3>
     </div>
 </div>
@@ -25,12 +26,13 @@ layout: importantdates
 
 <hr>
 
+<h2 style="text-align: left;">
+        Successful Cost-Benefit Management of Agile Software Development Projects
+</h2>
 
 <div style="display: flex; align-items: center;">
     <img src="/assets/images/Magne.PNG" alt="" width="200" height="200" style="margin-right: 20px;">  
     <div>
-        <h2>Successful Cost-Benefit Management of Agile Software Development Projects</h2>
-	<br>
         <h3>Magne Jørgensen</h3>
     </div>
 </div>
