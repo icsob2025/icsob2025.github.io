@@ -8,9 +8,9 @@ layout: organisation
 	Keynotes
 </h1>
 
-	<h2 style="text-align: left;">
-        Ethics In Practice: How It Influences the Software We Build
-	</h2>
+<h2 style="text-align: left;">
+    Ethics In Practice: How It Influences the Software We Build
+</h2>
 
 <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200">      
 
