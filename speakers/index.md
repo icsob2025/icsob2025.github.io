@@ -1,7 +1,33 @@
 ---
-layout: importantdates
+layout: organisation
 ---
+.colz1 {
+  width:40%;
+ 	display: flex;
+	flex-flow: row wrap;
+}
+.colz2 {
+  width:60%;
+  
+	
+}
+/* STRUCTURE */
 
+.wrapperz {
+	
+	max-width: 1100px;
+	width: 100%;
+	
+}
+
+.columnsz {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	
+  border:solid #0f1113;
+  
+}
 
 <h1 class="display-4" style="text-align: center;">
 	Keynotes
