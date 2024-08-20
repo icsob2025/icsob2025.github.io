@@ -8,14 +8,13 @@ layout: organisation
 	Keynotes
 </h1>
 
-<div>
-    <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200">  
-	<div>
-		<h2>Ethics In Practice: How It Influences the Software We Build</h2>
-		<h2>Michiel Overeem</h2>
-	</div>
+<div style="display: flex; align-items: center;">
+    <img src="/assets/images/Michiel.PNG" alt="" width="200" height="200" style="margin-right: 20px;">  
+    <div>
+        <h2>Ethics In Practice: How It Influences the Software We Build</h2>
+        <h2>Michiel Overeem</h2>
+    </div>
 </div>
-
 
 
 
