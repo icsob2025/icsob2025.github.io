@@ -40,7 +40,7 @@ The Conference holds societal impact and international importance as it tackles 
     <p class="lead">
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
-    <li>Abstract Submission Deadline: August 19, 2024 (AoE) </li>
+    <li><s>Abstract Submission Deadline: August 19, 2024 (AoE)</s> </li>
     <li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
