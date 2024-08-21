@@ -70,8 +70,8 @@ Each paper will be reviewed by at least three reviewers. Accepted papers will be
 <p class="lead">
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
-  <li><s>Abstract Submission Deadline: August 19, 2024 (AoE) </s>s></li>
-    <li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
+  <li><s>Abstract Submission Deadline: August 19, 2024 (AoE) </s></li>
+    <li><font color="red">Full Paper Submission Deadline: September 9, 2024 (AoE) (extended)</font></li>
     <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
