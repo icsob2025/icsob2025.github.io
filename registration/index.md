@@ -87,7 +87,7 @@ layout: importantdates
       <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st')" /> € 600.00 </label> </td>
     <td> <label>
       <input type="radio" name="redirectOption" disabled > € 700.00 </label> </td>
-      <!--><input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st')" /> € 700.00 </label> </td><!-->
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st')" /> € 700.00 </label> </td>
 
   </tr>
   <tr>
