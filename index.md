@@ -52,7 +52,7 @@ The Conference holds societal impact and international importance as it tackles 
     <ul style="list-style: none;">
     <li>Submission Deadline: October 21, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 28, 2024</li>
-    <li>Camera-ready Papers Due: December 9, 2024</li>
+    <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
 
