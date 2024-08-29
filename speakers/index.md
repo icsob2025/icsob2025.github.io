@@ -46,3 +46,28 @@ The primary criterion for success in software development is that it enables the
 Magne Jørgensen is a professor at Simula Metropolitan and Oslo Metropolitan University and a guest professor at Kathmandu University. He has extensive industry experience as a consultant and manager and currently serves on the Norwegian digitalization board, where he advises governmental software projects and is the manager of the governmentally funded research center “Efficient Software Development in the Public Sector”. He has written about 200 research articles on project management, evidence-based software engineering, cost estimation, research methods, and human judgment.
 
 </p>
+
+
+<hr>
+
+<h2 style="text-align: left;">
+        Workarounds are Everywhere! We’d Better Use Them.
+</h2>
+
+<div style="display: flex; align-items: center;">
+    <img src="/assets/images/Weerd.PNG" alt="" width="200" height="200" style="margin-right: 20px;">  
+    <div>
+        <h3>Inge van de Weerd</h3>
+    </div>
+</div>
+
+<p> <b>Abstract</b>:
+Workarounds emerge when users adapt technology to their specific needs, often by intentionally using software in unintended ways or by creating alternative methods to accomplish their tasks. Workarounds are widespread across organizations in various sectors. In this keynote, we will explore the valuable insights that workarounds offer, particularly as they highlight mismatches between software, the processes it supports, and the users who interact with it. This keynote will introduce innovative approaches for the automatic detection of workarounds and provide an overview of the keynotes’ latest empirical research. We will illustrate how process mining techniques can be utilized to study the emergence, evolution, and diffusion of workarounds within organizations, offering a powerful tool for understanding and enhancing both processes and software. Additionally, we will demonstrate how process mining techniques have been applied to reveal the significant impact that new software implementations or updates to existing software can have on the dynamics of workarounds.
+
+</p>
+
+<p><b>Bio</b>: 
+Dr. Inge van de Weerd is an Associate Professor in the Process Science group at the Department of Information and Computing Sciences, Utrecht University. Prior to her current role, she held academic positions at the Vrije Universiteit Amsterdam (2012-2018) and Utrecht University (2009-2011). Dr. van de Weerd earned her PhD from Utrecht University in 2009 and spent the spring and summer of 2008 as a visiting researcher at the Tokyo Institute of Technology. Her research expertise lies at the intersection of IT and organizational processes, with a particular focus on process mining, workarounds, process drift, and robotic process automation. Dr. van de Weerd has authored over 100 publications, with her work appearing in leading conference proceedings such as BPM, Process Mining, ECIS, and ICIS, as well as in prestigious journals including Business & Information Systems Engineering, Computers in Industry, and Information & Management.
+
+</p>
+
