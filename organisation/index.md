@@ -252,6 +252,25 @@ layout: organisation
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+ <h1 class="display-5">
+            Awards Chair
+        </h1>
+    <div style="display: flex;">
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/Dominik.PNG" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Dominik Siemon</h3>
+            <br>
+            Lappeenranta–Lahti University of Technology, Finland
+        </div>
+    </div>
+    </div>
+              <hr class="my-4">
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <h1 class="display-5">
             Organization and Administration Registration Chair
         </h1>
