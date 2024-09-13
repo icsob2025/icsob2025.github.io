@@ -310,7 +310,7 @@ layout: importantdates
     <td>Sami Hyrynsalmi</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
-    <td>Samuel A. Fricker</td>    <td>FHNW</td>
+    <td>Samuel A. Fricker</td>    <td>University of Applied Sciences Northwestern Switzerland (FHNW), Switzerland, and cyberGEIGER GmbH, Germany</td>
   </tr>
   <tr>
     <td>Siamak Farshidi</td>    <td>University of Amsterdam</td>
