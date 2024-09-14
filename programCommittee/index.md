@@ -304,7 +304,7 @@ layout: importantdates
     <td>Rodrigo Santos</td>    <td>UNIRIO</td>
   </tr>
   <tr>
-    <td>Sajid Hashmi</td>    <td>M3S, University of Oulu</td>
+    <td>Sajid Ibrahim Hashmi</td>    <td>M3S, University of Oulu</td>
   </tr>
   <tr>
     <td>Sami Hyrynsalmi</td>    <td>Lappeenranta University of Technology</td>
