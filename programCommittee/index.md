@@ -313,7 +313,7 @@ layout: importantdates
     <td>Samuel A. Fricker</td>    <td>University of Applied Sciences Northwestern Switzerland (FHNW), Switzerland, <br> and cyberGEIGER GmbH, Germany</td>
   </tr>
   <tr>
-    <td>Siamak Farshidi</td>    <td>University of Amsterdam</td>
+    <td>Siamak Farshidi</td>    <td>Wageningen University & Research</td>
   </tr>
   <tr>
     <td>Simone Vasconcelos Silva</td>    <td>IF Fluminense</td>
