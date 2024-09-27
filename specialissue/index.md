@@ -47,7 +47,7 @@ This special issue provides a unique opportunity for researchers and practitione
 <ul style="list-style: none;">
   
             <li>Antti Knutas, LUT University, Finland </li>
-            <li>Siamak Farshidi, University of Amsterdam, Netherlands</li>
+            <li>Siamak Farshidi, Wageningen University & Research, Netherlands</li>
             <li>GSonja Hyrynsalmi, LUT University, Finland </li>
             <li>Nicolas Jullien, IMT Atlantique, France</li>
             <li>Slinger Jansen, Utrecht University, Netherlands</li>
