@@ -4,7 +4,7 @@ layout: importantdates
 
 <b style="font-size: 22px" id="SpecialIsuse">Call for Papers for a Special Issue on Software and Society: Ethics, Equity, and Sustainability in Software</b>
 
-<b style="font-size: 22px" id="SpecialIsuse">To be published in Information and Software Technology</b>
+<b >To be published in Information and Software Technology</b>
 
 <b>Journal’s special issue information page: (to be available by the first quarter of October ’24)</b>
 
@@ -42,17 +42,7 @@ We also welcome submissions that address current issues in the field, such as di
 
 This special issue provides a unique opportunity for researchers and practitioners at the intersection of sustainability and software to share their insights, experiences, and perspectives on the unique challenges and latest advancements in ethics, equity and sustainability that we face in the field of information and software technology. We look forward to receiving your submissions and to publishing cutting-edge research that will inform the future relationship that our society will have with software technology.
 
-<b> Important Dates: </b>
-
-<ul style="list-style: none;">
-  
-            <li>Paper submission opening: September 30th, 2024</li>
-            <li>Paper submission deadline: February 14th, 2025</li>
-</ul>   
-
-The authors should use the Editorial Manager (EM) site for submitting their articles, available on IST journal page.
-
-During the submission process, please select “VSI: Software and Society” for the "Article Type".
+<b> Guest editors: </b>
 
 <ul style="list-style: none;">
   
@@ -63,6 +53,20 @@ During the submission process, please select “VSI: Software and Society” for
             <li>Slinger Jansen, Utrecht University, Netherlands</li>
   
 </ul>   
+
+<b> Important Dates: </b>
+
+<ul style="list-style: none;">
+  
+            <li>Paper submission opening: September 30th, 2024</li>
+            <li>Paper submission deadline: February 14th, 2025</li>
+</ul>   
+
+The authors should use the Editorial Manager (EM) site for submitting their articles, available on IST journal page.
+
+During the submission process, please select “<b>VSI: Software and Society</b>” for the "Article Type".
+
+
         
                  
 
