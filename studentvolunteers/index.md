@@ -52,12 +52,14 @@ Complete the online application form:
 
 Arrange for a letter of reference from your academic supervisor or another faculty member at your institution, as indicated in the application form. The letter should be submitted via the application form. It should highlight your organizational skills, willingness to assist, proficiency in English, and other qualities that would make you an excellent student volunteer. 
 
-<p><b>Key Dates </b></p>: All deadlines are 23:59 Anywhere on Earth (Standard Time). 
+<p><b>Key Dates </b></p> 
 
 <ul style="list-style: none;">
     <li> Application Submission: October 23, 2024 </li>
     <li> Application Notification: October 30, 2024</li>
 </ul>
+
+All deadlines are 23:59 Anywhere on Earth (Standard Time). 
 
 <p><b>Contact</b></p>
 
