@@ -63,5 +63,5 @@ All deadlines are 23:59 Anywhere on Earth (Standard Time).
 
 <p><b>Contact</b></p>
 
-For any inquiries regarding the student volunteer application, please contact the ICSOB 2024 Student Volunteer Chair Kate Labunets <a href= "mailto:k.labunets@uu.nl" target="_blank">k.labunets@uu.nl</a>.
+For any inquiries regarding the student volunteer application, please contact the ICSOB 2024 Student Volunteer Chair Kate Labunets (<a href= "mailto:k.labunets@uu.nl" target="_blank">k.labunets@uu.nl</a>).
 
