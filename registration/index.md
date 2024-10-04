@@ -94,7 +94,7 @@ layout: importantdates
   <tr>
     <td>Regular, Full conference</td>
     <td> <label>
-      <input type="radio" name="redirectOption" disabled > € 800.00 </label> </td>
+      <input type="radio" name="redirectOption" disabled > € 700.00 </label> </td>
     <!--  <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-1st')" /> € 700.00 </label> </td>-->
     <td> <label>
       
