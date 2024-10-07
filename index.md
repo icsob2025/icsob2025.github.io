@@ -43,6 +43,7 @@ The Conference holds societal impact and international importance as it tackles 
     <li><s>Abstract Submission Deadline: August 19, 2024 (AoE)</s> </li>
     <li><s>Full Paper Submission Deadline: August 26, 2024 (AoE)</s></li>
     <li><s><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended) </span></s></li>
+    <li><s>Notification of Acceptance: October 7, 2024</s></li>
     <li><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
