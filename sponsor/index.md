@@ -9,7 +9,7 @@ layout: importantdates
 <hr>
 
 <div style="display: flex; align-items: center;">
-    <img src="/assets/images/NWO.png" alt="" width="150" height="160" style="margin-right: 20px;">  
+    <img src="/assets/images/NWO.png" alt="" width="150" height="150" style="margin-right: 20px;">  
     <div>
     <p>    The <b>Dutch Research Council (NWO)</b> is the principal funding organization for scientific research in the Netherlands. It plays a crucial role in advancing the quality and impact of Dutch science by providing grants, facilitating international collaborations, and driving innovation across various disciplines. NWO supports fundamental, applied, and practice-oriented research, aiming to foster knowledge that contributes to societal challenges. It funds research through competitive programs and also acts as a liaison between academia, industry, and government, encouraging interdisciplinary research to solve complex global issues. Through its initiatives, NWO promotes scientific excellence and the practical application of research findings, ensuring a lasting impact on the Netherlands’ knowledge economy.</p>
 
@@ -21,7 +21,7 @@ layout: importantdates
 <hr>
 
 <div style="display: flex; align-items: center;">
-    <img src="/assets/images/afas.png" alt="" width="150" height="100" style="margin-right: 20px;">  
+    <img src="/assets/images/afas.png" alt="" width="150" height="150" style="margin-right: 20px;">  
     <div>
     <p> <b>AFAS ERP Software</b> is a comprehensive enterprise resource planning (ERP) solution designed to streamline business processes for organizations of various sizes. Developed by the Dutch company AFAS Software, this system integrates multiple business functions, including finance, human resources, payroll, project management, and customer relationship management (CRM), into a single platform. The software aims to optimize operational efficiency, reduce administrative overhead, and promote data-driven decision-making through automation and real-time analytics. AFAS ERP is known for its user-friendly interface and flexible customization options, making it suitable for diverse industries such as healthcare, education, and retail. By providing an all-in-one solution, AFAS helps companies manage their core processes while focusing on growth and innovation.</p>
 
