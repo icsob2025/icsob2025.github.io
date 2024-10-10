@@ -129,6 +129,9 @@ conference:
       - name: Important Dates
         relative_url: /importantdates/
 
+      - name: Sponsors
+        relative_url: /sponsor/
+
       - name: Organisation
         menu:
           - name: Organising Committee
