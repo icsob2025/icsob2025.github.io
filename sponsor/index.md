@@ -9,7 +9,7 @@ layout: importantdates
 <hr>
 
 <div style="display: flex; align-items: center;">
-    <img src="/assets/images/NWO.png" alt="" width="80" height="100" style="margin-right: 20px;">  
+    <img src="/assets/images/NWO.png" alt="" width="100" height="150" style="margin-right: 20px;">  
     <div>
     <p>    The <b>Dutch Research Council (NWO)</b> is the principal funding organization for scientific research in the Netherlands. It plays a crucial role in advancing the quality and impact of Dutch science by providing grants, facilitating international collaborations, and driving innovation across various disciplines. NWO supports fundamental, applied, and practice-oriented research, aiming to foster knowledge that contributes to societal challenges. It funds research through competitive programs and also acts as a liaison between academia, industry, and government, encouraging interdisciplinary research to solve complex global issues. Through its initiatives, NWO promotes scientific excellence and the practical application of research findings, ensuring a lasting impact on the Netherlands’ knowledge economy.</p>
 
