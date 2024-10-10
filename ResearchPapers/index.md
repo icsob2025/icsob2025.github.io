@@ -40,7 +40,7 @@ Join us in Utrecht for what promises to be an enlightening and engaging event, c
 
 
 <hr>
-<b style="font-size: 18px">Submission Process and Guidelines:</b>:
+<b style="font-size: 18px">Submission Process and Guidelines:</b>
 <ul style="list-style: none;">
             <li>All submissions must be original, unpublished, and not considered elsewhere.
 </li>
