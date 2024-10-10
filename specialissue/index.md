@@ -40,11 +40,13 @@ This special issue provides a unique opportunity for researchers and practitione
 
 <b> Submission Process and Guidelines:</b>
 
-Journal’s paper submission page: <a href="https://www.editorialmanager.com/infsof/default.aspx" target="_blank">https://www.editorialmanager.com/infsof/default.aspx</a>
-Journal’s information for authors: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors</a>
+<ul style="list-style: none;">
+<li>Journal’s paper submission page: <a href="https://www.editorialmanager.com/infsof/default.aspx" target="_blank">https://www.editorialmanager.com/infsof/default.aspx</a></li>
 
-During the submission process, please select “<b>VSI: Software and Society</b>” for the "Article Type".
+<li>Journal’s information for authors: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors</a></li>
 
+<li>During the submission process, please select “<b>VSI: Software and Society</b>” for the "Article Type".</li>
+</ul> 
 
 <b> Guest editors: </b>
 
