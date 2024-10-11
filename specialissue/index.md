@@ -41,7 +41,7 @@ This special issue provides a unique opportunity for researchers and practitione
 <b> Submission Process and Guidelines:</b>
 
 <ul style="list-style: none;">
-<li>Journal’s paper submission page: <a href="https://www.editorialmanager.com/infsof/default.aspx" target="_blank">https://www.editorialmanager.com/infsof/default.aspx</a></li>
+<li>Journal’s paper submission page: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software</a></li>
 
 <li>Journal’s information for authors: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors</a></li>
 
@@ -54,7 +54,7 @@ This special issue provides a unique opportunity for researchers and practitione
   
             <li>Antti Knutas, LUT University, Finland </li>
             <li>Siamak Farshidi, Wageningen University & Research, Netherlands</li>
-            <li>GSonja Hyrynsalmi, LUT University, Finland </li>
+            <li>Sonja Hyrynsalmi, LUT University, Finland </li>
             <li>Nicolas Jullien, IMT Atlantique, France</li>
             <li>Slinger Jansen, Utrecht University, Netherlands</li>
   
