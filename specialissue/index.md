@@ -42,6 +42,8 @@ This special issue provides a unique opportunity for researchers and practitione
 
 <ul style="list-style: none;">
 <li>Journal’s paper submission page: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software</a></li>
+            
+<li>The authors should use the Editorial Manager (EM) site for submitting their articles:<a href="https://www2.cloud.editorialmanager.com/infsof/default2.aspx" target="_blank">https://www2.cloud.editorialmanager.com/infsof/default2.aspx</a></li>
 
 <li>Journal’s information for authors: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/publish/guide-for-authors</a></li>
 
