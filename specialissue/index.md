@@ -2,9 +2,9 @@
 layout: importantdates
 ---
 
-<b style="font-size: 22px" id="SpecialIsuse">Call for Papers for a Special Issue on Software and Society: Ethics, Equity, and Sustainability in Software</b>
+<b style="font-size: 24px" id="SpecialIsuse">Call for Papers for a Special Issue on Software and Society: Ethics, Equity, and Sustainability in Software</b>
 
-<b style="font-size: 16px">Journal’s special issue information page:</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software</a>
+<b style="font-size: 20px">Journal’s special issue information page:</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software</a>
 <br>
 
 
