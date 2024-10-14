@@ -66,6 +66,17 @@ Each paper will be reviewed by at least three reviewers. Accepted papers will be
 
 <hr>
 
+<b style="font-size: 18px" id="ImportantDates">Extra Page Charges for the Accepted Papers</b><be>
+
+For accepted papers, authors may purchase additional pages beyond the allowed limit. Each extra page incurs a fee:
+<ul style="list-style: none;">
+    <li>100 EUR for one extra page</li>
+    <li>200 EUR for two extra pages</li>
+</ul>
+This option applies to both research and short papers, with a maximum of two extra pages allowed per submission. Please note that the page limits and extra page fees help ensure consistency and fairness across submissions while maintaining the conference's quality standards.
+
+<hr>
+
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <p class="lead">
     <p><b>Research Papers:</b>
