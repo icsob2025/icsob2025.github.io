@@ -9,7 +9,7 @@ layout: importantdates
 
 <img src="/assets/images/journal.PNG" alt="" style="float: right; margin-right: 10px;">
 
-<b>Journal’s paper submission page</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software</a>
+<b>Journal’s special issue information page:</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software" target="_blank">https://www.sciencedirect.com/journal/information-and-software-technology/about/call-for-papers#software-and-society-ethics-equity-and-sustainability-in-software</a>
 
 
 Software facilitates the vast majority of social, commercial, and governmental interactions in our society. The rules that were once implicit in person-to-person interactions or embedded in municipal bylaws are now codified into a set of instructions that govern how people can interact with organizations or with each other online. At the same time, software grassroots in the form of Free and Open Source Software (FLOSS) and civic technology initiatives are creating new ideas and alternatives. All these changes have introduced significant challenges that question established practices and norms, especially from the perspectives of ethics, equity, and sustainability. Examining the intersection of software and society is critical to informing the ethical, equitable, and sustainable use of information and software technology in the future.
