@@ -40,6 +40,16 @@ layout: importantdates
  <p><a href="https://ispma.org" target="_blank">https://ispma.org</a></p>
     </div>
 
+<hr>
+
+<div style="display: flex; align-items: center;">
+    <img src="/assets/images/versen.png" alt="" width="150" height="150" style="margin-right: 20px;">  
+    <div>
+    <p> <b>VERSEN</b> is the Dutch National Association for Software Engineering. Its mission is to bring together researchers, educators and practitioners in the field of software engineering in The Netherlands, who share the common goals of advancing the field or software engineering, raising public awareness of the challenges and opportunities of the field, acquiring funding for groundbreaking research, and transferring academic results to broader society.</p>
+
+ <p><a href="https://www.versen.nl" target="_blank">https://www.versen.nl</a></p>
+    </div>
+
 </div>
 
 
