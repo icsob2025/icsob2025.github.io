@@ -14,14 +14,14 @@ layout: importantdates
 
    <ul style="list-style: none;">
 
-   <li>Lifetime Achievement Award</li>
-   <li>ISPMA Best Research Paper Award</li>
-   <li>10 year Most Influential Paper Award</li>
-   <li>ISPMA Best Early Career Researcher Paper award</li>
-   <li>Best Poster Award</li>
-   <li>VERSEN Best Reviewer Award</li>
-   <li>VERSEN Software Engineering Theme Paper Award</li>
-   <li>VERSEN Diversity and inclusion theme paper award</li>
+   <li><strong>Lifetime Achievement Award:</strong> Awarded to an individual who has made significant contributions to the field throughout their career.</li>
+   <li><strong>ISPMA Best Research Paper Award:</strong> Awarded to the author(s) of the best research paper presented at the conference. Prize: €250 </li>
+   <li><strong>10-year Most Influential Paper Award:</strong> Awarded to a paper from ten years ago that has had a lasting impact on the field.</li>
+   <li><strong>ISPMA Best Early Career Researcher Paper award:</strong> Awarded to the best paper authored by an early-career researcher. Prize: €250</li>
+   <li><strong>Best Poster Award:</strong> Acknowledging the best poster presentation based on thoroughness and the impact of the presented research. Prize: €250</li>
+   <li><strong>VERSEN Best Reviewer Award:</strong> Given to a reviewer who has demonstrated outstanding diligence and constructive feedback in the review process. Prize: €250</li>
+   <li><strong>VERSEN Software Engineering Theme Paper Award:</strong> This award is presented to the best paper on the theme of software engineering. Prize: €250</li>
+   <li><strong>VERSEN Diversity and Inclusion theme paper award:</strong> Awarded to the best paper addressing issues of inclusion and diversity, enhancing the discourse within our community. Prize: €250</li>
 
          <!--<li><strong> 10-Year Achievement Award:</strong> Honoring a significant, long-term contribution to the ICSOB community. This award celebrates those whose work has been most influential within our field.</li>
 
