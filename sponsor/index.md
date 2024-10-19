@@ -39,7 +39,7 @@ layout: importantdates
 
  <p><a href="https://ispma.org" target="_blank">https://ispma.org</a></p>
     </div>
-
+  </div>
 <hr>
 
 <div style="display: flex; align-items: center;">
