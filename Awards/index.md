@@ -14,7 +14,16 @@ layout: importantdates
 
    <ul style="list-style: none;">
 
-        <li><strong> 10-Year Achievement Award:</strong> Honoring a significant, long-term contribution to the ICSOB community. This award celebrates those whose work has been most influential within our field.</li>
+   <li>Lifetime Achievement Award</li>
+   <li>ISPMA Best Research Paper Award</li>
+   <li>10 year Most Influential Paper Award</li>
+   <li>ISPMA Best Early Career Researcher Paper award</li>
+   <li>Best Poster Award</li>
+   <li>VERSEN Best Reviewer Award</li>
+   <li>VERSEN Software Engineering Theme Paper Award</li>
+   <li>VERSEN Diversity and inclusion theme paper award</li>
+
+        <!--><li><strong> 10-Year Achievement Award:</strong> Honoring a significant, long-term contribution to the ICSOB community. This award celebrates those whose work has been most influential within our field.</li>
 
         <li><strong>Best Research Paper Award:</strong> Awarded to the author(s) of the best research paper presented at the conference.</li>
 
@@ -24,7 +33,7 @@ layout: importantdates
 
         <li><strong>Best Poster Award:</strong> Acknowledging the best poster presentation based on thoroughness and the impact of the presented research.</li>
 
-        <li><strong>Diversity and Inclusion Award:</strong> Awarded to the best paper addressing issues of inclusion and diversity, enhancing the discourse within our community.</li>
+        <li><strong>Diversity and Inclusion Award:</strong> Awarded to the best paper addressing issues of inclusion and diversity, enhancing the discourse within our community.</li><--!>
 
     </ul>
 
