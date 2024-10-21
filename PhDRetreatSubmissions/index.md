@@ -62,12 +62,14 @@ We welcome two categories of submission:
 The PhD Retreat submission must consist of two elements:
 <br>
 
-A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:rps@uniriotec.br" target="_blank">rps@uniriotec.br</a>, <a href= "mailto:dron.khanna@unibz.it" target="_blank">dron.khanna@unibz.it</a>, and <a href= "mailto:e.elshan@vu.nl" target="_blank">e.elshan@vu.nl</a>); and 
+A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:rps@uniriotec.br" target="_blank">rps@uniriotec.br</a>, <a href= "mailto:dron.khanna@unibz.it" target="_blank">dron.khanna@unibz.it</a>, and <a href= "mailto:e.elshan@vu.nl" target="_blank">e.elshan@vu.nl</a>).
+
+Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
 <br>
 
 A short paper that describes the PhD student’s thesis. The short paper should not be anonymous and should meet the following requirements:
 
-Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
+
 <br>
 <ul style="list-style: none;">
   <li>Be authored only by the student and his/her supervisors;</li>
