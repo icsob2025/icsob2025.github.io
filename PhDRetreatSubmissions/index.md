@@ -64,7 +64,7 @@ The PhD Retreat submission must consist of two elements:
 
 A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:rps@uniriotec.br" target="_blank">rps@uniriotec.br</a>, <a href= "mailto:dron.khanna@unibz.it" target="_blank">dron.khanna@unibz.it</a>, and <a href= "mailto:e.elshan@vu.nl" target="_blank">e.elshan@vu.nl</a>).
 
-Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
+
 <br>
 
 A short paper that describes the PhD student’s thesis. The short paper should not be anonymous and should meet the following requirements:
@@ -88,6 +88,9 @@ To address the items above, we suggest the following structure: Problem Definiti
 
 <br>
 Students interested in participating in the PhD Retreat must submit a short paper (5-9 pages) using the CEUR-ART one-column template, which is available here: <a href="/PhDRetreatSubmissions/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip</a>(LaTeX) or <a href="/PhDRetreatSubmissions/CEUR-Template-1col.docx">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a>(Word). The accepted PhD Retreat submissions will be offered for publication by CEUR-WS.org (open access) in the ICSOB 2024 Companion Proceedings.
+
+<br>
+Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
 
 <hr>
 <b style="font-size: 18px" id="Reviewprocesss">Review Process</b><br>
