@@ -67,6 +67,7 @@ A letter from the PhD student’s supervisor. The letter should include the curr
 
 A short paper that describes the PhD student’s thesis. The short paper should not be anonymous and should meet the following requirements:
 
+Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
 <br>
 <ul style="list-style: none;">
   <li>Be authored only by the student and his/her supervisors;</li>
