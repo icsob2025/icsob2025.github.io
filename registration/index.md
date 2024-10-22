@@ -146,14 +146,14 @@ layout: importantdates
 
 <p><b>Purchase Extra Pages for Your Accepted Research Paper</b></p>
 
-<p>We also offer the possibility of buying extra pages for your accepted research paper.</p>
-<p>
+We also offer the possibility of buying extra pages for your accepted research paper.
+
 <ul>
     <li>100 € for one extra page: <a href="https://uusalesservices.uu.nl/international-conference-software-business-extra-page-springer-proceedings" target="_blank">Purchase here</li>
     <li>200 € for two extra pages: <a href="https://uusalesservices.uu.nl/international-conference-software-business-two-extra-pages-springer-proceedings" target="_blank">Purchase here</li>
     
 </ul>
-</p>
+
 
 <p><b>Cancellation policy</b></p>
 <p>Cancellation Fee</p>
@@ -162,6 +162,7 @@ layout: importantdates
     <li>All cancellations will incur a fee of 150 euros, regardless of the timing of the cancellation.</li>
   </ul>
 </p>
+
 <p>Cancellation Deadline</p>
 <p>
 <ul>
