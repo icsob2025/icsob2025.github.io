@@ -128,7 +128,7 @@ layout: importantdates
   </tr>
 
       <tr>
-    <td>Dinne</td>
+    <td>Dinner</td>
     <td> <label>
       <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-extra-page-springer-proceedings')" /> € 100.00 </label> </td>
       
@@ -142,19 +142,20 @@ layout: importantdates
 
 <p><button class="styled-button" onclick="redirectToSelected()">Register</button></p>
 
-<p><b>Cancellation policy</b></p>
 
-<p>Purchase Extra Pages for Your Accepted Research Paper</p>
+
+<p><b>Purchase Extra Pages for Your Accepted Research Paper</b></p>
 
 <p>We also offer the possibility of buying extra pages for your accepted research paper.</p>
 <p>
 <ul>
     <li>100 € for one extra page: <a href="https://uusalesservices.uu.nl/international-conference-software-business-extra-page-springer-proceedings" target="_blank">Purchase here</li>
-    <li>200 € for two extra pages: <a href="https://uusalesservices.uu.nl/international-conference-software-business-two-extra-pages-springer-proceedings" target="_blank">EasyChair submission system</li>
+    <li>200 € for two extra pages: <a href="https://uusalesservices.uu.nl/international-conference-software-business-two-extra-pages-springer-proceedings" target="_blank">Purchase here</li>
     
 </ul>
 </p>
 
+<p><b>Cancellation policy</b></p>
 <p>Cancellation Fee</p>
 <p>
   <ul>
