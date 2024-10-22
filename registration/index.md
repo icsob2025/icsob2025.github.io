@@ -144,7 +144,7 @@ layout: importantdates
 
 
 
-<p><b>Purchase Extra Pages for Your Accepted Research Paper</b></p>
+<p><b><span style="color:#a90808;">Purchase Extra Pages for Your Accepted Research Paper</span></b></p>
 
 We also offer the possibility of buying extra pages for your accepted research paper.
 
