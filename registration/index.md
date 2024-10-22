@@ -149,8 +149,8 @@ layout: importantdates
 We also offer the possibility of buying extra pages for your accepted research paper.
 
 <ul>
-    <li>100 € for one extra page: <a href="https://uusalesservices.uu.nl/international-conference-software-business-extra-page-springer-proceedings" target="_blank">Purchase here</li>
-    <li>200 € for two extra pages: <a href="https://uusalesservices.uu.nl/international-conference-software-business-two-extra-pages-springer-proceedings" target="_blank">Purchase here</li>
+    <li>100 € for one extra page: <a href="https://uusalesservices.uu.nl/international-conference-software-business-extra-page-springer-proceedings" target="_blank">Purchase here</a></li>
+    <li>200 € for two extra pages: <a href="https://uusalesservices.uu.nl/international-conference-software-business-two-extra-pages-springer-proceedings" target="_blank">Purchase here</a></li>
     
 </ul>
 
