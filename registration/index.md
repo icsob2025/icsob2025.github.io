@@ -130,7 +130,7 @@ layout: importantdates
       <tr>
     <td>Dinner</td>
     <td> <label>
-      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-extra-page-springer-proceedings')" /> € 100.00 </label> </td>
+      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-extra-dinner-ticket')" /> € 100.00 </label> </td>
       
      <td></td>
   </tr>
