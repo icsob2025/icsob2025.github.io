@@ -55,8 +55,8 @@ Arrange for a letter of reference from your academic supervisor or another facul
 <p><b>Key Dates </b></p> 
 
 <ul style="list-style: none;">
-    <li> Application Submission: October 23, 2024 </li>
-    <li> Application Notification: October 30, 2024</li>
+    <li> Application Submission: October 31, 2024 </li>
+    <li> Application Notification: November 8, 2024</li>
 </ul>
 
 All deadlines are 23:59 Anywhere on Earth (Standard Time). 
