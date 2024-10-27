@@ -50,7 +50,8 @@ We welcome two categories of submission:
 <p class="lead">
    <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
-    <li>Submission Deadline: October 21, 2024 (AoE)</li>
+    <li><s>Submission Deadline: October 21, 2024 (AoE)</s></li>
+    <li><span style="color:#a90808;"> Submission Deadline: November 1, 2024 (AoE) (extended) </span></li>
     <li>Notification of Acceptance: October 28, 2024</li>
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
@@ -100,7 +101,7 @@ All submissions will be peer-reviewed by the Program Committee members. The main
 <hr>
 <b style="font-size: 18px" id="Presentation">Presentation</b><br>
 
-Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (Deadline: November 20, 2024), so that participants have the chance to polish their papers based on the feedback they got from the conference.
+Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (<b>Deadline: December 9, 2024</b>), so that participants have the chance to polish their papers based on the feedback they got from both the reviews and the conference.
 <br>
 <br>
 Authors will present their research at the conference. Each participant will have 10 to 15 minutes to present plus 10 to 15 minutes for answering questions. There will be networking breaks after blocks of  presentations in which participants can get feedback and comments about their research in a more relaxed Q&A session. After running the presentations, a thesis-design workshop session with experts who will be acting as mentors for the participants during the session is planned.   
