@@ -364,6 +364,38 @@ layout: importantdates
 </table>
 </p>
 
-
-
-
+<div class="col-lg8 mx-auto">
+    <h2 class="display-4" style="text-align: left;">
+               <span style="font-size:45px"> Program Committee </span> 
+               <span style="color:grey; font-size:30px"> Short Paper </span> 
+    </h2>
+  
+<p>
+<table id="customers">
+  <tr>
+    <th>Name</th>
+    <th>Affiliation</th>
+  </tr>
+  <tr>
+    <td>Siamak	Farshidi</td>    <td>Wageningen University & Research</td>
+  </tr>
+  <tr>
+    <td>Michiel	Overeem</td>    <td>AFAS Software</td>
+  </tr>
+<tr><td>Eduardo， Guerra</td>    <td>Free University of Bolzen-Bolzano</td></tr>
+<tr><td>Fang， Hou</td>    <td>Utrecht university</td></tr>
+<tr><td>Annabell， Petri</td>    <td>Universiteit Twente</td></tr>
+<tr><td>Andrey， Saltan</td>    <td>LUT University / HSE University</td></tr>
+<tr><td>Efi， Papatheocharous</td>    <td>RISE Research Institutes of Sweden</td></tr>
+<tr><td>Ulrike， Lechner</td>    <td>Universität der Bundeswehr München</td></tr>
+<tr><td>Jurriaan， Hage</td>    <td>Utrecht University</td></tr>
+<tr><td>Xiaofeng， Wang</td>    <td>Free University of Bozen-Bolzano</td></tr>
+<tr><td>Rodrigo， Santos</td>    <td>UNIRIO</td></tr>
+<tr><td>David， Callele</td>    <td>University of Saskatchewan</td></tr>
+<tr><td>Krzysztof， Wnuk</td>    <td>BTH</td></tr>
+<tr><td>Slinger， Jansen</td>    <td>Utrecht University</td></tr>
+<tr><td>Rafael， Capilla</td>    <td>Universidad Rey Juan Carlos, Madrid</td></tr>
+<tr><td>Bedir， Tekinerdogan</td>    <td>Wageningen University</td></tr>
+<tr><td>Sonja， Hyrynsalmi</td>    <td>LUT University</td></tr>
+</table>
+</p>
