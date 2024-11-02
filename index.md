@@ -51,8 +51,8 @@ The Conference holds societal impact and international importance as it tackles 
     
     <p><b>Short Position and Practice Papers:</b></p>
     <ul style="list-style: none;">
-    <li>Submission Deadline: October 21, 2024 (AoE)</li>
-    <li>Notification of Acceptance: October 28, 2024</li>
+    <li><s>Submission Deadline: October 21, 2024 (AoE)</s></li>
+    <li><s>Notification of Acceptance: October 28, 2024</s></li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
