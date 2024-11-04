@@ -273,7 +273,7 @@
 
        <h4 class="display-4" style="text-align: left;">
     Day 2 November 20, 2024
-    </h2>
+    </h4>
 <p>
    
 <table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
