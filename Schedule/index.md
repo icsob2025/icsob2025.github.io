@@ -29,11 +29,13 @@
             <td style="width: 15%; font-size: 0.9em; color: gray;">Day opening</td>
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
         </tr>
-        <tr>
-            <td style="width: 15%; font-weight: bold; color: #gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: #83c5be;">Keynote</td>
-            <td><b>Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
-        </tr>
+       
+         <tr style="background-color: #83c5be;">
+             <td style="width: 15%; font-weight: bold; color: gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
+             <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
+             <td><b>Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
+         </tr>
+         
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 10:15 - 10:30 Coffee Break <br>
