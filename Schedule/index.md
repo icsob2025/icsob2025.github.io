@@ -30,7 +30,7 @@
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
         </tr>
        
-         <tr style="background-color: #ead7c3;">
+         <tr style="background-color: #ddfff7;">
              <td style="width: 15%; font-weight: bold; color: gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
              <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
              <td><b>Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
@@ -288,7 +288,7 @@
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
         </tr>
 
-         <tr style="background-color: #ead7c3;">
+         <tr style="background-color: #ddfff7;">
             <td style="width: 15%; font-weight: bold; color: gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
             <td><b>Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
@@ -359,7 +359,7 @@
             </th>
         </tr>
         
-         <tr style="background-color: #ead7c3;">
+         <tr style="background-color: #ddfff7;">
             <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:00<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
             <td><b>Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
