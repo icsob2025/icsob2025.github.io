@@ -8,7 +8,7 @@
 <table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
     <thead>
      <tr>
-            <th colspan="3" style="background-color: #00203FFF; font-weight: bold; font-color: #FFFFFF; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
                 Day 1 November 19, 2024 <br>
             </th>
      </tr>
@@ -275,7 +275,7 @@
         
 
         <tr>
-            <th colspan="3" style="background-color: #00203FFF; font-weight: bold; font-color: #FFFFFF; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
                 Day 2 November 20, 2024 <br>
             </th>
         </tr>
