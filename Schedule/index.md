@@ -3,9 +3,9 @@
     <h1 class="display-4" style="text-align: left;">
     Conference Program
     </h1>
-       <h2 class="display-4" style="text-align: left;">
+       <h4 class="display-4" style="text-align: left;">
     Day 1 November 19, 2024
-    </h2>
+    </h4>
 <p>
 <table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
     <thead>
@@ -271,7 +271,7 @@
 
 <div class="col-lg8 mx-auto">
 
-       <h2 class="display-4" style="text-align: left;">
+       <h4 class="display-4" style="text-align: left;">
     Day 2 November 20, 2024
     </h2>
 <p>
