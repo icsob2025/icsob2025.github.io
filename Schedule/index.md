@@ -266,12 +266,10 @@
             </th>
         </tr>
         
-    </tbody>
-</table>
 
 <div class="col-lg8 mx-auto">
 
-       <h4 class="display-4" style="text-align: left;">
+       <h4 style="text-align: left;">
     Day 2 November 20, 2024
     </h4>
 <p>
