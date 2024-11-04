@@ -116,7 +116,7 @@
 </td>
         </tr>
          <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">11: 30- 11:45<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
+            <td style="width: 15%; font-weight: bold; color: gray;">14:00 - 14:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #79: "Adoption of Cloud Platforms Among Independent Software Vendors" </b><br> Lucas Mangold, Monty Meier, and Maximilian Schreieck </td>
          </tr>
@@ -315,7 +315,7 @@
         
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #62: "Toward the Link between Governance and Autonomy of Corporate Start-ups: Conceptual Framework and Empirical Evidence" </b><br>Konstantin Garidis, Alexander Rossmann, Alan Murray and Dominik Augenstein
  </td>
         </tr>
