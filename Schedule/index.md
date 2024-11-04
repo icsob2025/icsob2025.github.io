@@ -9,16 +9,25 @@ layout: importantdates
     <table>
         <tr>
             <td class="date" rowspan="2">
-                8:30am
+                8:30 - 9:00
             </td>
             <td class="title-special">
-                Registration and Coffee &amp; Tea!
+                 Walk-in and Registration
+            </td>
+        </tr>
+    </table>
+        <table>
+        <tr>
+            <td class="date" rowspan="2">
+                9:00 - 9:20
+            </td>
+            <td class="title-special">
+                  Opening and introduction 
             </td>
         </tr>
         <tr>
-            <td class="abstract">
-                Here&rsquo;s a section in the program that isn&rsquo;t a talk. 
-                Notice that the title is styled differently than the ones for talks.
+            <td class="speaker">
+                Slinger Jansen
             </td>
         </tr>
     </table>
@@ -26,20 +35,15 @@ layout: importantdates
     <table id="PUTSPEAKERNAMEHERE">
         <tr>
             <td class="date" rowspan="3">
-                9:00am
+                9:20 - 10:30
             </td>
             <td class="title">
-                Interesting Title of a Talk 
+                Keynote 1 - "Workarounds are Everywhere! We’d Better Use Them"
             </td>
         </tr>
         <tr>
             <td class="speaker">
-                Speaker Name (University)
-            </td>
-        </tr>
-        <tr>
-            <td class="abstract">
-                Here&rsquo;s where you put the abstract of the talk. Notice that with MathJax you can include mathematical notation in the abstract like \(f(x)=3x-7\) or like \(h^0(X_t,\omega_{X_t}^{\otimes m})\) or whatever you want. Just notice the MathJax line in the head of this HTML document that allows this. I&rsquo;m going to blab just a tiny bit more in this abstract, but all the other abstracts below, except the ones for the plenary talks, will be just <i>Lorem Ipsum</i> text that needs to be replaced by real abstracts.
+                Inge van de Weerd
             </td>
         </tr>
     </table>
