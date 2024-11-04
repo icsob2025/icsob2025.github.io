@@ -1,9 +1,11 @@
 ---
 layout: importantdates
 ---
-
-    <h2>Conference Program</h2>
-
+<div class="col-lg8 mx-auto">
+    <h1 class="display-4" style="text-align: left;">
+    Conference Program
+    </h1>
+<p>
     <table>
         <tr>
             <td class="date" rowspan="2">
@@ -280,5 +282,5 @@ layout: importantdates
         </tr>
     </table>
 
-
+</p>
 
