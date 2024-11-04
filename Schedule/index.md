@@ -314,9 +314,9 @@
         </tr>
         
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
+            <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
-           <td><b>Short Paper #62: "Toward the Link between Governance and Autonomy of Corporate Start-ups: Conceptual Framework and Empirical Evidence" </b><br>Konstantin Garidis, Alexander Rossmann, Alan Murray and Dominik Augenstein
+           <td><b>Full Paper #62: "Toward the Link between Governance and Autonomy of Corporate Start-ups: Conceptual Framework and Empirical Evidence" </b><br>Konstantin Garidis, Alexander Rossmann, Alan Murray and Dominik Augenstein
  </td>
         </tr>
 
@@ -342,9 +342,9 @@
         </tr>
         
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
-           <td><b>Short Paper #91: "Accelerating New Product Development: A Vision on Active Personas" </b><br> Mario Elyezer Subekti Simaremare and Henry Edison </td>
+            <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+  <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
+           <td><b>Full Paper #70: "npmSECO: A Tool for Integrating Trust into the Software Ecosystem"</b><br> Fang Hou, Angel Temelko, and Martijn Voordouw
         </tr>
 
         <tr>
@@ -377,9 +377,10 @@
         </tr>
         
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">10:30 - 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
-           <td><b>Full Paper #70: "npmSECO: A Tool for Integrating Trust into the Software Ecosystem"</b><br> Fang Hou, Angel Temelko, and Martijn Voordouw
+            <td style="width: 15%; font-weight: bold; color: gray;">14:30 - 14:45<br><span style="font-weight: normal; font-size: 0.8em;">1m</span></td>
+           <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
+           <td><b>Short Paper #91: "Accelerating New Product Development: A Vision on Active Personas" </b><br> Mario Elyezer Subekti Simaremare and Henry Edison </td>
+          
  
 </td>
         </tr>
@@ -398,7 +399,7 @@
 
          <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                15:00 - 15:30 Closing <br>
+                14:45 - 15:15 Closing <br>
             </th>
         </tr>  
     </tbody>
