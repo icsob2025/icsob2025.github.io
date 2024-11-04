@@ -377,7 +377,7 @@
         </tr>
         
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">14:30 - 14:45<br><span style="font-weight: normal; font-size: 0.8em;">1m</span></td>
+            <td style="width: 15%; font-weight: bold; color: gray;">14:30 - 14:45<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
            <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #91: "Accelerating New Product Development: A Vision on Active Personas" </b><br> Mario Elyezer Subekti Simaremare and Henry Edison </td>
           
