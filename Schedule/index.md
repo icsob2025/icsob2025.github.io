@@ -225,8 +225,8 @@
         
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">17:00 - 17:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
-           <td><b>Full Paper #98: "Product Managers in Software Startups: A Grounded Theory" </b><br>Jorge Melegati, Igor Wiese, Eduardo Guerra, Rafael Chanin, Abdullah Aldaeej, Imam Abdulrahman, Tommi Mikkonen, Rafael Prikladnicki, and Xiaofeng Wang
+            <td style="width: 15%; font-size: 0.9em; color: gray;"> Journal-first Paper</td>
+           <td><b>Journal-first Paper #98: "Product Managers in Software Startups: A Grounded Theory" </b><br>Jorge Melegati, Igor Wiese, Eduardo Guerra, Rafael Chanin, Abdullah Aldaeej, Imam Abdulrahman, Tommi Mikkonen, Rafael Prikladnicki, and Xiaofeng Wang
  </td>
         </tr>
         
