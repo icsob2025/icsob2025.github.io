@@ -1,7 +1,7 @@
    
 <div class="col-lg8 mx-auto">
-    <h1 class="display-4" style="text-align: left;">
-    Conference Program
+    <h1 class="display-4" style="text-align: left;"> </h1>
+    ICSOB 2024 Program
     </h1>
        <h4 class="display-4" style="text-align: left;">
     Day 1 November 19, 2024
