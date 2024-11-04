@@ -54,18 +54,18 @@
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #12: "Digital Sovereignty: Affordances in Open Source Projects"</b><br>Martha Klare and Ulrike Lechner</td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11: 30- 11:45<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #57: "The Ethical Landscape in Public Procurement of ICT Systems" </b><br>Aapo Koski, Sinna Pirinen, and Tommi Mikkonen </td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:45 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #72: "Exploring Classification Consistency of Natural Language Requirements Using GPT-4o" </b><br>Fredrik Karlsson, Panagiota Chatzipetrou, Shang Gao and Tanja Havstorm</td>
         </tr>
 
-           <tr>
+        <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 10:30 - 12:00  Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">Meeting Room 2</a><br>
             </th>
@@ -85,7 +85,7 @@
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #89: "What Affects Developer Experience in Software Platforms?"  </b><br>Rodrigo Zacarias, Leo Antunes, Marcos Seruffo, Rodrigo Santos, and Patricia Lago </td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:45 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #86: "Enabling Inter-Organizational Data Sharing: Towards a Method for Assessing Data Assets" </b><br>Maximilian Werling, Kim Stuber, Dimitri Petrik, Jens Lachenmaier, and Georg Herzwurm</td>
@@ -113,11 +113,11 @@
            <td><b>Full  Paper #66: "Optimizing for Sustainability: Product Ops and Software Waste Reduction" </b><br>Bogdan Moroz, Andrey Saltan, and Sami Hyrynsalmi
 </td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11: 30- 11:45<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #79: "Adoption of Cloud Platforms Among Independent Software Vendors" </b><br> Lucas Mangold, Monty Meier, and Maximilian Schreieck </td>
-
+         </tr>
 
            <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
@@ -134,7 +134,7 @@
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #13: "The EU AI Act is a good start but falls short"</b><br>Chalisa Veesommai Sillberg, José Siqueira De Cerqueira, Pekka Sillberg, Kai-Kristian Kemell, and Pekka Abrahamsson</td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">14:00 - 14:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #73: "Secondary Use of Health Data: Centralized Structure and Information Security Frameworks in Finland"  </b><br> Hannu Vilpponen, Antti Piirainen, Miikka Kallberg, and Tommi Mikkonen </td>
@@ -163,56 +163,59 @@
            <td><b>Full Paper #50: "Technology Change Adoption in Organizations: Drivers, Challenges and Success Enablers"  </b><br>Maryam Gulzar, Bilal Naqvi, and Kari Smolander</td>
            
         </tr>
-               <tr style="background-color: #f9f9f9;">
+         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:30 - 15:45<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #82: "Experience of Gender Among Professionals in Finnish IT Companies"   </b><br> Aila Kronqvist and Rebekah Rousi
 </td>
         </tr>
-        </tr>
-               <tr style="background-color: #f9f9f9;">
+ 
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:45 - 16:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #75: "Emotion AI in Workplace Environments: A Case Study"    </b><br> Joni-Roy Piispanen and Rebekah Rousi
 </td>
         </tr>
 
-           <tr>
+        <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 14:30 - 16:00  Session 6: Sustainable Software Lifecycle and Architectural Practices <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
+        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">14:30 - 15:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #67: "A Case Study of Integrating Sustainability into Agile Software Development"  </b><br> Shola Oyedeji, Hatef Shamshiri, Mikhail Adisa, Rafael Capilla, and Ruzanna Chitchyan </td>
         </tr>
+        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 15:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #68: "Designing for Sustainability when Architecture Standards are involved: an industrial Case Study" </b><br> Markus Funke, Priyeta Saha, and Patricia Lago </td>
            
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:30 - 15:45<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #80: "Challenges in Incorporating Sustainability Practices in the Software Lifecycle"  </b><br>  Mercy Bamiduro, Iffat Fatima, Patricia Lago, and Sophie Vos </td>
         </tr>
-        </tr>
-               <tr style="background-color: #f9f9f9;">
+
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:45 - 16:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #92: "Exploring the Factors that Impact The Half-life of Software"  </b><br> Krzysztof Wnuk, Theresa Harrer, Piotr Tomaszewski and Ehsan Zabardast </td>
         </tr>
 
-          <tr>
+        <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 16:00 - 17:00 Coffee Break, Demos, and Poster Session <br>
             </th>
         </tr>
 
 
-           <tr>
+        <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 17:00 - 18:15 Session 7: Ethical and Sustainable Practices in Software Startups <a href="#">Meeting Room 1</a><br>
             </th>
@@ -238,7 +241,7 @@
 </td>
         </tr>
 
-           <tr>
+        <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 17:00 - 18:15 Session  8: Ethical and Inclusive AI and Digital Tools in Education and Workforce <a href="#">Meeting Room 2</a><br>
             </th>
@@ -254,7 +257,7 @@
             <td style="width: 15%; font-weight: bold; color: gray;">17:30 - 18:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper  #53: "Professionals' opinions on the use of AI software for HRM"  </b><br>Nasreen Azad, Najmul Islam, and Maryam Hinar</td>
-         </tr>
+        </tr>
         
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">18:00 - 18:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
@@ -263,6 +266,7 @@
 
 </td>
         </tr>
+        
           <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 18:30 - 21:00 Dinner & Awards <br>
@@ -281,6 +285,7 @@
             <td style="width: 15%; font-size: 0.9em; color: gray;">Day opening</td>
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
         </tr>
+        
         <tr>
             <td style="width: 15%; font-weight: bold; color: gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
@@ -292,18 +297,21 @@
                 10:00 - 11:30  Session 9: Ethical Platforms, Governance and Autonomy of Emergent Technologies <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
+        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">10: 00- 10:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #63: "Marketplace for Multi-Party Development of Artificial Intelligence Systems: Perceptions on Value Creation" </b><br>Yuliyan Maksimov and Samuel A. Fricker</td>
         </tr>
+        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">10:30 - 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #34: "Designing a Blockchain-Based Credential Verification System for Improving Global Mobility of Workforce" </b><br> Anastasiia Gurzhii, Akm Bahalul Haque, Bilal Naqvi, Jaakko Vuolasto, Janne Parkkila, and A.K.M. Najmul Islam
 </td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #62: "Toward the Link between Governance and Autonomy of Corporate Start-ups: Conceptual Framework and Empirical Evidence" </b><br>Konstantin Garidis, Alexander Rossmann, Alan Murray and Dominik Augenstein
@@ -311,16 +319,18 @@
         </tr>
 
 
-           <tr>
+         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 10:30 - 12:00  Session 10: Continuous Experimentation in Software and Game Development <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
+        
          <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">10: 00- 10:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #35: "Pre-Release Experimentation in Indie Game Development: An Interview Survey" </b><br>Johan Linåker, Elizabeth Bjarnason, and Fabian Fagerholm</td>
         </tr>
+        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">10:30 - 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
@@ -328,7 +338,8 @@
  
 </td>
         </tr>
-               <tr style="background-color: #f9f9f9;">
+        
+        <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Short Paper</td>
            <td><b>Short Paper #91: "Accelerating New Product Development: A Vision on Active Personas" </b><br> Mario Elyezer Subekti Simaremare and Henry Edison </td>
@@ -339,18 +350,20 @@
                 11:15 - 12:00 Coffee Break, Demos, and Poster Session <br>
             </th>
         </tr>
-                <tr>
+        
+        <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 12:00 - 13:00 Lunch <br>
             </th>
         </tr>
+        
         <tr>
             <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:00<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
             <td><b>Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
         </tr>
 
-              <tr>
+        <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 14:00 - 15:00  Session 11: Sustainability and Trust in Software Ecosystems <a href="#">Meeting Room 1</a><br>
             </th>
@@ -360,6 +373,7 @@
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #32: "Towards sustainable ICT solutions: analyzing call for tender-documents" </b><br>Markus Takamaa and Samuli Pekkola</td>
         </tr>
+        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">10:30 - 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
@@ -368,18 +382,19 @@
 </td>
         </tr>
 
-              <tr>
+        <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 14:00 - 14:30  Session 12: Governance in Open Source Platforms <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
+        
          <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">14:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
            <td><b>Full Paper #56: "Governance Practices for Open Source Foundations in the Healthcare Sector" </b><br> Elçin Yenişen Yavuz, Akshat Shrivastava, Dirk Riehle, and Florian Putz</td>
         </tr>
 
-                    <tr>
+         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 15:00 - 15:30 Closing <br>
             </th>
