@@ -30,7 +30,7 @@
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
         </tr>
         <tr>
-            <td style="width: 15%; font-weight: bold; background-color: #83c5be;>09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
+            <td style="width: 15%; font-weight: bold; color: #83c5be;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Keynote</td>
             <td><b>Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
         </tr>
