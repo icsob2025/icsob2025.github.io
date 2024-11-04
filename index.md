@@ -36,7 +36,7 @@ The Conference holds societal impact and international importance as it tackles 
 
 <hr>
 <div style="background-color: #00203F; color: white; padding: 20px; text-align: center;">
-    <a href="../Schedule/" style="color: white; text-decoration: none;">
+    <a href="/Schedule/" style="color: white; text-decoration: none;">
         Here is the link to the program overview.
     </a>
 </div>    
