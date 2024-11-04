@@ -252,7 +252,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">17:00 - 17:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
-           <td><b>Full Paper #15: "How do ML students explain their models and what can we learn from this?"" </b><br> Ulrik Franke </td>
+           <td><b>Full Paper #15: "How do ML students explain their models and what can we learn from this?" </b><br> Ulrik Franke </td>
         </tr>
         
         <tr style="background-color: #f9f9f9;">
@@ -344,7 +344,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 11:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
   <td style="width: 15%; font-size: 0.9em; color: gray;">Full Paper</td>
-           <td><b>Full Paper #70: "npmSECO: A Tool for Integrating Trust into the Software Ecosystem"</b><br> Fang Hou, Angel Temelko, and Martijn Voordouw
+           <td><b>Full Paper #70: "npmSECO: A Tool for Integrating Trust into the Software Ecosystem"</b><br> Fang Hou, Angel Temelko, and Martijn Voordouw </td>
         </tr>
 
         <tr>
@@ -382,7 +382,7 @@
            <td><b>Short Paper #91: "Accelerating New Product Development: A Vision on Active Personas" </b><br> Mario Elyezer Subekti Simaremare and Henry Edison </td>
           
  
-</td>
+
         </tr>
 
         <tr>
