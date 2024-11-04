@@ -3,14 +3,17 @@
     <h1 class="display-4" style="text-align: left;"> 
     ICSOB 2024 Program
     </h1>
-       <h4 style="text-align: left;">
-    Day 1 November 19, 2024
-    </h4>
+
 <p>
 <table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
     <thead>
+     <tr>
+            <th colspan="3" style="background-color: #078282FF; font-weight: bold; font-size: 1.2em;">
+                Day 1 November 19, 2024 <br>
+            </th>
+     </tr>
         <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 08:30 - 10:15  Opening and Keynote  <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -37,7 +40,7 @@
             </th>
         </tr>
         <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 10:30 - 12:00  Session 1: Ethical and Governance Challenges in Software Development <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -63,7 +66,7 @@
         </tr>
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 10:30 - 12:00  Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
@@ -95,7 +98,7 @@
         </tr>
 
         <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 13:00 - 14:15  Session  3: Sustainable ICT and Cloud Adoption in Software Businesses <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -117,7 +120,7 @@
 
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 13:00 - 14:15  Session 4:  Transparency and Trustability in AI and Software Business <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
@@ -145,7 +148,7 @@
 
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 14:30 - 16:00  Session 5: Diversity, Equity, and Inclusion in AI and Software Engineering <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -175,7 +178,7 @@
         </tr>
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 14:30 - 16:00  Session 6: Sustainable Software Lifecycle and Architectural Practices <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
@@ -210,7 +213,7 @@
 
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 17:00 - 18:15 Session 7: Ethical and Sustainable Practices in Software Startups <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -236,7 +239,7 @@
         </tr>
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 17:00 - 18:15 Session  8: Ethical and Inclusive AI and Digital Tools in Education and Workforce <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
@@ -267,15 +270,11 @@
         </tr>
         
 
-<div class="col-lg8 mx-auto">
-
-       <h4 style="text-align: left;">
-    Day 2 November 20, 2024
-    </h4>
-<p>
-   
-<table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
-    <thead>
+        <tr>
+            <th colspan="3" style="background-color: #078282FF; font-weight: bold; font-size: 1.2em;">
+                Day 2 November 20, 2024 <br>
+            </th>
+        </tr>
 
         <tr>
             <td style="width: 15%; font-weight: bold; color: gray;">09:00 - 09:10<br><span style="font-weight: normal; font-size: 0.8em;">10m</span></td>
@@ -289,7 +288,7 @@
         </tr>
 
         <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 10:00 - 11:30  Session 9: Ethical Platforms, Governance and Autonomy of Emergent Technologies <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -313,7 +312,7 @@
 
 
            <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 10:30 - 12:00  Session 10: Continuous Experimentation in Software and Game Development <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
@@ -352,7 +351,7 @@
         </tr>
 
               <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 14:00 - 15:00  Session 11: Sustainability and Trust in Software Ecosystems <a href="#">Meeting Room 1</a><br>
             </th>
         </tr>
@@ -370,7 +369,7 @@
         </tr>
 
               <tr>
-            <th colspan="3" style="background-color: #cdcdd1; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #95DBE5FF; font-weight: bold; font-size: 1.2em;">
                 14:00 - 14:30  Session 12: Governance in Open Source Platforms <a href="#">Meeting Room 2</a><br>
             </th>
         </tr>
