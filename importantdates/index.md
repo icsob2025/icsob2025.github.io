@@ -16,7 +16,7 @@ layout: importantdates
     <li><s><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended)</span></s></li>
     <li><s>Notification of Acceptance: October 7, 2024</s></li>
     <li><s><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></s></li>
-    <li><s>Camera-ready Papers Due: November 4, 2024</s>s></li>
+    <li><s>Camera-ready Papers Due: November 4, 2024</s></li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
     
