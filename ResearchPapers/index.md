@@ -86,7 +86,7 @@ This option applies to both research and short papers, with a maximum of two ext
     <li><s><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended)</span></s></li>
     <li><s>Notification of Acceptance: October 7, 2024</s></li>
     <li><s><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></s></li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
+    <li><s>Camera-ready Papers Due: November 4, 2024</s>s></li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
     
@@ -94,7 +94,7 @@ This option applies to both research and short papers, with a maximum of two ext
     <ul style="list-style: none;">
     <li><s>Submission Deadline: October 21, 2024 (AoE)</s></li>
     <li><s>Notification of Acceptance: October 28, 2024</s></li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
+    <li><s>Camera-ready Papers Due: November 4, 2024</s></li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
     </p>
