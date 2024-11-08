@@ -33,7 +33,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
-            <td><b> Workshop (Session 1) <a href="#">Location: Gaanderij</a></b></td>
+            <td><b> Workshop (Session 1) </b></td>
         </tr>
        
         <tr>
@@ -45,13 +45,13 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 2) <a href="#">Location: St. Barbarakamer</a></b></td>
+            <td><b> PhD Retreat (Session 2) </b></td>
         </tr>
 
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
-            <td><b> Workshop (Session 2) <a href="#">Location: Gaanderij</a></b></td>
+            <td><b> Workshop (Session 2) </b></td>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
@@ -62,13 +62,13 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 3) <a href="#">Location: St. Barbarakamer</a></b></td>
+            <td><b> PhD Retreat (Session 3)</b></td>
         </tr>
 
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
-            <td><b> Workshop (Session 3) <a href="#">Location: Gaanderij</a></b></td>
+            <td><b> Workshop (Session 3) </b></td>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
@@ -79,13 +79,13 @@
          <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 4) <a href="#">Location: St. Barbarakamer</a></b></td>
+            <td><b> PhD Retreat (Session 4) </b></td>
         </tr>
 
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
-            <td><b> Workshop (Session 4) <a href="#">Location: Gaanderij</a></b></td>
+            <td><b> Workshop (Session 4) </b></td>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
@@ -181,7 +181,7 @@
 
        <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:15 - 13:30 Lunch <br>
+                12:15 - 13:30 Lunch  <a href="#">Location: Gaanderij</a> <br>
             </th>
         </tr>
 
@@ -230,7 +230,7 @@
 
           <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                14:45 - 15:30 Coffee Break <a href="#">Location: Gaanderij</a><br>
+                14:45 - 15:30 Coffee Break, Demos, and Poster Session <a href="#">Location: Gaanderij</a><br>
             </th>
         </tr>
 
@@ -360,7 +360,7 @@
         </tr>
          <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 8: Continuous Experimentation in Software and Game Development <a href="#">Location: Gaanderij</a><br>
+                Session 8: Continuous Experimentation in Software and Game Development <a href="#">Location: Tuinzaal</a><br>
             </th>
         </tr>
         
@@ -427,7 +427,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session  10: Ethical and Inclusive AI and Digital Tools in Education and Workforce <a href="#">Location: Gaanderij</a><br>
+                Session  10: Ethical and Inclusive AI and Digital Tools in Education and Workforce <a href="#">Location: Tuinzaal</a><br>
             </th>
         </tr>
         
@@ -453,7 +453,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                15:05 - 15:30 Coffee Break, Demos, and Poster Session <a href="#">Location: Gaanderij</a> <br>
+                15:05 - 15:30 Coffee Break <a href="#">Location: Gaanderij</a> <br>
             </th>
         </tr>
 
