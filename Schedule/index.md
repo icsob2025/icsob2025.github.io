@@ -9,16 +9,72 @@
     <thead>
      <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
-                Day 1 November 19, 2024 <br>
+                Day 1 November 18, 2024 <br>
             </th>
      </tr>
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Opening and Keynote  <a href="#">Meeting Room 1</a><br>
+                Reception & Registration  <a href="#">Location: St. Barbarakamer</a><br>
             </th>
         </tr>
     </thead>
     <tbody>
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
+            <td><b> PhD Retreat (Session 1)</b></td>
+        </tr>
+        <tr>
+            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
+                10:30 - 11:00 Coffee Break <a href="#">(Location: Gaanderij)</a><br>
+            </th>
+        </tr>
+
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
+            <td><b> PhD Retreat (Session 2)</b></td>
+        </tr>
+        <tr>
+            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
+                12:00 - 13:00 Lunch <a href="#">Location: Gaanderij</a><br>
+            </th>
+        </tr>
+
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
+            <td><b> PhD Retreat (Session 3)</b></td>
+        </tr>
+        <tr>
+            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
+                14:30 - 15:00 Coffee Break <a href="#">Location: Gaanderij</a><br>
+            </th>
+        </tr>
+
+         <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
+            <td><b> PhD Retreat (Session 4)</b></td>
+        </tr>
+        <tr>
+            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
+                17:00 - 19:30 Welcome reception  <a href="#">Location: Balzaal</a><br>
+            </th>
+        </tr>
+
+           
+         <tr>
+            <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
+                Day 2 November 19, 2024 <br>
+            </th>
+        </tr>
+         <tr>
+            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+                Opening and Keynote  <a href="#">Meeting Room 1</a><br>
+            </th>
+        </tr>
+       
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">08:30 - 09:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">Registration</td>
@@ -278,7 +334,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
-                Day 2 November 20, 2024 <br>
+                Day 3 November 20, 2024 <br>
             </th>
         </tr>
 
