@@ -14,15 +14,21 @@
      </tr>
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Reception & Registration <br>
+                09:00 - 09:30 Reception & Registration <br>
             </th>
         </tr>
+               <tr>
+            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+                PhD Retreat <a href="#">Location: St. Barbarakamer</a> & Workshop <a href="#">Location: Gaanderij</a><br>
+            </th>
+        </tr>
+       
     </thead>
     <tbody>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 1) <a href="#">Location: St. Barbarakamer</a></b></td>
+            <td><b> PhD Retreat (Session 1) </b></td>
         </tr>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
