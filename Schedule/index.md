@@ -14,7 +14,7 @@
      </tr>
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Reception & Registration  <a href="#">Location: St. Barbarakamer</a><br>
+                Reception & Registration  <br>
             </th>
         </tr>
     </thead>
@@ -22,8 +22,14 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 1)</b></td>
+            <td><b> PhD Retreat (Session 1) <a href="#">Location: St. Barbarakamer</a></b></td>
         </tr>
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
+            <td><b> Workshop (Session 1) <a href="#">Location: Gaanderij</a></b></td>
+        </tr>
+       
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 10:30 - 11:00 Coffee Break <a href="#">(Location: Gaanderij)</a><br>
@@ -33,7 +39,13 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 2)</b></td>
+            <td><b> PhD Retreat (Session 2) <a href="#">Location: St. Barbarakamer</a></b></td>
+        </tr>
+
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
+            <td><b> Workshop (Session 2) <a href="#">Location: Gaanderij</a></b></td>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
@@ -42,9 +54,15 @@
         </tr>
 
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 3)</b></td>
+            <td><b> PhD Retreat (Session 3) <a href="#">Location: St. Barbarakamer</a></b></td>
+        </tr>
+
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
+            <td><b> Workshop (Session 3) <a href="#">Location: Gaanderij</a></b></td>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
@@ -53,9 +71,15 @@
         </tr>
 
          <tr style="background-color: #f9f9f9;">
-            <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
             <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
-            <td><b> PhD Retreat (Session 4)</b></td>
+            <td><b> PhD Retreat (Session 4) <a href="#">Location: St. Barbarakamer</a></b></td>
+        </tr>
+
+        <tr style="background-color: #f9f9f9;">
+            <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
+            <td style="width: 15%; font-size: 0.9em; color: gray;">Workshop</td>
+            <td><b> Workshop (Session 4) <a href="#">Location: Gaanderij</a></b></td>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
