@@ -299,7 +299,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                18:15 - 21:00 Dinner & Awards <br>
+                18:15 - 21:00 Dinner & Awards <a href="#">Location: Kasteel Oudaen</a><br>
             </th>
         </tr>
         
