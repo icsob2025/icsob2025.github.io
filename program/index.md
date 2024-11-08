@@ -18,5 +18,7 @@ The opening day of ICSOB 2024 promises an enriching start with a thought-provoki
 The second day of ICSOB 2024 intensifies the intellectual engagement with another set of keynote addresses at the start and end, featuring industry leaders and academic pioneers who will share groundbreaking insights and future visions for the software business sector. Throughout the day, the conference facilitates deeper interaction and collaboration through dedicated breakout rooms, designed to accommodate incidental meetings among experts. These spaces provide a unique opportunity for attendees to convene in smaller, more focused groups, allowing for the exchange of ideas, discussion of collaborative projects, and in-depth exploration of specific topics. This blend of structured keynotes and flexible, interactive sessions ensures a day rich in learning, networking, and innovative discourse, furthering the conference’s commitment to advancing the fields of software business and technology.
 <hr/>
 
-
+<div style="display: flex; align-items: center;">
+    <img src="/assets/images/schedule.jpeg" alt="";">  
+</div>
 
