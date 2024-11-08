@@ -19,6 +19,6 @@ The second day of ICSOB 2024 intensifies the intellectual engagement with anothe
 <hr/>
 
 <div style="display: flex; align-items: center;">
-     <img src="/assets/images/schedule.jpeg" alt="" width="500" height="1000" style="margin-right: 100px;">   
+     <img src="/assets/images/schedule.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;">   
 </div>
 
