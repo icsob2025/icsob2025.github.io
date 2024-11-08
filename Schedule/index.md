@@ -19,7 +19,7 @@
         </tr>
                <tr>
             <th colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-                PhD Retreat <a href="#">Location: St. Barbarakamer</a> & Workshop <a href="#">Location: Gaanderij</a><br>
+                PhD Retreat <a href="#">Room: St. Barbarakamer</a> & Workshop <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
        
@@ -38,7 +38,7 @@
        
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                10:30 - 11:00 Coffee Break <a href="#">(Location: Gaanderij)</a><br>
+                10:30 - 11:00 Coffee Break <a href="#">(Room: Gaanderij)</a><br>
             </th>
         </tr>
 
@@ -55,7 +55,7 @@
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:00 - 13:00 Lunch <a href="#">Location: Gaanderij</a><br>
+                12:00 - 13:00 Lunch <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
 
@@ -72,7 +72,7 @@
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                14:30 - 15:00 Coffee Break <a href="#">Location: Gaanderij</a><br>
+                14:30 - 15:00 Coffee Break <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
 
@@ -89,7 +89,7 @@
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                17:00 - 19:30 Welcome reception  <a href="#">Location: Balzaal</a><br>
+                17:00 - 19:30 Welcome reception  <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
 
@@ -101,7 +101,7 @@
         </tr>
          <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Opening and Keynote  <a href="#">Location: Balzaal</a><br>
+                Opening and Keynote  <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
        
@@ -124,12 +124,12 @@
          
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                10:15 - 10:45 Coffee Break <a href="#">Location: Gaanderij</a><br>
+                10:15 - 10:45 Coffee Break <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 1: Ethical and Governance Challenges in Software Development <a href="#">Location: Balzaal</a><br>
+                Session 1: Ethical and Governance Challenges in Software Development <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -155,7 +155,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">Location: Gaanderij</a><br>
+                Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -181,13 +181,13 @@
 
        <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:15 - 13:30 Lunch  <a href="#">Location: Gaanderij</a> <br>
+                12:15 - 13:30 Lunch  <a href="#">Room: Gaanderij</a> <br>
             </th>
         </tr>
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session  3: Sustainable ICT and Cloud Adoption in Software Businesses <a href="#">Location: Balzaal</a><br>
+                Session  3: Sustainable ICT and Cloud Adoption in Software Businesses <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -209,7 +209,7 @@
 
            <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 4:  Transparency and Trustability in AI and Software Business <a href="#">Location: Gaanderij</a><br>
+                Session 4:  Transparency and Trustability in AI and Software Business <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -230,14 +230,14 @@
 
           <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                14:45 - 15:30 Coffee Break, Demos, and Poster Session <a href="#">Location: Gaanderij</a><br>
+                14:45 - 15:30 Coffee Break, Demos, and Poster Session <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
 
 
            <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 5: Diversity, Equity, and Inclusion in AI and Software Engineering <a href="#">Location: Balzaal</a><br>
+                Session 5: Diversity, Equity, and Inclusion in AI and Software Engineering <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -267,7 +267,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 6: Sustainable Software Lifecycle and Architectural Practices <a href="#">Location: Gaanderij</a><br>
+                Session 6: Sustainable Software Lifecycle and Architectural Practices <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
         
@@ -299,7 +299,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                18:15 - 21:00 Dinner & Awards <a href="#">Location: Kasteel Oudaen</a><br>
+                18:15 - 21:00 Dinner & Awards <a href="#">Room: Kasteel Oudaen</a><br>
             </th>
         </tr>
         
@@ -311,7 +311,7 @@
         </tr>
          <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Opening and Keynote  <a href="#">Location: Balzaal</a><br>
+                Opening and Keynote  <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
 
@@ -329,13 +329,13 @@
         
        <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                10:00 - 10:30 Coffee Break, Demos, and Poster Session <a href="#">Location: Gaanderij</a> <br>
+                10:00 - 10:30 Coffee Break, Demos, and Poster Session <a href="#">Room: Gaanderij</a> <br>
             </th>
         </tr>
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 7: Ethical Platforms, Governance and Autonomy of Emergent Technologies <a href="#">Location: Balzaal</a><br>
+                Session 7: Ethical Platforms, Governance and Autonomy of Emergent Technologies <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
         
@@ -360,7 +360,7 @@
         </tr>
          <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 8: Continuous Experimentation in Software and Game Development <a href="#">Location: Tuinzaal</a><br>
+                Session 8: Continuous Experimentation in Software and Game Development <a href="#">Room: Tuinzaal</a><br>
             </th>
         </tr>
         
@@ -385,12 +385,12 @@
         </tr>
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:00 - 13:00 Lunch <a href="#">Location: Gaanderij</a><br>
+                12:00 - 13:00 Lunch <a href="#">Room: Gaanderij</a><br>
             </th>
         </tr>
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Keynote  <a href="#">Location: Balzaal</a><br>
+                Keynote  <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>                
          <tr style="background-color: #ffa69e;">
@@ -401,7 +401,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 9: Ethical and Sustainable Practices in Software Startups <a href="#">Location: Balzaal</a><br>
+                Session 9: Ethical and Sustainable Practices in Software Startups <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
         
@@ -427,7 +427,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session  10: Ethical and Inclusive AI and Digital Tools in Education and Workforce <a href="#">Location: Tuinzaal</a><br>
+                Session  10: Ethical and Inclusive AI and Digital Tools in Education and Workforce <a href="#">Room: Tuinzaal</a><br>
             </th>
         </tr>
         
@@ -453,7 +453,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                15:05 - 15:30 Coffee Break <a href="#">Location: Gaanderij</a> <br>
+                15:05 - 15:30 Coffee Break <a href="#">Room: Gaanderij</a> <br>
             </th>
         </tr>
 
@@ -461,7 +461,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 11: Sustainability and Trust in Software Ecosystems <a href="#">Location: Balzaal</a><br>
+                Session 11: Sustainability and Trust in Software Ecosystems <a href="#">Room: Balzaal</a><br>
             </th>
         </tr>
 
