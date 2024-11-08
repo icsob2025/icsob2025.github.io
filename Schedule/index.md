@@ -18,7 +18,7 @@
             </th>
         </tr>
                <tr>
-            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: ##eeffa3; font-weight: bold; font-size: 1.2em;">
                 PhD Retreat <a href="#">Location: St. Barbarakamer</a> & Workshop <a href="#">Location: Gaanderij</a><br>
             </th>
         </tr>
