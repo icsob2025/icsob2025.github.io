@@ -120,6 +120,8 @@ conference:
       - name: Program 
         menu:
          - name: Program Overview
+           relative_url: /program/
+         - name: Detail Schedule
            relative_url: /Schedule/
          - name: Keynotes
            relative_url: /speakers/
