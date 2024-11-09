@@ -138,7 +138,7 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="3" font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.8em;">20m</span></td>
+            <td style="width: 15%; font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.8em;">20m</span></td>
             <td><b>Opening and Introduction</b><br>Slinger Jansen</td>
             <td></td>
         </tr>
