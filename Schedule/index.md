@@ -56,6 +56,11 @@
                 09:00 - 09:30 Reception & Registration <br>
             </th>
         </tr>
+         <tr style="background-color: #ADEFD1FF;">
+            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+            <td><b> Reception & Registration </b></td>
+            <td></td>
+        </tr>
          <tr>
             <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
                
