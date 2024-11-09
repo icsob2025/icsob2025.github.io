@@ -134,7 +134,7 @@
        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">08:30 - 09:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-            <td style="width: 75%;"><b>Walk-in and Registration</b></td>
+            <td style="width: 85%;"><b>Walk-in and Registration</b></td>
         </tr>
         <tr>
             <td style="width: 15%; font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.8em;">20m</span></td>
