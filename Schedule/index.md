@@ -118,7 +118,7 @@
 
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 17:00 - 19:30</td>
-            <td><b> Welcome reception  <a href="#">(Room: Balzaal)</a> </b></td>
+            <td><b> Welcome Reception  <a href="#">(Room: Balzaal)</a> </b></td>
             <td></td>
         </tr>
            
@@ -146,8 +146,8 @@
        
          <tr style="background-color: #ffa69e;">
              <td style="width: 12%; font-weight: bold; color: gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
-             <td><b>Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
-             <td></td>
+             <td colspan="2" ><b>Keynote: Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
+             
          </tr>
          
 
@@ -289,13 +289,13 @@
 
         <tr>
             <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:10</td>
-            <td><b>Opening and introduction</b><br>Slinger Jansen</td>
+            <td><b>Opening and Introduction</b><br>Slinger Jansen</td>
             <td></td>
         </tr>
 
          <tr style="background-color: #ffa69e;">
             <td style="width: 12%; font-weight: bold; color: gray;">09:10 - 10:00<br><span style="font-weight: normal; font-size: 0.8em;">50m</span></td>
-            <td colspan="2" ><b>Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
+            <td colspan="2" ><b>Keynote: Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
             
         </tr>
         <tr style="background-color: #e3e3e6;">
@@ -351,7 +351,7 @@
          <tr style="background-color: #ffa69e;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 13:50<br><span style="font-weight: normal; font-size: 0.8em;">50m</span></td>
 
-            <td><b>Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
+            <td><b>Keynote: Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
              <td></td>
         </tr>
 
