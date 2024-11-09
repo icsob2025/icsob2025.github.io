@@ -53,7 +53,7 @@
      </tr>
 
          <tr style="background-color: #ADEFD1FF;">
-            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:30</td>
             <td><b> Reception & Registration </b></td>
             <td></td>
         </tr>
@@ -80,7 +80,7 @@
         </tr>
       
         <tr style="background-color: #e3e3e6;">
-            <td style="width: 12%; font-weight: bold; color: gray;"> 10:30 - 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+            <td style="width: 12%; font-weight: bold; color: gray;"> 10:30 - 11:00</td>
             <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
             <td></td>
         </tr>
@@ -91,10 +91,10 @@
             <td><b> Workshop (Session 2) </b></td>
         </tr>
 
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:00 - 13:00 Lunch <a href="#">Room: Gaanderij</a><br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 12:00 - 13:00</td>
+            <td><b> Lunch <a href="#">Room: Gaanderij</a> </b></td>
+            <td></td>
         </tr>
 
         <tr style="background-color: #f9f9f9;">
@@ -103,10 +103,11 @@
             <td><b> Workshop (Session 3) </b></td>
         </tr>
 
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                14:30 - 15:00 Coffee Break <a href="#">Room: Gaanderij</a><br>
-            </th>
+
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 14:30 - 15:00</td>
+            <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td></td>
         </tr>
 
          <tr style="background-color: #f9f9f9;">
@@ -115,12 +116,11 @@
             <td><b> Workshop (Session 4) </b></td>
         </tr>
 
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                17:00 - 19:30 Welcome reception  <a href="#">Room: Balzaal</a><br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 17:00 - 19:30</td>
+            <td><b> Welcome reception  <a href="#">Room: Balzaal</a> </b></td>
+            <td></td>
         </tr>
-
            
 <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
