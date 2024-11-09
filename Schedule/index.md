@@ -351,8 +351,8 @@
          <tr style="background-color: #ffa69e;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 13:50<br><span style="font-weight: normal; font-size: 0.8em;">50m</span></td>
 
-            <td><b>Keynote: Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
-             <td></td>
+            <td colspan="2"><b>Keynote: Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
+             
         </tr>
 
         <tr>
