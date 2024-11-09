@@ -122,56 +122,64 @@
     <th colspan="3">10:15 - 10:45 Coffee Break (Location: Gaanderij)</th>
 </tr>
 
-<tr class="section-title">
-    <th colspan="3">Session 1: Ethical and Governance Challenges in Software Development (Location: Balzaal)</th>
-</tr>
+<!-- Parallel Sessions Row -->
+<tr>
+    <td colspan="3">
+        <table width="100%">
+            <tr>
+                <!-- Session 1 Column -->
+                <td style="vertical-align: top; width: 50%; padding-right: 10px;">
+                    <table width="100%">
+                        <tr class="section-title">
+                            <th>Session 1: Ethical and Governance Challenges in Software Development (Location: Balzaal)</th>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">10:45 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+                            <td class="event-details"><b>Full Paper #8: "Five Darlings to be Killed"</b><br>Helena Holmström Olsson and Jan Bosch</td>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">11:15 - 11:45<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+                            <td class="event-details"><b>Full Paper #12: "Digital Sovereignty: Affordances in Open Source Projects"</b><br>Martha Klare and Ulrike Lechner</td>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">11:45 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
+                            <td class="event-details"><b>Short Paper #57: "The Ethical Landscape in Public Procurement of ICT Systems"</b><br>Aapo Koski, Sinna Pirinen, and Tommi Mikkonen</td>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">12:00 - 12:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
+                            <td class="event-details"><b>Short Paper #72: "Exploring Classification Consistency of Natural Language Requirements Using GPT-4o"</b><br>Fredrik Karlsson, Panagiota Chatzipetrou, Shang Gao, and Tanja Havstorm</td>
+                        </tr>
+                    </table>
+                </td>
 
-<tr class="standard-row">
-    <td class="time-slot">10:45 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-    <td class="session-type">Full Paper</td>
-    <td class="event-details"><b>Full Paper #8: "Five Darlings to be Killed"</b><br>Helena Holmström Olsson and Jan Bosch</td>
+                <!-- Session 2 Column -->
+                <td style="vertical-align: top; width: 50%; padding-left: 10px;">
+                    <table width="100%">
+                        <tr class="section-title">
+                            <th>Session 2: Developer Experience and Ecosystem Trust in Software Platforms (Location: Gaanderij)</th>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">10:45 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+                            <td class="event-details"><b>Full Paper #17: "Unveiling the Skills and Responsibilities of Serverless Practitioners: An Empirical Investigation"</b><br>Muhammad Hamza, Vy Kauppinen, Muhammad Azeem Akbar, Wardah Naeem Awan, and Kari Smolander</td>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">11:15 - 11:45<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+                            <td class="event-details"><b>Full Paper #48: "On the Way to the Best Information System of the Future -- Reflections on Scenarios in favor of Good Technology Development"</b><br>Isabelle Fries, Maximilian Greiner, Manfred Hofmeier, Michael Hofmeier, Razvan Hrestic, and Ulrike Lechner</td>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">11:45 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
+                            <td class="event-details"><b>Short Paper #89: "What Affects Developer Experience in Software Platforms?"</b><br>Rodrigo Zacarias, Leo Antunes, Marcos Seruffo, Rodrigo Santos, and Patricia Lago</td>
+                        </tr>
+                        <tr class="standard-row">
+                            <td class="time-slot">12:00 - 12:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
+                            <td class="event-details"><b>Short Paper #86: "Enabling Inter-Organizational Data Sharing: Towards a Method for Assessing Data Assets"</b><br>Maximilian Werling, Kim Stuber, Dimitri Petrik, Jens Lachenmaier, and Georg Herzwurm</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
 </tr>
-<tr class="standard-row">
-    <td class="time-slot">11:15 - 11:45<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-    <td class="session-type">Full Paper</td>
-    <td class="event-details"><b>Full Paper #12: "Digital Sovereignty: Affordances in Open Source Projects"</b><br>Martha Klare and Ulrike Lechner</td>
-</tr>
-<tr class="standard-row">
-    <td class="time-slot">11:45 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
-    <td class="session-type">Short Paper</td>
-    <td class="event-details"><b>Short Paper #57: "The Ethical Landscape in Public Procurement of ICT Systems"</b><br>Aapo Koski, Sinna Pirinen, and Tommi Mikkonen</td>
-</tr>
-<tr class="standard-row">
-    <td class="time-slot">12:00 - 12:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
-    <td class="session-type">Short Paper</td>
-    <td class="event-details"><b>Short Paper #72: "Exploring Classification Consistency of Natural Language Requirements Using GPT-4o"</b><br>Fredrik Karlsson, Panagiota Chatzipetrou, Shang Gao, and Tanja Havstorm</td>
-</tr>
-
-<tr class="section-title">
-    <th colspan="3">Session 2: Developer Experience and Ecosystem Trust in Software Platforms (Location: Gaanderij)</th>
-</tr>
-
-<tr class="standard-row">
-    <td class="time-slot">10:45 - 11:15<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-    <td class="session-type">Full Paper</td>
-    <td class="event-details"><b>Full Paper #17: "Unveiling the Skills and Responsibilities of Serverless Practitioners: An Empirical Investigation"</b><br>Muhammad Hamza, Vy Kauppinen, Muhammad Azeem Akbar, Wardah Naeem Awan, and Kari Smolander</td>
-</tr>
-<tr class="standard-row">
-    <td class="time-slot">11:15 - 11:45<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-    <td class="session-type">Full Paper</td>
-    <td class="event-details"><b>Full Paper #48: "On the Way to the Best Information System of the Future -- Reflections on Scenarios in favor of Good Technology Development"</b><br>Isabelle Fries, Maximilian Greiner, Manfred Hofmeier, Michael Hofmeier, Razvan Hrestic, and Ulrike Lechner</td>
-</tr>
-<tr class="standard-row">
-    <td class="time-slot">11:45 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
-    <td class="session-type">Short Paper</td>
-    <td class="event-details"><b>Short Paper #89: "What Affects Developer Experience in Software Platforms?"</b><br>Rodrigo Zacarias, Leo Antunes, Marcos Seruffo, Rodrigo Santos, and Patricia Lago</td>
-</tr>
-<tr class="standard-row">
-    <td class="time-slot">12:00 - 12:15<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
-    <td class="session-type">Short Paper</td>
-    <td class="event-details"><b>Short Paper #86: "Enabling Inter-Organizational Data Sharing: Towards a Method for Assessing Data Assets"</b><br>Maximilian Werling, Kim Stuber, Dimitri Petrik, Jens Lachenmaier, and Georg Herzwurm</td>
-</tr>
-
        <tr>
             <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
                 12:15 - 13:30 Lunch  <a href="#">Room: Gaanderij</a> <br>
