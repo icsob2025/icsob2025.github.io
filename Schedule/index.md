@@ -134,12 +134,12 @@
         </tr>
        
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 12%; font-weight: bold; color: gray;">08:30 - 09:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+            <td style="width: 12%; font-weight: bold; color: gray;">08:30 - 09:00</td>
             <td><b>Walk-in and Registration</b></td>
             <td></td>
         </tr>
         <tr>
-            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.8em;">20m</span></td>
+            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:20</td>
             <td><b>Opening and Introduction</b><br>Slinger Jansen</td>
             <td></td>
         </tr>
@@ -150,11 +150,13 @@
              <td></td>
          </tr>
          
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                10:15 - 10:45 Coffee Break <a href="#">(Room: Gaanderij)</a><br>
-            </th>
+
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 10:15 - 10:45</td>
+            <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td></td>
         </tr>
+        
         <tr>
              <td style="background-color: #ADEFD1FF; ">
             </td>
@@ -186,13 +188,11 @@
             <td><b>Short Paper #86: "Enabling Inter-Organizational Data Sharing: Towards a Method for Assessing Data Assets" </b><br>Maximilian Werling, Kim Stuber, Dimitri Petrik, Jens Lachenmaier, and Georg Herzwurm</td>
         </tr>
 
-                
-       <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:15 - 13:30 Lunch  <a href="#">(Room: Gaanderij)</a> <br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 12:15 - 13:30</td>
+            <td><b> Lunch  <a href="#">(Room: Gaanderij)</a>  </b></td>
+            <td></td>
         </tr>
-
         <tr>
             <td style="background-color: #ADEFD1FF; ">
                
@@ -222,13 +222,12 @@
            <td><b>Short Paper #79: "Adoption of Cloud Platforms Among Independent Software Vendors" </b><br> Lucas Mangold, Monty Meier, and Maximilian Schreieck </td>
            <td><b>Short Paper #73: "Secondary Use of Health Data: Centralized Structure and Information Security Frameworks in Finland"  </b><br> Hannu Vilpponen, Antti Piirainen, Miikka Kallberg, and Tommi Mikkonen </td>
          </tr>
-
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                14:45 - 15:30 Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a><br>
-            </th>
+      
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30</td>
+            <td><b> Coffee Break, Demos, and Poster Session </b></td>
+            <td><a href="#">(Room: Gaanderij)</a></td>
         </tr>
-
 
            <tr>
               <td style="background-color: #ADEFD1FF; ">
@@ -271,15 +270,11 @@
            <td><b>Short Paper #92: "Exploring the Factors that Impact The Half-life of Software"  </b><br> Krzysztof Wnuk, Theresa Harrer, Piotr Tomaszewski and Ehsan Zabardast </td>
         </tr>
 
-
-
- 
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                18:15 - 21:00 Dinner & Awards <a href="#">(Room: Kasteel Oudaen)</a><br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 18:15 - 21:00</td>
+            <td><b> Dinner & Awards <a href="#">(Room: Kasteel Oudaen)</a> </b></td>
+            <td></td>
         </tr>
-        
 
         <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
@@ -293,25 +288,22 @@
         </tr>
 
         <tr>
-            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:10<br><span style="font-weight: normal; font-size: 0.8em;">10m</span></td>
-
+            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:10</td>
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
             <td></td>
         </tr>
 
          <tr style="background-color: #ffa69e;">
             <td style="width: 12%; font-weight: bold; color: gray;">09:10 - 10:00<br><span style="font-weight: normal; font-size: 0.8em;">50m</span></td>
-
-            <td><b>Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
-            <td></td>
+            <td colspan="2" ><b>Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
+            
+        </tr>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30</td>
+            <td colspan="2"><b> Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b></td>
+            
         </tr>
         
-       <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                10:00 - 10:30 Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> <br>
-            </th>
-        </tr>
-
         <tr>
              <td style="background-color: #ADEFD1FF; ">
                 
@@ -345,12 +337,12 @@
            <td><b>Full Paper #70: "npmSECO: A Tool for Integrating Trust into the Software Ecosystem"</b><br> Fang Hou, Angel Temelko, and Martijn Voordouw </td>
         </tr>
 
-       
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                12:00 - 13:00 Lunch <a href="#">(Room: Gaanderij)</a><br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 12:00 - 13:00</td>
+            <td><b> Lunch <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td></td>
         </tr>
+        
         <tr>
             <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 Keynote  <a href="#">(Room: Balzaal)</a><br>
@@ -401,14 +393,11 @@
         </tr>
 
 
-
-
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                15:05 - 15:30 Coffee Break <a href="#">(Room: Gaanderij)</a> <br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 15:05 - 15:30</td>
+            <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td></td>
         </tr>
-
 
 
         <tr>
@@ -445,11 +434,11 @@
  
 
         </tr>
-
-       <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                16:45 - 17:00 Closing <br>
-            </th>
-        </tr>  
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 16:45 - 17:00</td>
+            <td><b> Closing </b></td>
+            <td></td>
+        </tr>
+    
     </tbody>
 </table>
