@@ -134,16 +134,19 @@
        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">08:30 - 09:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-            <td style="width: 85%;"><b>Walk-in and Registration</b></td>
+            <td><b>Walk-in and Registration</b></td>
+            <td></td>
         </tr>
         <tr>
-            <td style="width: 15%; font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.8em;">20m</span></td>
+            <td colspan="3" font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.8em;">20m</span></td>
             <td><b>Opening and Introduction</b><br>Slinger Jansen</td>
+            <td></td>
         </tr>
        
          <tr style="background-color: #ffa69e;">
              <td style="width: 15%; font-weight: bold; color: gray;">09:20 - 10:15<br><span style="font-weight: normal; font-size: 0.8em;">55m</span></td>
              <td><b>Workarounds are Everywhere! We’d Better Use Them</b><br>Inge van de Weerd</td>
+             <td></td>
          </tr>
          
         <tr>
@@ -292,12 +295,14 @@
             <td style="width: 15%; font-weight: bold; color: gray;">09:00 - 09:10<br><span style="font-weight: normal; font-size: 0.8em;">10m</span></td>
 
             <td><b>Opening and introduction</b><br>Slinger Jansen</td>
+            <td></td>
         </tr>
 
          <tr style="background-color: #ffa69e;">
             <td style="width: 15%; font-weight: bold; color: gray;">09:10 - 10:00<br><span style="font-weight: normal; font-size: 0.8em;">50m</span></td>
 
             <td><b>Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
+            <td></td>
         </tr>
         
        <tr>
@@ -354,6 +359,7 @@
             <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 13:50<br><span style="font-weight: normal; font-size: 0.8em;">50m</span></td>
 
             <td><b>Ethics In Practice: How It Influences the Software We Build</b><br>Michiel Overeem</td>
+             <td></td>
         </tr>
 
         <tr>
