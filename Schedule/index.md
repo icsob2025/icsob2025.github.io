@@ -57,14 +57,14 @@
             </th>
         </tr>
          <tr>
-            <td colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
+            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
                
             </td>
-            <td colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
+            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
                 PhD Retreat <a href="#">Room: St. Barbarakamer</a> 
                 
             </td>
-            <td colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
+            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
                 
                 Workshop <a href="#">Room: Gaanderij</a>
             </td>
