@@ -51,11 +51,7 @@
                 Day 1 November 18, 2024 <br>
             </th>
      </tr>
-        <tr>
-            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                09:00 - 09:30 Reception & Registration <br>
-            </th>
-        </tr>
+
          <tr style="background-color: #ADEFD1FF;">
             <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td><b> Reception & Registration </b></td>
@@ -83,10 +79,10 @@
             <td><b> Workshop (Session 1) </b></td>
         </tr>
       
-        <tr>
-            <th colspan="3" style="background-color: #e3e3e6; font-weight: bold; font-size: 1.2em;">
-                10:30 - 11:00 Coffee Break <a href="#">(Room: Gaanderij)</a><br>
-            </th>
+        <tr style="background-color: #e3e3e6;">
+            <td style="width: 12%; font-weight: bold; color: gray;"> 10:30 - 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+            <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td></td>
         </tr>
 
         <tr style="background-color: #f9f9f9;">
