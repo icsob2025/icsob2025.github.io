@@ -58,11 +58,15 @@
         </tr>
          <tr>
             <td colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-                <br>
+               
             </td>
             <td colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
                 PhD Retreat <a href="#">Room: St. Barbarakamer</a> 
-                Workshop <a href="#">Room: Gaanderij</a><br>
+                
+            </td>
+            <td colspan="3" style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
+                
+                Workshop <a href="#">Room: Gaanderij</a>
             </td>
         </tr>
        
@@ -82,7 +86,6 @@
 
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
             <td><b> PhD Retreat (Session 2) </b></td>
             <td><b> Workshop (Session 2) </b></td>
         </tr>
@@ -95,7 +98,6 @@
 
         <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
             <td><b> PhD Retreat (Session 3)</b></td>
             <td><b> Workshop (Session 3) </b></td>
         </tr>
@@ -108,7 +110,6 @@
 
          <tr style="background-color: #f9f9f9;">
             <td style="width: 15%; font-weight: bold; color: gray;">15:00 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
-            <td style="width: 15%; font-size: 0.9em; color: gray;">PhD Retreat</td>
             <td><b> PhD Retreat (Session 4) </b></td>
             <td><b> Workshop (Session 4) </b></td>
         </tr>
@@ -154,13 +155,12 @@
             </th>
         </tr>
         <tr>
-             <td colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                <br>
+             <td style="background-color: #ADEFD1FF; ">
             </td>
-            <td colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+            <td style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 Session 1: Ethical and Governance Challenges in Software Development <a href="#">Room: Balzaal</a><br>
             </td>
-            <td colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+            <td style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">Room: Gaanderij</a><br>
             </td>
         </tr>
