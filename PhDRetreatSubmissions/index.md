@@ -29,7 +29,7 @@ Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Ger
       <li>Decoding research software impact <br>
 Deekshitha (Netherlands eScience Center & Utrecht University & University of Leiden, The Netherlands)</li>
       <li>Investigating Transparency in Software Ecosystems Portals from the Point of View of Developer Experience <br>
-Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil)<br>
+Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil)  </li>
       <li>Securing Software Ecosystems through Repository Mining <br>
 Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) </li>
     </ul>
