@@ -148,7 +148,7 @@
             <td><b> Welcome Reception  <a href="#">(Room: Balzaal)</a> </b></td>
             <td></td>
         </tr>
-      <tr style="background-color: #eee;">
+      <tr style="background-color: white;">
       <td></td>
       </tr>     
 <tr>
