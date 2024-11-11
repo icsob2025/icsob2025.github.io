@@ -22,7 +22,7 @@ Anastasiia Gurzhii (Lappeenrannan–Lahden teknillinen yliopisto LUT, Finland)
     </ul>
   </li>
   <li> 10:30-11:00 - Morning Coffee </li>
-    <li> 11:00-12:00 - Session II  (10min presentation + 5min immediate Q&A for each student)  
+  <li> 11:00-12:00 - Session II  (10min presentation + 5min immediate Q&A for each student)  
     <ul>
       <li>Understanding low-code evolution, adoption and ecosystem for software development <br>
 Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany)</li>
@@ -31,8 +31,7 @@ Deekshitha (Netherlands eScience Center & Utrecht University & University of Lei
       <li>Investigating Transparency in Software Ecosystems Portals from the Point of View of Developer Experience <br>
 Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil)<br>
       <li>Securing Software Ecosystems through Repository Mining <br>
-Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands)
-      </li>
+Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) </li>
     </ul>
   </li>
   <li> 12:00-13:00 - Lunch </li>
