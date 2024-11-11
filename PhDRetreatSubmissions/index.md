@@ -10,7 +10,7 @@ The ICSOB 2024 PhD Retreat is an exciting one-day event. The retreat is designed
 <ul style="list-style: none;">
   <li> 09:30-10:30 - Session I  (10min presentation + 5min immediate Q&A for each student)  
     <ul>
-      <liTrustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan <br>
+      <li>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan <br>
 José Antonio Siqueira de Cerqueira (Tampere University, Finland)</li>
       <li>Seeking Success in Public Procurement of Information Systems <br>
 Sanni Marjanen (University of Jyväskylä, Finland)</li>
@@ -18,12 +18,23 @@ Sanni Marjanen (University of Jyväskylä, Finland)</li>
 Martha Klare (Universität der Bundeswehr München, Germany)</li>
       <li>Blockchain in Digital World: establishing new trust models in the recruiting domain <br>
 Anastasiia Gurzhii (Lappeenrannan–Lahden teknillinen yliopisto LUT, Finland)
-</li>
+      </li>
     </ul>
-  
   </li>
   <li> 10:30-11:00 - Morning Coffee </li>
-  <li> 11:00-12:00 - Session II (10min presentation + 5min immediate Q&A for each student)</li>
+    <li> 11:00-12:00 - Session II  (10min presentation + 5min immediate Q&A for each student)  
+    <ul>
+      <li>Understanding low-code evolution, adoption and ecosystem for software development <br>
+Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany)</li>
+      <li>Decoding research software impact <br>
+Deekshitha (Netherlands eScience Center & Utrecht University & University of Leiden, The Netherlands)</li>
+      <li>Investigating Transparency in Software Ecosystems Portals from the Point of View of Developer Experience <br>
+Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil)<br>
+      <li>Securing Software Ecosystems through Repository Mining <br>
+Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands)
+      </li>
+    </ul>
+  </li>
   <li> 12:00-13:00 - Lunch </li>
   <li> 13:00-14:30 - Research Dynamics I (mentors and students discuss on research methods for software business research) </li>
   <li> 14:30-15:00 - Afternoon Coffee</li>
