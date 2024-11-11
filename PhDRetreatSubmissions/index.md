@@ -8,15 +8,15 @@ The ICSOB 2024 PhD Retreat is an exciting one-day event. The retreat is designed
 <hr> 
 <b>Program:</b> 
 <ul style="list-style: none;">
-  <li> 09:30-10:30 - Session I </li>
+  <li> 09:30-10:30 - Session I  (10min presentation + 5min immediate Q&A for each student)  </li>
   <li> 10:30-11:00 - Morning Coffee </li>
-  <li> 11:00-12:00 - Session II </li>
+  <li> 11:00-12:00 - Session II (10min presentation + 5min immediate Q&A for each student)</li>
   <li> 12:00-13:00 - Lunch </li>
-  <li> 13:00-14:00 - Session III </li>
-  <li> 14:00-15:00 - Afternoon Coffee</li>
-  <li> 15:00-16:00 -  Session IV </li>
-  <li> 16:00-16:40 - Two tracks </li>
-  <li> 16:40-17:00 -  PhD Retreat Closing </li>
+  <li> 13:00-14:30 - Session III </li>
+  <li> 14:30-15:00 - Afternoon Coffee</li>
+  <li> 15:00-16:00 - Session IV </li>
+  <li> 16:00-16:30 - Motivational Talk </li>
+  <li> 16:30-17:00 -  PhD Retreat Closing </li>
 </ul>
 <hr>
 
