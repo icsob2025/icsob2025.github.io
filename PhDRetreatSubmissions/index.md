@@ -38,8 +38,8 @@ Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherland
   <li> 13:00-14:30 - Research Dynamics I (mentors and students discuss on research methods for software business research) </li>
   <li> 14:30-15:00 - Afternoon Coffee</li>
   <li> 15:00-16:00 - Research Dynamics II (mentors and students discuss on implications for theory and practice on their research) </li>
-  <li> 16:00-16:30 - Motivational Talk (Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden) ) </li>
-  <li> 16:30-17:00 -  PhD Retreat Closing </li>
+  <li> 16:00-16:30 - Motivational Talk - Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </li>
+  <li> 16:30-17:00 - PhD Retreat Closing </li>
 </ul>
 <hr>
 
