@@ -138,7 +138,7 @@
             <td><b> Workshop (Session 4) </b></td>
         </tr>
          <tr style="background-color: #f9f9f9;">
-            <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+            <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td><b>PhD Retreat Closing  </b></td>
             <td><b> Workshop (Session 4) </b></td>
         </tr>
