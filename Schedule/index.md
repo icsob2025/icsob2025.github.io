@@ -62,7 +62,7 @@
                
             </td>
             <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-                PhD Retreat <a href="#">(Room: St. Barbarakamer)</a> 
+                PhD Retreat <a href="#">(Room: St. Barbarakamer)<br>(10min presentation + 5min immediate Q&A for each student)</a> 
                 
             </td>
             <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
@@ -73,9 +73,18 @@
        
     </thead>
     <tbody>
+       
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td><b> PhD Retreat (Session 1) </b></td>
+            <td><b>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
+
+<b>Decoding research software impact </b><br> Deekshitha (Netherlands eScience Center & Utrecht University & University of Leiden, The Netherlands) <br>
+
+<b>Investigating Transparency in Software Ecosystems Portals from the Point of View of Developer Experience </b><br>Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil) <br>
+
+<b>Securing Software Ecosystems through Repository Mining </b><br>Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) <br>
+
+</td>
             <td><b> Workshop (Session 1) </b></td>
         </tr>
       
