@@ -148,7 +148,8 @@
             <td><b> Welcome Reception  <a href="#">(Room: Balzaal)</a> </b></td>
             <td></td>
         </tr>
-      <tr>  
+      <tr style="background-color: #eee;">
+      <td></td>
       </tr>     
 <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
@@ -303,8 +304,9 @@
             <td><b> Dinner & Awards <a href="#">(Room: Kasteel Oudaen)</a> </b></td>
             <td></td>
         </tr>
-<tr>  
-</tr>   
+      <tr style="background-color: white;">
+      <td></td>
+      </tr>    
         <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
                 Day 3 November 20, 2024 <br>
