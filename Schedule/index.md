@@ -76,14 +76,14 @@
        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td><b>Session 1: (10min presentation + 5min immediate Q&A for each student)<br>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
+            <td><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
 
 <b>Seeking Success in Public Procurement of Information Systems </b><br> Sanni Marjanen (University of Jyväskylä, Finland) <br>
 
 <b>A Reference Model to strengthen Digital Sovereignty in Companies </b><br>Martha Klare (Universität der Bundeswehr München, Germany) <br>
 
 <b>Blockchain in Digital World: establishing new trust models in the recruiting domain </b><br>Anastasiia Gurzhii (Lappeenrannan–Lahden teknillinen yliopisto LUT, Finland) <br>
-
+<b>(10min presentation + 5min immediate Q&A for each student)</b>
 </td>
             <td><b> Workshop (Session 1) </b></td>
         </tr>
@@ -96,14 +96,14 @@
 
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td><b>Session 2: (10min presentation + 5min immediate Q&A for each student)<br>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
+            <td><b>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
 
 <b>Decoding research software impact </b><br> Deekshitha (Netherlands eScience Center & Utrecht University & University of Leiden, The Netherlands) <br>
 
 <b>Investigating Transparency in Software Ecosystems Portals from the Point of View of Developer Experience </b><br>Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil) <br>
 
 <b>Securing Software Ecosystems through Repository Mining </b><br>Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) <br>
-
+<b>(10min presentation + 5min immediate Q&A for each student)</b>
 </td>
             <td><b> Workshop (Session 2) </b></td>
         </tr>
