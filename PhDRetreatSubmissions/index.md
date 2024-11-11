@@ -8,14 +8,27 @@ The ICSOB 2024 PhD Retreat is an exciting one-day event. The retreat is designed
 <hr> 
 <b>Program:</b> 
 <ul style="list-style: none;">
-  <li> 09:30-10:30 - Session I  (10min presentation + 5min immediate Q&A for each student)  </li>
+  <li> 09:30-10:30 - Session I  (10min presentation + 5min immediate Q&A for each student)  
+    <ul>
+      <liTrustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan <br>
+José Antonio Siqueira de Cerqueira (Tampere University, Finland)</li>
+      <li>Seeking Success in Public Procurement of Information Systems <br>
+Sanni Marjanen (University of Jyväskylä, Finland)</li>
+      <li>A Reference Model to strengthen Digital Sovereignty in Companies <br>
+Martha Klare (Universität der Bundeswehr München, Germany)</li>
+      <li>Blockchain in Digital World: establishing new trust models in the recruiting domain <br>
+Anastasiia Gurzhii (Lappeenrannan–Lahden teknillinen yliopisto LUT, Finland)
+</li>
+    </ul>
+  
+  </li>
   <li> 10:30-11:00 - Morning Coffee </li>
   <li> 11:00-12:00 - Session II (10min presentation + 5min immediate Q&A for each student)</li>
   <li> 12:00-13:00 - Lunch </li>
-  <li> 13:00-14:30 - Session III </li>
+  <li> 13:00-14:30 - Research Dynamics I (mentors and students discuss on research methods for software business research) </li>
   <li> 14:30-15:00 - Afternoon Coffee</li>
-  <li> 15:00-16:00 - Session IV </li>
-  <li> 16:00-16:30 - Motivational Talk </li>
+  <li> 15:00-16:00 - Research Dynamics II (mentors and students discuss on implications for theory and practice on their research) </li>
+  <li> 16:00-16:30 - Motivational Talk (Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden) ) </li>
   <li> 16:30-17:00 -  PhD Retreat Closing </li>
 </ul>
 <hr>
