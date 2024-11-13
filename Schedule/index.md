@@ -198,13 +198,13 @@
         </tr>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">10: 45- 11:15<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-            <td><b>Full Paper #8: "Five Darlings to be Killed"</b><br>Helena Holmström Olsson and Jan Bosch</td>
+            <td><b>Full Paper #8: "Five Darlings to be Killed: Debunking myths about innovation in the software-intensive embedded systems industry"</b><br>Helena Holmström Olsson and Jan Bosch</td>
             <td><b>Full Paper #17: "Unveiling the Skills and Responsibilities of Serverless Practitioners: An Empirical Investigation"</b><br>Muhammad Hamza, Vy Kauppinen, Muhammad Azeem Akbar, Wardah Naeem Awan, and Kari Smolander </td>
         </tr>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:15 - 11:45<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td><b>Full Paper #12: "Digital Sovereignty: Affordances in Open Source Projects"</b><br>Martha Klare and Ulrike Lechner</td>
-            <td><b>Full Paper #48: "On the Way to the Best Information System of the Future -- Reflections on Scenarios in favor of Good Technology Development"</b><br>Isabelle Fries, Maximilian Greiner, Manfred Hofmeier, Michael Hofmeier, Razvan Hrestic, and Ulrike Lechner</td>
+            <td><b>Full Paper #48: "On the Way to the Best Information System of the Future – Reflections on Scenarios in Favor of Good Technology Development"</b><br>Isabelle Fries, Maximilian Greiner, Manfred Hofmeier, Michael Hofmeier, Razvan Hrestic and Ulrike Lechner</td>
         </tr>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">11: 45- 12:00<br><span style="font-weight: normal; font-size: 0.8em;">15m</span></td>
@@ -236,7 +236,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:30 - 14:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
-           <td><b>Full Paper #61: "Towards Sustainable ICT Procurement: Impacting Data Based Decision-Making in B2B Green ICT Adoption" </b><br> Md Ariful Islam, Shola Oyedeji, and Jari Porras</td>
+           <td><b>Full Paper #61: "Sustainable ICT Procurement: Data-Driven Decision-Making in B2B Green ICT Adoption" </b><br> Md Ariful Islam, Shola Oyedeji, and Jari Porras</td>
            <td><b>Full Paper #52: "Fairness in AI Systems Development: Beyond EU AI Act Compliance" </b><br>Salla Westerstrand </td>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -274,7 +274,7 @@
             <td style="width: 12%; font-weight: bold; color: gray;">15:30 - 16:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
            <td><b>Full Paper #36: "Exploring Diversity-Driven Power Dynamics in Software Engineering Environments: Insights from a Qualitative Study" </b><br>Konstantinos Tsilionis, Jesse Stoels, and Yves Wautelet </td>
-           <td><b>Full Paper #67: "A Case Study of Integrating Sustainability into Agile Software Development"  </b><br> Shola Oyedeji, Hatef Shamshiri, Mikhail Adisa, Rafael Capilla, and Ruzanna Chitchyan </td>
+           <td><b>Full Paper #67: Integrating Sustainability into Scrum Agile Software Development: An Action Research Approach"  </b><br> Shola Oyedeji, Hatef Shamshiri, Mikhail Adisa, Rafael Capilla, and Ruzanna Chitchyan </td>
         </tr>
         
         <tr style="background-color: #f9f9f9;">
@@ -351,7 +351,7 @@
             <td style="width: 12%; font-weight: bold; color: gray;">10: 30- 11:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
            <td><b>Full Paper #63: "Marketplace for Multi-Party Development of Artificial Intelligence Systems: Perceptions on Value Creation" </b><br>Yuliyan Maksimov and Samuel A. Fricker</td>
-            <td><b>Full Paper #35: "Pre-Release Experimentation in Indie Game Development: An Interview Survey" </b><br>Johan Linåker, Elizabeth Bjarnason, and Fabian Fagerholm</td>
+            <td><b>Full Paper #35: "Pre-Release Experimentation in Indie GameDevelopment: An Interview Survey" </b><br>Johan Linåker, Elizabeth Bjarnason and Fabian Fagerholm</td>
         </tr>
         
         <tr style="background-color: #f9f9f9;">
@@ -364,7 +364,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:30 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
-           <td><b>Full Paper #62: "Toward the Link between Governance and Autonomy of Corporate Start-ups: Conceptual Framework and Empirical Evidence" </b><br>Konstantin Garidis, Alexander Rossmann, Alan Murray and Dominik Augenstein </td>
+           <td><b>Full Paper #62: "Too Tight or Too Loose? TowardEffective Governance for Corporate Startup Autonomy" </b><br>Konstantin Garidis, Alexander Rossmann, Alan Murray and Dominik Augenstein </td>
            <td><b>Full Paper #70: "npmSECO: A Tool for Integrating Trust into the Software Ecosystem"</b><br> Fang Hou, Angel Temelko, and Martijn Voordouw </td>
         </tr>
 
@@ -410,7 +410,7 @@
             <td style="width: 12%; font-weight: bold; color: gray;">14:20 - 14:50<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
            <td><b>Full Paper #51: "The Use of Generative AI Tools in the Inception Stage of Software Startups"   </b><br> Triando, Mario Simaremare, Xiaofeng Wang, and Akshy Sripad Raghavendra Prasad </td>
-           <td><b>Full Paper  #53: "Professionals' opinions on the use of AI software for HRM"  </b><br>Nasreen Azad, Najmul Islam, and Maryam Hina</td>
+           <td><b>Full Paper #53: "Professionals' opinions on the use of AI software for HRM"  </b><br>Nasreen Azad, Maryam Hina and Najmul Islam</td>
          </tr>
         
         <tr style="background-color: #f9f9f9;">
@@ -453,7 +453,7 @@
          <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
-           <td><b>Full Paper #32: "Towards sustainable ICT solutions: analyzing call for tender-documents" </b><br>Markus Takamaa and Samuli Pekkola</td>
+           <td><b>Full Paper #32: "Towards sustainable ICT solutions: Analyzing call for tender -documents" </b><br>Markus Takamaa and Samuli Pekkola</td>
            <td></td>
         </tr>
         
