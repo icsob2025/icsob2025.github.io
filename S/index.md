@@ -56,6 +56,7 @@
             <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:30</td>
             <td><b> Reception & Registration </b></td>
             <td></td>
+            <td></td>
         </tr>
          <tr>
             <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;"></td>
@@ -249,14 +250,20 @@
         </tr>
       <tr style="background-color: white;">
       <td></td>
-      </tr>     
-<tr>
-            <th colspan="4" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
+      </tr>
+          </tbody>
+</table>
+<table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
+    <thead>
+
+            <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
                 Day 2 November 19, 2024 <br>
             </th>
         </tr>
+        </thead>
+        <tbody>
          <tr>
-            <th colspan="4" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 Opening and Keynote  <a href="#">(Room: Balzaal)</a><br>
             </th>
         </tr>
@@ -405,14 +412,22 @@
         </tr>
       <tr style="background-color: white;">
       <td></td>
-      </tr>    
+      </tr>  
+    </tbody>
+</table>
+      <table cellpadding="10" cellspacing="0" style="width: 100%; border-collapse: collapse;">
+    <thead>
+
         <tr>
-            <th colspan="4" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
                 Day 3 November 20, 2024 <br>
             </th>
         </tr>
+        </thead>
+        <tbody>
+
          <tr>
-            <th colspan="4" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 Opening and Keynote  <a href="#">(Room: Balzaal)</a><br>
             </th>
         </tr>
@@ -474,7 +489,7 @@
         </tr>
         
         <tr>
-            <th colspan="4" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
+            <th colspan="3" style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
                 Keynote  <a href="#">(Room: Balzaal)</a><br>
             </th>
         </tr>                
