@@ -105,7 +105,15 @@
 <b>Securing Software Ecosystems through Repository Mining </b><br>Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) <br>
 <b>(10min presentation + 5min immediate Q&A for each student)</b>
 </td>
-            <td><b> Workshop (Session 2) </b></td>
+            <td><b> Interactive Session: Software startups emerging topics<br>
+            <ul>
+                <li>Introduction of activity</li>
+                <li>Brainstorming book chapter ideas</li>
+            </ul>
+            </b>
+                Xiaofeng Wang (Face to face)<br>
+                Henry Edison and Nirnaya Tripathi (Online)
+            </td>
         </tr>
 
         <tr style="background-color: #e3e3e6;">
