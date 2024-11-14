@@ -73,7 +73,7 @@
        
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #fefae0;"><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
+            <td style="background-color: #fefae0;"><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
 
 <b>Seeking Success in Public Procurement of Information Systems </b><br> Sanni Marjanen (University of Jyväskylä, Finland) <br>
 
@@ -85,21 +85,18 @@
             
 
  
-            <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span></td>
+            <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span><br>
+            9:40-10:05<br><span style="font-weight: normal; font-size: 0.8em;">25m</span><br>
+            10:05-10:30<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
+            
                  <td colspan="2" style="background-color: #f8f7ff;"><b>Track Intro  </b><br>
                      Xiaofeng Wang (Face to face)<br> 
-                     Henry Edison and Nirnaya Tripathi (Online)
-                 </td>
-            
+                     Henry Edison and Nirnaya Tripathi (Online)<br> 
 
-            <td style="width: 12%; font-weight: bold; color: gray;">9:40-10:05<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
-                 <td colspan="2" style="background-color: #f9f9f9;"><b>Industrial Talk - Adapting to AI: A Startup Engineering Manager’s Journey  </b><br>
-                     Marco Mondini (Butler)
-                 </td>
-           
+                    <b>Industrial Talk - Adapting to AI: A Startup Engineering Manager’s Journey  </b><br>
+                     Marco Mondini (Butler)<br>
 
-            <td style="width: 12%; font-weight: bold; color: gray;">10:05-10:30<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
-                 <td colspan="2" style="background-color: #f9f9f9;"><b>Research Talk - Product Management in Software Startups</b><br>
+                    <b>Research Talk - Product Management in Software Startups</b><br>
                      Frédérick Pattyn (Ghent University)
                  </td>
             
