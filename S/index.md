@@ -87,7 +87,7 @@
             
 
  
-            <td style="width: 12%; font-weight: bold; color:  gray;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span><br>
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span><br>
               
               <br>
             9:40-10:05<br><span style="font-weight: normal; font-size: 0.8em;">25m</span><br>
@@ -97,13 +97,13 @@
             
                  <td style="width: 38%; background-color: #f8f7ff;"><b>Track Intro  </b><br>
                      Xiaofeng Wang (Face to face)<br> 
-                     Henry Edison and Nirnaya Tripathi (Online)<br> 
+                     Henry Edison and Nirnaya Tripathi (Online)<br>  <br>
 
                     <b>Industrial Talk - Adapting to AI: A Startup Engineering Manager’s Journey  </b><br>
-                     Marco Mondini (Butler)<br>
+                     Marco Mondini (Butler)<br>  <br>
 
                     <b>Research Talk - Product Management in Software Startups</b><br>
-                     Frédérick Pattyn (Ghent University)
+                     Frédérick Pattyn (Ghent University)<br>  <br>
                  </td>
             
         </tr>
