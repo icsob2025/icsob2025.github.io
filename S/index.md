@@ -168,12 +168,18 @@
 
          <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">15:00 - 16:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #fefae0;"><b>Research Dynamics II </b><br>(mentors and students discuss on implications for theory and practice on their research) <br></td>
+            <td style="width: 38%; style="background-color: #fefae0;"><b>Research Dynamics II </b><br>(mentors and students discuss on implications for theory and practice on their research) <br></td>
 
         </tr>
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-             <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
+            <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;">15:00-17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
+            <td style="width: 38%; background-color: #f8f7ff;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
+            
+                Xiaofeng Wang (Face to face)<br>
+                Henry Edison and Nirnaya Tripathi (Online)
+            </td>
                     
         </tr>
         <tr style="background-color: #fefae0;">
@@ -184,15 +190,6 @@
 
 
 
-
-
-            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;">15:00-17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
-            <td style="width: 38%; background-color: #f8f7ff;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
-            
-                Xiaofeng Wang (Face to face)<br>
-                Henry Edison and Nirnaya Tripathi (Online)
-            </td>
-        </tr>
         
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 17:00 - 19:30</td>
