@@ -453,7 +453,7 @@
          <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
 
-           <td><b>Full Paper #32: "Towards sustainable ICT solutions: Analyzing call for tender -documents" </b><br>Markus Takamaa and Samuli Pekkola</td>
+           <td><b>Full Paper #32: Towards sustainable ICT solutions: Analyzing call for tender documents" </b><br>Markus Takamaa and Samuli Pekkola</td>
            <td></td>
         </tr>
         
