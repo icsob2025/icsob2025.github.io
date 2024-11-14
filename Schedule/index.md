@@ -155,19 +155,13 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
-            <td><b> Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building </b><br>
-                Xiaofeng Wang (Face to face)<br>
-                Henry Edison and Nirnaya Tripathi (Online) 
-            
+            <td>
             </td>
         </tr>
          <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td><b>PhD Retreat Closing  </b></td>
-            <td><b> Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building </b><br>
-                Xiaofeng Wang (Face to face)<br>
-                Henry Edison and Nirnaya Tripathi (Online) 
-            
+            <td>
             </td>
         </tr>
 
