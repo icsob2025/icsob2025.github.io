@@ -112,23 +112,12 @@
             <td style="width: 12%; font-weight: bold; color: gray;"> 10:30 - 11:00</td>
             <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
             <td></td>
+            <td></td>
         </tr>
-         <tr>
-            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-               
-            </td>
-            <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
-               <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b><br> 
-                (10min presentation + 5min immediate Q&A for each student)
-            </td>
-                            <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
-                   <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
-                </td>
 
-        </tr>
          <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #fefae0;"><b>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
+            <td style="width: 38%; background-color: #fefae0;"><b>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
 
 <b>Decoding research software impact </b><br> Deekshitha (Netherlands eScience Center & Utrecht University & University of Leiden, The Netherlands) <br>
 
@@ -137,18 +126,8 @@
 <b>Securing Software Ecosystems through Repository Mining </b><br>Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) <br>
 </td>
 
-        </tr>
-        <tr>
-            <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
-                </td>
-                <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
-                   <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
-                </td>
-        </tr>
-
-        <tr style="background-color: #f8f7ff;">
-            <td style="width: 12%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
+            <td style="width: 12%; background-color: #f8f7ff;font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 38%; background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
             <ul>
                 <li>Introduction of activity</li>
                 <li>Brainstorming book chapter ideas</li>
@@ -162,31 +141,15 @@
             <td style="width: 12%; font-weight: bold; color: gray;"> 12:00 - 13:00</td>
             <td><b> Lunch <a href="#">(Room: Gaanderij)</a> </b></td>
             <td></td>
+            <td></td>
         </tr>
-         <tr>
-            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-               
-            </td>
-            <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
-               <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b>
-            </td>
-         </tr>
+
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
             <td colspan="2" style="background-color: #fefae0;"><b>Research Dynamics I </b><br>(mentors and students discuss on research methods for software business research) <br></td>
-        </tr>
 
-        <tr>
-            <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
-                </td>
-                <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
-                   <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
-                </td>
-        </tr>
-
-        <tr style="background-color: #f8f7ff;">
-            <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
-            <td colspan="2" style="background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
+            <td style="width: 38%; background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
             <ul>
                 <li>Pitching chapter ideas and feedback collection</li>
                 
@@ -200,15 +163,9 @@
             <td style="width: 12%; font-weight: bold; color: gray;"> 14:30 - 15:00</td>
             <td><b> Coffee Break <a href="#">(Room: Gaanderij)</a> </b></td>
             <td></td>
+            <td></td>
         </tr>
-         <tr>
-            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-               
-            </td>
-            <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
-               <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b>
-            </td>
-         </tr>
+
          <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">15:00 - 16:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
             <td colspan="2" style="background-color: #fefae0;"><b>Research Dynamics II </b><br>(mentors and students discuss on implications for theory and practice on their research) <br></td>
@@ -216,27 +173,16 @@
         </tr>
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-             <td colspan="2" style="background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
+             <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
             
             
         </tr>
-         <tr style="background-color: #fefae0;">
-            <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-             <td colspan="2" style="background-color: #fefae0;"><b>PhD Retreat Closing  </b></td>
-            
-            
-        </tr>
-        <tr>
-            <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
-                </td>
-                <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
-                   <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
-                </td>
-        </tr>
+
+
 
         <tr style="background-color: #f8f7ff;">
             <td style="width: 12%; font-weight: bold; color: gray;">15:00-17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
-            <td colspan="2" style="background-color: #f8f7ff;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
+            <td style="width: 38%; background-color: #f8f7ff;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
             
                 Xiaofeng Wang (Face to face)<br>
                 Henry Edison and Nirnaya Tripathi (Online)
@@ -246,6 +192,7 @@
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 17:00 - 19:30</td>
             <td><b> Welcome Reception  <a href="#">(Room: Balzaal)</a> </b></td>
+            <td></td>
             <td></td>
         </tr>
       <tr style="background-color: white;">
@@ -259,7 +206,7 @@
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
                 Day 2 November 19, 2024 <br>
             </th>
-        </tr>
+        
         </thead>
         <tbody>
          <tr>
