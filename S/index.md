@@ -81,7 +81,7 @@
 <b>A Reference Model to strengthen Digital Sovereignty in Companies </b><br>Martha Klare (Universität der Bundeswehr München, Germany) <br>
 
 <b>Blockchain in Digital World: establishing new trust models in the recruiting domain </b><br>Anastasiia Gurzhii (Lappeenrannan–Lahden teknillinen yliopisto LUT, Finland) <br>
-(10min presentation + 5min immediate Q&A for each student)
+<b>(10min presentation + 5min immediate Q&A for each student)</b>
 </td>
             
 
@@ -123,7 +123,7 @@
 <b>Investigating Transparency in Software Ecosystems Portals from the Point of View of Developer Experience </b><br>Rodrigo Zacarias (Federal University of the State of Rio de Janeiro - UNIRIO & Fluminense Federal University - UFF, Brazil) <br>
 
 <b>Securing Software Ecosystems through Repository Mining </b><br>Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) <br>
-(10min presentation + 5min immediate Q&A for each student)
+<b>(10min presentation + 5min immediate Q&A for each student)</b>
 </td>
 
             <td style="width: 12%; background-color: #f8f7ff;font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
