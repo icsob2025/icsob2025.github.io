@@ -129,9 +129,9 @@
             </td>
 
         </tr>
-         <tr style="background-color: #f9f9f9;">
+         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #f9f9f9;"><b>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
+            <td colspan="2" style="background-color: #fefae0;"><b>Understanding low-code evolution, adoption and ecosystem for software development </b><br>Maryam Syed Asad Ali Naqvi (Leuphana University of Lüneburg & Accenture Ecosystem, Germany) <br>
 
 <b>Decoding research software impact </b><br> Deekshitha (Netherlands eScience Center & Utrecht University & University of Leiden, The Netherlands) <br>
 
@@ -174,9 +174,9 @@
                <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b>
             </td>
          </tr>
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
-            <td colspan="2" style="background-color: #f9f9f9;"><b>Research Dynamics I </b><br>(mentors and students discuss on research methods for software business research) <br></td>
+            <td colspan="2" style="background-color: #fefae0;"><b>Research Dynamics I </b><br>(mentors and students discuss on research methods for software business research) <br></td>
         </tr>
 
         <tr>
@@ -212,20 +212,20 @@
                <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b>
             </td>
          </tr>
-         <tr style="background-color: #f9f9f9;">
+         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">15:00 - 16:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #f9f9f9;"><b>Research Dynamics II </b><br>(mentors and students discuss on implications for theory and practice on their research) <br></td>
+            <td colspan="2" style="background-color: #fefae0;"><b>Research Dynamics II </b><br>(mentors and students discuss on implications for theory and practice on their research) <br></td>
 
         </tr>
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-             <td colspan="2" style="background-color: #f9f9f9;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
+             <td colspan="2" style="background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
             
             
         </tr>
-         <tr style="background-color: #f9f9f9;">
+         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
-             <td colspan="2" style="background-color: #f9f9f9;"><b>PhD Retreat Closing  </b></td>
+             <td colspan="2" style="background-color: #fefae0;"><b>PhD Retreat Closing  </b></td>
             
             
         </tr>
