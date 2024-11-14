@@ -91,9 +91,9 @@
             </td>
         </tr>
 
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f8f7ff;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span></td>
-                 <td colspan="2" style="background-color: #f9f9f9;"><b>Track Intro  </b><br>
+                 <td colspan="2" style="background-color: #f8f7ff;"><b>Track Intro  </b><br>
                      Xiaofeng Wang (Face to face)<br> 
                      Henry Edison and Nirnaya Tripathi (Online)
                  </td>
@@ -149,9 +149,9 @@
                 </td>
         </tr>
 
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f8f7ff;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:00 - 12:00<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="2" style="background-color: #f9f9f9;"><b>Interactive Session: Software startups emerging topics<br>
+            <td colspan="2" style="background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
             <ul>
                 <li>Introduction of activity</li>
                 <li>Brainstorming book chapter ideas</li>
@@ -187,9 +187,9 @@
                 </td>
         </tr>
 
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f8f7ff;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
-            <td colspan="2" style="background-color: #f9f9f9;"><b>Interactive Session: Software startups emerging topics<br>
+            <td colspan="2" style="background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
             <ul>
                 <li>Pitching chapter ideas and feedback collection</li>
                 
@@ -237,9 +237,9 @@
                 </td>
         </tr>
 
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #f8f7ff;">
             <td style="width: 12%; font-weight: bold; color: gray;">15:00-17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
-            <td colspan="2" style="background-color: #f9f9f9;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
+            <td colspan="2" style="background-color: #f8f7ff;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
             
                 Xiaofeng Wang (Face to face)<br>
                 Henry Edison and Nirnaya Tripathi (Online)
