@@ -85,7 +85,7 @@
             
 
  
-            <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span><br>
+            <td style="width: 12%; font-weight: bold; color:  #f8f7ff;">9:30 - 9:40<br><span style="font-weight: normal; font-size: 0.8em;">10m</span><br>
             9:40-10:05<br><span style="font-weight: normal; font-size: 0.8em;">25m</span><br>
             10:05-10:30<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
             
