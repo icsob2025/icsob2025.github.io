@@ -58,9 +58,7 @@
             <td></td>
         </tr>
          <tr>
-            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-               
-            </td>
+            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;"></td>
             <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
                <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b><br> 
                 (10min presentation + 5min immediate Q&A for each student)	
@@ -99,21 +97,21 @@
                      Xiaofeng Wang (Face to face)<br> 
                      Henry Edison and Nirnaya Tripathi (Online)
                  </td>
-            </td>
+            
         </tr>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:40-10:05<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
                  <td colspan="2" style="background-color: #f9f9f9;"><b>Industrial Talk - Adapting to AI: A Startup Engineering Manager’s Journey  </b><br>
                      Marco Mondini (Butler)
                  </td>
-            </td>
+           
         </tr>
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">10:05-10:30<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
                  <td colspan="2" style="background-color: #f9f9f9;"><b>Research Talk - Product Management in Software Startups</b><br>
                      Frederick Pattyn (Ghent University)
                  </td>
-            </td>
+            
         </tr>
       
         <tr style="background-color: #e3e3e6;">
@@ -223,13 +221,13 @@
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
              <td colspan="2" style="background-color: #f9f9f9;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
             
-            </td>
+            
         </tr>
          <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
              <td colspan="2" style="background-color: #f9f9f9;"><b>PhD Retreat Closing  </b></td>
             
-            </td>
+            
         </tr>
         <tr>
             <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
