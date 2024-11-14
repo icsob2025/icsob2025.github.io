@@ -181,7 +181,9 @@
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
             <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
-            <td style="colspan="2"; background-color: #f8f7ff;"><b></b><br></td>
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;"> </span></td>
+            <td style="width: 38%; background-color: #f8f7ff;">
+            </td>
 
 
         </tr>
@@ -189,7 +191,9 @@
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
              <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>PhD Retreat Closing  </b><br></td>
-             <td style="colspan="2"; background-color: #f8f7ff;"><b></b><br></td>
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;"> </span></td>
+            <td style="width: 38%; background-color: #f8f7ff;">
+            </td>
 
                  
         </tr>
