@@ -126,7 +126,7 @@
 <b>Securing Software Ecosystems through Repository Mining </b><br>Aminul Didar Islam (LUT University, Finland & Utrecht University, The Netherlands) <br>
 </td>
 
-            <td style="width: 12%; background-color: #f8f7ff;font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
+            <td style="width: 12%; background-color: #f8f7ff;font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;"></span></td>
             <td style="width: 38%; background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
             <ul>
                 <li>Introduction of activity</li>
@@ -146,9 +146,9 @@
 
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">13:00 - 14:30<br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
-            <td colspan="2" style="background-color: #fefae0;"><b>Research Dynamics I </b><br>(mentors and students discuss on research methods for software business research) <br></td>
+            <td style="width: 38%; background-color: #fefae0;"><b>Research Dynamics I </b><br>(mentors and students discuss on research methods for software business research) <br></td>
 
-            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;">90m</span></td>
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;"> <br><span style="font-weight: normal; font-size: 0.8em;"></span></td>
             <td style="width: 38%; background-color: #f8f7ff;"><b>Interactive Session: Software startups emerging topics<br>
             <ul>
                 <li>Pitching chapter ideas and feedback collection</li>
@@ -174,14 +174,19 @@
         <tr style="background-color: #fefae0;">
             <td style="width: 12%; font-weight: bold; color: gray;">16:00 - 16:30<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
              <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>Invited Speaker: Helena Holmström Olsson (University of Malmo, Sweden)  </b><br></td>
-            
-            
+                    
+        </tr>
+        <tr style="background-color: #fefae0;">
+            <td style="width: 12%; font-weight: bold; color: gray;">16:30 - 17:00<br><span style="font-weight: normal; font-size: 0.8em;">30m</span></td>
+             <td style="width: 38%; background-color: #fefae0;"><b>Motivational Talk </b><br><b>PhD Retreat Closing  </b><br></td>
+                    
         </tr>
 
 
 
-        <tr style="background-color: #f8f7ff;">
-            <td style="width: 12%; font-weight: bold; color: gray;">15:00-17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
+
+
+            <td style="width: 12%; background-color: #f8f7ff; font-weight: bold; color: gray;">15:00-17:00<br><span style="font-weight: normal; font-size: 0.8em;">120m</span></td>
             <td style="width: 38%; background-color: #f8f7ff;"><b>Post activity: Future book chapter authors meeting schedules, Software Startups Research Network building</b><br>
             
                 Xiaofeng Wang (Face to face)<br>
