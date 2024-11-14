@@ -71,9 +71,9 @@
     </thead>
     <tbody>
        
-        <tr style="background-color: #f9f9f9;">
+        <tr style="background-color: #b8b8ff;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td colspan="3" style="background-color: #ADEFD1FF;"><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
+            <td colspan="3" style="background-color: #b8b8ff;"><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
 
 <b>Seeking Success in Public Procurement of Information Systems </b><br> Sanni Marjanen (University of Jyväskylä, Finland) <br>
 
