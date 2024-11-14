@@ -91,15 +91,13 @@
                      Henry Edison and Nirnaya Tripathi (Online)
                  </td>
             
-        </tr>
-        <tr style="background-color: #f9f9f9;">
+
             <td style="width: 12%; font-weight: bold; color: gray;">9:40-10:05<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
                  <td colspan="2" style="background-color: #f9f9f9;"><b>Industrial Talk - Adapting to AI: A Startup Engineering Manager’s Journey  </b><br>
                      Marco Mondini (Butler)
                  </td>
            
-        </tr>
-        <tr style="background-color: #f9f9f9;">
+
             <td style="width: 12%; font-weight: bold; color: gray;">10:05-10:30<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
                  <td colspan="2" style="background-color: #f9f9f9;"><b>Research Talk - Product Management in Software Startups</b><br>
                      Frédérick Pattyn (Ghent University)
