@@ -109,7 +109,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">10:05-10:30<br><span style="font-weight: normal; font-size: 0.8em;">25m</span></td>
                  <td colspan="2" style="background-color: #f9f9f9;"><b>Research Talk - Product Management in Software Startups</b><br>
-                     Frederick Pattyn (Ghent University)
+                     Frédérick Pattyn (Ghent University)
                  </td>
             
         </tr>
