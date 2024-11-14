@@ -61,14 +61,11 @@
             <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
                
             </td>
-            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-                PhD Retreat <a href="#">(Room: St. Barbarakamer)</a><br> 
-                
+            <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
+               <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b><br> 
+                (10min presentation + 5min immediate Q&A for each student)	
             </td>
-            <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;">
-                
-                Workshop <a href="#">(Room: Gaanderij)</a>
-            </td>
+
         </tr>
        
     </thead>
@@ -76,7 +73,7 @@
        
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">9:30 - 10:30<br><span style="font-weight: normal; font-size: 0.8em;">60m</span></td>
-            <td><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
+            <td colspan="3" style="background-color: #ADEFD1FF;"><b>Trustworthy LLMs for Ethically Aligned AI-based Systems: A PhD Research Plan </b><br>José Antonio Siqueira de Cerqueira (Tampere University, Finland)<br>
 
 <b>Seeking Success in Public Procurement of Information Systems </b><br> Sanni Marjanen (University of Jyväskylä, Finland) <br>
 
@@ -85,7 +82,7 @@
 <b>Blockchain in Digital World: establishing new trust models in the recruiting domain </b><br>Anastasiia Gurzhii (Lappeenrannan–Lahden teknillinen yliopisto LUT, Finland) <br>
 <b>(10min presentation + 5min immediate Q&A for each student)</b>
 </td>
-            <td><b> Workshop (Session 1) </b></td>
+            
         </tr>
       
         <tr style="background-color: #e3e3e6;">
