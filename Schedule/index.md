@@ -88,7 +88,7 @@
             <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
                
             </td>
-            <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
+            <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
                <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
             </td>
         </tr>
@@ -146,7 +146,7 @@
         <tr>
             <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
                 </td>
-                <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
+                <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
                    <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
                 </td>
         </tr>
@@ -184,7 +184,7 @@
         <tr>
             <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
                 </td>
-                <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
+                <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
                    <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
                 </td>
         </tr>
@@ -234,7 +234,7 @@
         <tr>
             <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;">
                 </td>
-                <td colspan="2" style="background-color: #eeffa3; font-size: 1.2em;">
+                <td colspan="2" style="background-color: #b8b8ff; font-size: 1.2em;">
                    <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
                 </td>
         </tr>
