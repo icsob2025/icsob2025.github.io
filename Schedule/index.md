@@ -433,7 +433,7 @@
         <tr style="background-color: #f9f9f9;">
             <td style="width: 12%; font-weight: bold; color: gray;">11:00 - 11:30<br><span style="font-weight: normal; font-size: 0.9em;">30m</span></td>
 
-           <td><b>Full Paper #34: "Designing a Blockchain-Based Credential Verification System for Improving Global Mobility of Workforce" </b><br> Anastasiia Gurzhii, Akm Bahalul Haque, Bilal Naqvi, Jaakko Vuolasto, Janne Parkkila, and A.K.M. Najmul Islam</td>
+           <td><b>Full Paper #34: "Exploring Perceptions of Blockchain in Cross-Border Workforce Mobility" </b><br> Anastasiia Gurzhii, Akm Bahalul Haque, Bilal Naqvi, Jaakko Vuolasto, Janne Parkkila, and A.K.M. Najmul Islam</td>
            <td><b>Full Paper #31: "Data-Limited Continuous Experimentation (dlCE): A Literature Review"</b><br>Stanislav Chren, Fabian Fagerholm, Elizabeth Bjarnason, Johan Linåker, Saima Rafi, Bettina Lehtelä, Per Runeson, and Marjo Kauppinen</td>
         </tr>
         
@@ -494,7 +494,7 @@
 
            <td><b>Short Paper #93: "Smart Scaling for Software Startups Through Financial Requirements Prioritization Criteria"    </b><br> Frédéric Pattyn and Usman Rafiq
 </td>
-            <td><b>Short Paper #84: "The Concept of a Web App to find Educational VR Apps"   </b><br> JNadine Bisswang, Dimitri Petrik and Sebastian Richter
+            <td><b>Short Paper #84: "The Concept of a Web App to find Educational VR Apps"   </b><br> Nadine Bisswang, Dimitri Petrik and Sebastian Richter
 
 </td>
         </tr>
