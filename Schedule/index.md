@@ -327,6 +327,7 @@
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
             Markus Funke, and Patricia Lago<br>
+            </td>
             
         </tr>
 
@@ -416,7 +417,7 @@
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
             Markus Funke, and Patricia Lago<br>
-            
+            </td>
         </tr>
         
         <tr>
