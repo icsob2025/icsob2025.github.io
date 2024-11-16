@@ -333,7 +333,7 @@
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
             Markus Funke, and Patricia Lago<br> 
             <br>
-            <a href="/Psters/" style="text-decoration: none; font-size: 20px;">Papers are available here.</a>
+            <a href="/Posters/" style="text-decoration: none; font-size: 20px;">Papers are available here.</a>
             </td>
             
         </tr>
@@ -429,7 +429,7 @@
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
             Markus Funke, and Patricia Lago<br> 
             <br>
-            <a href="/Psters/" style="text-decoration: none; font-size: 20px;">Papers are available here.</a>
+            <a href="/Posters/" style="text-decoration: none; font-size: 20px;">Papers are available here.</a>
             </td>
             </td>
         </tr>
