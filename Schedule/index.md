@@ -328,12 +328,13 @@
         <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30<br> <span style="font-weight: normal; font-size: 0.9em;">45m</span> </td>
             <td colspan="2">
-            <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
+            
+            <b><a href="/Posters/ICSOB2024_paper_97.pdf" style="color: black; text-decoration: none;">Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</a></b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
-            <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
+            <b><a href="/Posters/ICSOB2024_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
             Markus Funke, and Patricia Lago<br> 
             <br>
-            <a href="/Posters/" style="text-decoration: none; font-size: 20px;">Papers are available here.</a>
+            
             </td>
             
         </tr>
@@ -424,12 +425,12 @@
         <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30<br> <span style="font-weight: normal; font-size: 0.9em;">30m</span> </td>
             <td colspan="2">
-            <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
+            <a href="/Posters/ICSOB2024_paper_97.pdf" style="color: black; text-decoration: none;">Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</a><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
-            <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
+            <b><a href="/Posters/ICSOB2024_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
             Markus Funke, and Patricia Lago<br> 
             <br>
-            <a href="/Posters/" style="text-decoration: none; font-size: 20px;">Papers are available here.</a>
+            
             </td>
             </td>
         </tr>
