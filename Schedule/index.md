@@ -237,7 +237,7 @@
             <td></td>
         </tr>
         <tr>
-            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:20</td>
+            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:20<br><span style="font-weight: normal; font-size: 0.9em;">10m</span></td>
             <td><b>Opening and Introduction</b><br>Slinger Jansen</td>
             <td></td>
         </tr>
