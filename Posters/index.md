@@ -64,12 +64,12 @@ Poster and demo submissions will be peer-reviewed by two members of the Program 
 </p>
 
 <hr>
-<b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
+<b style="font-size: 18px" id="ImportantDates">Accepted Papers</b><br>
 <p class="lead">
-    <p><b>Title</b></p>
+    
     <ul style="list-style: none;">
         <li><b><a href="/Posters/ICSOB2024_paper_83.pdf">Towards an Architectural Perspective for Sustainability</a></b>, Markus Funke, and Patricia Lago</li>
-        <li><b><a href="/Posters/ICSOB2024_paper_97.pdf">Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents</a></b>José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson</li>
+        <li><b><a href="/Posters/ICSOB2024_paper_97.pdf">Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents</a></b>, José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson</li>
 
     </ul>
 </p>
