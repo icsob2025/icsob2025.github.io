@@ -321,7 +321,7 @@
            <td><b>Short Paper #73: "Secondary Use of Health Data: Centralized Structure and Information Security Frameworks in Finland"  </b><br> Hannu Vilpponen, Antti Piirainen, Miikka Kallberg, and Tommi Mikkonen </td>
          </tr>
       
-        <tr style="background-color: #e3e3e6;">
+        <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30</td>
             <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br> 
             <br>
@@ -412,7 +412,7 @@
             <td colspan="2" ><b>Keynote: Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
             
         </tr>
-        <tr style="background-color: #e3e3e6;">
+        <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30</td>
             <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br> <br>
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
