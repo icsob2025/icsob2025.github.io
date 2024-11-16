@@ -320,11 +320,15 @@
            <td><b>Short Paper #79: "Adoption of Cloud Platforms Among Independent Software Vendors" </b><br> Lucas Mangold, Monty Meier, and Maximilian Schreieck </td>
            <td><b>Short Paper #73: "Secondary Use of Health Data: Centralized Structure and Information Security Frameworks in Finland"  </b><br> Hannu Vilpponen, Antti Piirainen, Miikka Kallberg, and Tommi Mikkonen </td>
          </tr>
-      
+
+        <tr style="background-color: #efbcd5;">
+            <td> </td>
+            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
+            </td>
+        </tr>
         <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30<br> <span style="font-weight: normal; font-size: 0.9em;">45m</span> </td>
-            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
-            <br>
+            <td colspan="2">
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
@@ -412,10 +416,14 @@
             <td colspan="2" ><b>Keynote: Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
             
         </tr>
+        <tr style="background-color: #efbcd5;">
+            <td> </td>
+            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
+            </td>
+        </tr>
         <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30<br> <span style="font-weight: normal; font-size: 0.9em;">30m</span> </td>
-            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br> 
-            <br>
+            <td colspan="2">
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
