@@ -333,8 +333,6 @@
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b><a href="/Posters/ICSOB2024_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
             Markus Funke, and Patricia Lago<br> 
-            <br>
-            
             </td>
             
         </tr>
@@ -429,9 +427,7 @@
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b><a href="/Posters/ICSOB2024_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
             Markus Funke, and Patricia Lago<br> 
-            <br>
-            
-            </td>
+
             </td>
         </tr>
         
