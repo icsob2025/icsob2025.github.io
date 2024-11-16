@@ -322,8 +322,8 @@
          </tr>
       
         <tr style="background-color: #f1e3f3;">
-            <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30</td>
-            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br> <span style="font-weight: normal; font-size: 0.9em;">45m</span> <br>
+            <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30<br> <span style="font-weight: normal; font-size: 0.9em;">45m</span> </td>
+            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
             <br>
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
@@ -413,8 +413,8 @@
             
         </tr>
         <tr style="background-color: #f1e3f3;">
-            <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30</td>
-            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br> <br> <span style="font-weight: normal; font-size: 0.9em;">30m</span> 
+            <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30<br> <span style="font-weight: normal; font-size: 0.9em;">30m</span> </td>
+            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br> 
             <br>
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
