@@ -323,7 +323,7 @@
 
         <tr style="background-color: #efbcd5;">
             <td> </td>
-            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
+            <td colspan="2"; style="font-size: 1.2em;"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
             </td>
         </tr>
         <tr style="background-color: #f1e3f3;">
@@ -418,7 +418,7 @@
         </tr>
         <tr style="background-color: #efbcd5;">
             <td> </td>
-            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
+            <td colspan="2"; style="font-size: 1.2em;"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b> <br>
             </td>
         </tr>
         <tr style="background-color: #f1e3f3;">
