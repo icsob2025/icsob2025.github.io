@@ -331,7 +331,9 @@
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
-            Markus Funke, and Patricia Lago<br>
+            Markus Funke, and Patricia Lago<br> 
+            <br>
+            <a href="/Psters/" style="color: white; text-decoration: none; font-size: 20px;">Papers are available here.</a>
             </td>
             
         </tr>
@@ -425,7 +427,10 @@
             <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
             <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
-            Markus Funke, and Patricia Lago<br>
+            Markus Funke, and Patricia Lago<br> 
+            <br>
+            <a href="/Psters/" style="color: white; text-decoration: none; font-size: 20px;">Papers are available here.</a>
+            </td>
             </td>
         </tr>
         
