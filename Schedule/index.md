@@ -232,7 +232,7 @@
         </tr>
        
         <tr style="background-color: #f9f9f9;">
-            <td style="width: 12%; font-weight: bold; color: gray;">08:30 - 09:00</td>
+            <td style="width: 12%; font-weight: bold; color: gray;">08:30 - 09:00<br><span style="font-weight: normal; font-size: 0.9em;">30m</span></td>
             <td><b>Walk-in and Registration</b></td>
             <td></td>
         </tr>
@@ -402,7 +402,7 @@
         </tr>
 
         <tr>
-            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:10</td>
+            <td style="width: 12%; font-weight: bold; color: gray;">09:00 - 09:10<br><span style="font-weight: normal; font-size: 0.9em;">10m</span></td>
             <td><b>Opening and Introduction</b><br>Slinger Jansen</td>
             <td></td>
         </tr>
