@@ -52,7 +52,7 @@ Poster and demo submissions will be peer-reviewed by two members of the Program 
 <hr>
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <p class="lead">
-    <p><b>Posters and demos:</b></p>
+    
     <ul style="list-style: none;">
     <li><s>Submission Deadline: October 21, 2024 (AoE)</s></li>
     <li><s><span style="color:#a90808;">Submission Deadline: November 7, 2024 (AoE)(extended) </span></s></li>
