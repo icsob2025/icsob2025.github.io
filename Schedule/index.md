@@ -321,7 +321,7 @@
            <td><b>Short Paper #73: "Secondary Use of Health Data: Centralized Structure and Information Security Frameworks in Finland"  </b><br> Hannu Vilpponen, Antti Piirainen, Miikka Kallberg, and Tommi Mikkonen </td>
          </tr>
 
-        <tr style="background-color: #efbcd5;">
+        <tr style="background-color: #f4cbc6;">
             <td> </td>
             <td colspan="2"><span style="font-weight: bold; font-size: 1.2em;">Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a></span></td>
         </tr>
@@ -415,7 +415,7 @@
             <td colspan="2" ><b>Keynote: Successful Cost-Benefit Management of Agile Software Development Projects</b><br>Magne Jørgensen</td>
             
         </tr>
-        <tr style="background-color: #efbcd5;">
+        <tr style="background-color: #f4cbc6;">
             <td> </td>
             <td colspan="2"><span style="font-weight: bold; font-size: 1.2em;">Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a></span></td>
         </tr>
