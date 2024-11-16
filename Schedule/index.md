@@ -322,7 +322,12 @@
       
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 14:45 - 15:30</td>
-            <td colspan="2"><b> Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br>
+            <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
+            José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
+            <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
+            Markus Funke, and Patricia Lago<br>
+            </td>
             
         </tr>
 
@@ -407,7 +412,11 @@
         </tr>
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 10:00 - 10:30</td>
-            <td colspan="2"><b> Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b></td>
+            <td colspan="2"><b>Coffee Break, Demos, and Poster Session <a href="#">(Room: Gaanderij)</a> </b><br>
+            <b>Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</b><br>
+            José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
+            <b>Paper #83: "Towards an Architectural Perspective for Sustainability"</b><br>
+            Markus Funke, and Patricia Lago<br>
             
         </tr>
         
