@@ -64,11 +64,11 @@
          <tr>
             <td style="background-color: #eeffa3; font-weight: bold; font-size: 1.2em;"></td>
             <td style="background-color: #eeffa3; font-size: 1.2em;">
-               <b> PhD Retreat <a href="#">(Room: St. Barbarakamer)</a></b>
+               <b> PhD Retreat <a href="#">(Room: Barbarakamer)</a></b>
             </td>
             <td style="background-color: #b8b8ff; font-weight: bold; font-size: 1.2em;"></td>
             <td style="background-color: #b8b8ff; font-size: 1.2em;">
-               <b> Workshop <a href="#">(Room: Gaanderij)</a></b>
+               <b> Workshop <a href="#">(Room: Tuinzaal)</a></b>
             </td>
         </tr>
        
