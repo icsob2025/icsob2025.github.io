@@ -380,7 +380,7 @@
 
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 18:15-21:00</td>
-            <td><b> Dinner & Awards <a href="#">(Room: Kasteel Oudaen)</a> </b></td>
+            <td><b> Dinner & Awards <a href="https://www.google.com/maps/place/Stadskasteel+Oudaen+-+Restaurant+en+Vergaderlocatie+in+Utrecht/@52.1267206,5.0245679,13z/data=!4m6!3m5!1s0x47c66f449d84135b:0x127b36b2253451be!8m2!3d52.0928674!4d5.116691!16s%2Fg%2F1218xjcc?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D">(Kasteel Oudaen)</a> </b></td>
             <td></td>
         </tr>
       <tr style="background-color: white;">
