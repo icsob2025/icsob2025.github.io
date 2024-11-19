@@ -18,9 +18,13 @@ The second day of ICSOB 2024 promises an enriching start with a thought-provokin
 The third day of ICSOB 2024 intensifies the intellectual engagement with another set of keynotes, featuring industry leaders and academic pioneers who will share groundbreaking insights and future visions for the software business sector. Throughout the day, the conference facilitates deeper interaction and collaboration through dedicated breakout rooms, designed to accommodate incidental meetings among experts. These spaces provide a unique opportunity for attendees to convene in smaller, more focused groups, allowing for the exchange of ideas, discussion of collaborative projects, and in-depth exploration of specific topics. 
 <hr/>
 
-<div style="display: flex; align-items: center;">
-     <img src="/assets/images/Day1.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;">   <br>
-<img src="/assets/images/Day2.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;"> <br>
+<div style="display: flex; align-items: left;"> 
+     <img src="/assets/images/Day1.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;">  </div>
+
+<div style="display: flex; align-items: left;"> 
+<img src="/assets/images/Day2.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;"> </div>
+
+<div style="display: flex; align-items: left;"> 
 	<img src="/assets/images/Day3.png" alt="" width="700" height="1000" style="margin-right: 100px;"> 
 </div>
 
