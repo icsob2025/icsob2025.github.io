@@ -262,7 +262,7 @@
                 Session 1: Ethical and Governance Challenges in Software Development <a href="#">(Room: Balzaal)</a><br>
             </td>
             <td style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">(Room: Zuinzaal)</a><br>
+                Session 2: Developer Experience and Ecosystem Trust in Software Platforms <a href="#">(Room: Tuinzaal)</a><br>
             </td>
         </tr>
         <tr style="background-color: #f9f9f9;">
