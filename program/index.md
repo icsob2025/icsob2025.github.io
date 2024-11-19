@@ -19,12 +19,12 @@ The third day of ICSOB 2024 intensifies the intellectual engagement with another
 <hr/>
 
 <div style="display: flex; align-items: left;"> 
-     <img src="/assets/images/Day1.jpeg" alt="" width="900" height="1200" style="margin-right: 120px;">  </div>
+     <img src="/assets/images/Day1.jpeg" alt="" width="1200" height="1600" style="margin-right: 200px;">  </div>
 
 <div style="display: flex; align-items: left;"> 
-<img src="/assets/images/Day2.jpeg" alt="" width="900" height="1200" style="margin-right: 120px;"> </div>
+<img src="/assets/images/Day2.jpeg" alt="" width="1200" height="1600" style="margin-right: 200px;"> </div>
 
 <div style="display: flex; align-items: left;"> 
-	<img src="/assets/images/Day3.png" alt="" width="900" height="1200" style="margin-right: 120px;"> 
+	<img src="/assets/images/Day3.png" alt="" width="1200" height="1600" style="margin-right: 200px;"> 
 </div>
 
