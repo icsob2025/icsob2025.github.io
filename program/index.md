@@ -19,6 +19,8 @@ The third day of ICSOB 2024 intensifies the intellectual engagement with another
 <hr/>
 
 <div style="display: flex; align-items: center;">
-     <img src="/assets/images/schedule.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;">   
+     <img src="/assets/images/Day1.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;">   <br>
+<img src="/assets/images/Day2.jpeg" alt="" width="700" height="1000" style="margin-right: 100px;"> <br>
+	<img src="/assets/images/Day3.png" alt="" width="700" height="1000" style="margin-right: 100px;"> 
 </div>
 
