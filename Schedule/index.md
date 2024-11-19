@@ -299,7 +299,7 @@
                 Session 3: Sustainable ICT and Cloud Adoption in Software Businesses <a href="#">(Room: Balzaal)</a><br>
             </td>
             <td style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 4:  Transparency and Trustability in AI and Software Business <a href="#">(Room: Zuinzaal)</a><br>
+                Session 4:  Transparency and Trustability in AI and Software Business <a href="#">(Room: Tuinzaal)</a><br>
             </td>
         </tr>
         <tr style="background-color: #f9f9f9;">
@@ -345,7 +345,7 @@
                 Session 5: Diversity, Equity, and Inclusion in AI and Software Engineering <a href="#">(Room: Balzaal)</a><br>
             </td>
             <td style="background-color: #ADEFD1FF; font-weight: bold; font-size: 1.2em;">
-                Session 6: Sustainable Software Lifecycle and Architectural Practices <a href="#">(Room: Zuinzaal)</a><br>
+                Session 6: Sustainable Software Lifecycle and Architectural Practices <a href="#">(Room: Tuinzaal)</a><br>
             </td>
             
         </tr>
