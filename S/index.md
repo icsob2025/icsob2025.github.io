@@ -366,7 +366,7 @@
 
         <tr style="background-color: #e3e3e6;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 18:15 - 21:00</td>
-            <td><b> Dinner & Awards <a href="#">(Room: Kasteel Oudaen <link rel="icon" type="image/x-icon" href="assets/location.png">)</a> </b></td>
+            <td><b> Dinner & Awards <a href="#">(Room: Kasteel Oudaen <link rel="icon" type="image/x-icon" href="assets/images/location.png">)</a> </b></td>
             <td></td>
         </tr>
       <tr style="background-color: white;">
