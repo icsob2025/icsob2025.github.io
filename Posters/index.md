@@ -54,10 +54,12 @@ Poster and demo submissions will be peer-reviewed by two members of the Program 
 <p class="lead">
     
     <ul style="list-style: none;">
-    <li><s>Submission Deadline: October 21, 2024 (AoE)</s></li>
-    <li><s><span style="color:#a90808;">Submission Deadline: November 7, 2024 (AoE)(extended) </span></s></li>
-    <li><s>Notification of Acceptance: October 28, 2024</s></li>
-    <li><s><span style="color:#a90808;">Notification of Acceptance: November 15, 2024(extended) </span></s></li>
+    <!--<li>Submission Deadline: October 21, 2024 (AoE)</li>
+    <li><span style="color:#a90808;">Submission Deadline: November 7, 2024 (AoE)(extended) </span></li>
+    <li>Notification of Acceptance: October 28, 2024</li>
+    <li><span style="color:#a90808;">Notification of Acceptance: November 15, 2024(extended) </span></li>-->
+    <li>Submission Deadline: November 7, 2024 (AoE)</li>
+    <li>Notification of Acceptance: November 15, 2024</li>
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
