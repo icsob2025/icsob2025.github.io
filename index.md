@@ -48,10 +48,12 @@ The Conference holds societal impact and international importance as it tackles 
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
     <li>Abstract Submission Deadline: August 19, 2024 (AoE) </li>
-    <li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
-    <li><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended) </span></li>
-    <li>Notification of Acceptance: October 7, 2024</li>
-    <li><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></li>
+    <!--<li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
+    <li><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended) </span></li>-->
+    <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
+    <!--<li>Notification of Acceptance: October 7, 2024</li>
+    <li><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></li>-->
+    <li>Notification of Acceptance: October 14, 2024 (AoE)</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
@@ -66,10 +68,12 @@ The Conference holds societal impact and international importance as it tackles 
 
     <p><b>Poster and Demo Track:</b></p>
     <ul style="list-style: none;">
-    <li>Submission Deadline: October 21, 2024 (AoE)</li>
+    <!--<li>Submission Deadline: October 21, 2024 (AoE)</li>
     <li><span style="color:#a90808;">Submission Deadline: November 7, 2024 (AoE)(extended) </span></li>
     <li>Notification of Acceptance: October 28, 2024</li>
-    <li><span style="color:#a90808;">Notification of Acceptance: November 15, 2024(extended) </span></li>
+    <li><span style="color:#a90808;">Notification of Acceptance: November 15, 2024(extended) </span></li>-->
+    <li>Submission Deadline: November 7, 2024 (AoE)</li>
+    <li>Notification of Acceptance: November 15, 2024</li>
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
@@ -77,8 +81,9 @@ The Conference holds societal impact and international importance as it tackles 
    <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 21, 2024 (AoE)</li>
-    <li>Notification of Acceptance: October 28, 2024</li>
-    <li><span style="color:#a90808;"> Notification of Acceptance: November 1, 2024 (AoE) (extended) </span></li>
+    <!--<li>Notification of Acceptance: October 28, 2024</li>
+    <li><span style="color:#a90808;"> Notification of Acceptance: November 1, 2024 (AoE) (extended) </span></li>-->
+    <li>Notification of Acceptance: November 1, 2024 (AoE)</li>
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
