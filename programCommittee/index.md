@@ -46,6 +46,9 @@ layout: importantdates
     <td>Alfons Laarman</td>    <td>Leiden University</td>
   </tr>
   <tr>
+    <td>Ana Maria Oprescu</td>    <td> University of Amsterdam and VU Amsterdam</td>
+  </tr>
+  <tr>
     <td>Ana Maria Sutii</td>    <td>Eindhoven University of Technology</td>
   </tr>
   <tr>
@@ -58,25 +61,13 @@ layout: importantdates
     <td>Anh Nguyen Duc</td>    <td>University of South Eastern Norway</td>
   </tr>
   <tr>
-    <td>Anton Wijs</td>    <td>Eindhoven University of Technology</td>
-  </tr>
-  <tr>
     <td>Antti Knutas</td>    <td>Lappeenranta University of Technology</td>
   </tr>
   <tr>
     <td>Arnd Hartmanns</td>    <td>University of Twente</td>
   </tr>
   <tr>
-    <td>Barbara Steffen</td>    <td>TU Dortmund University</td>
-  </tr>
-  <tr>
     <td>Bedir Tekinerdogan</td>    <td>Wageningen University</td>
-  </tr>
-  <tr>
-    <td>Bernard van Gastel</td>    <td>Radboud University</td>
-  </tr>
-  <tr>
-    <td>Bilal Al Ahmad</td>    <td>The University of Jordan/Aqaba</td>
   </tr>
   <tr>
     <td>Carolin Brandt</td>    <td>Delft University of Technology</td>
@@ -112,12 +103,6 @@ layout: importantdates
     <td>Ehsan Zabardast</td>    <td>Blekinge Institute of Technology</td>
   </tr>
   <tr>
-    <td>Ella Peltonen</td>    <td>University of Oulu</td>
-  </tr>
-  <tr>
-    <td>Emil Numminen</td>    <td>Blekinge Institute of Technology</td>
-  </tr>
-  <tr>
     <td>Emitzá Guzmán</td>    <td>Vrije Universiteit Amsterdam</td>
   </tr>
   <tr>
@@ -146,12 +131,6 @@ layout: importantdates
   </tr>
   <tr>
     <td>Giancarlo Guizzardi</td>    <td>University of Twente</td>
-  </tr>
-  <tr>
-    <td>Guus Ramackers</td>    <td>Leiden Institute of Advanced Computer Science (LIACS)</td>
-  </tr>
-  <tr>
-    <td>Hannu Vilpponen</td>    <td>University of Jyvaskyla</td>
   </tr>
   <tr>
     <td>Heerko Groefsema</td>    <td>University of Groningen</td>
@@ -199,16 +178,7 @@ layout: importantdates
     <td>Juergen Muench</td>    <td>Reutlingen University</td>
   </tr>
   <tr>
-    <td>Jukka Huhtamäki</td>    <td>Tampere University</td>
-  </tr>
-  <tr>
     <td>Jurriaan Hage</td>    <td>Utrecht University</td>
-  </tr>
-  <tr>
-    <td>Jussi Kasurinen</td>    <td>Lappeenranta University of Technology</td>
-  </tr>
-  <tr>
-    <td>Kai Kristian Kemell</td>    <td>University of Helsinki</td>
   </tr>
   <tr>
     <td>Kari Smolander</td>    <td>Lappeenranta University of Technology</td>
@@ -239,9 +209,6 @@ layout: importantdates
   </tr>
   <tr>
     <td>Marko Seppänen</td>    <td>Tampere University</td>
-  </tr>
-  <tr>
-    <td>Matthew Ajimati</td>    <td>National University of Ireland Galway</td>
   </tr>
   <tr>
     <td>Matti Muhos</td>    <td>University of Oulu</td>
@@ -286,9 +253,6 @@ layout: importantdates
     <td>Rahul Mohanani</td>    <td>University of Jyväskylä</td>
   </tr>
   <tr>
-    <td>Reetta Ghezzi</td>    <td>University of Jyväskylä</td>
-  </tr>
-  <tr>
     <td>Regina Braga</td>    <td>Universidade Federal de Juiz de Fora</td>
   </tr>
   <tr>
@@ -304,7 +268,7 @@ layout: importantdates
     <td>Rodrigo Santos</td>    <td>UNIRIO</td>
   </tr>
   <tr>
-    <td>Sajid Ibrahim Hashmi</td>    <td>M3S, University of Oulu</td>
+    <td>Sajid Hashmi</td>    <td>M3S, University of Oulu</td>
   </tr>
   <tr>
     <td>Sami Hyrynsalmi</td>    <td>Lappeenranta University of Technology</td>
@@ -327,12 +291,7 @@ layout: importantdates
   <tr>
     <td>Stanislav Chren</td>    <td>Aalto University</td>
   </tr>
-  <tr>
-    <td>Tero Päivärinta</td>    <td>Luleå University of Technology</td>
-  </tr>
-  <tr>
-    <td>Tiziana Margaria</td>    <td>University of Limerick</td>
-  </tr>
+
   <tr>
     <td>Tommi Mikkonen</td>    <td>University of Jyväskylä</td>
   </tr>
@@ -349,9 +308,6 @@ layout: importantdates
     <td>Valdemar Vicente Graciano Neto</td>    <td>Universidade Federal de Goiás (UFG)</td>
   </tr>
   <tr>
-    <td>Victor Stroele</td>    <td>UFJF</td>
-  </tr>
-  <tr>
     <td>Ville Vakkuri</td>    <td>University of Jyväskylä</td>
   </tr>
   <tr>
@@ -360,6 +316,7 @@ layout: importantdates
   <tr>
     <td>Xiaofeng Wang</td>    <td>Free University of Bozen-Bolzano</td>
   </tr>
+
 
 </table>
 </p>
@@ -376,26 +333,42 @@ layout: importantdates
     <th>Name</th>
     <th>Affiliation</th>
   </tr>
+<tr><td>Andrey Saltan</td>    <td>LUT University</td>  </tr>
+<tr><td>Annabell Petri</td>    <td>University of Twente</td>  </tr>
+<tr><td>David Callele</td>    <td>University of Saskatchewan</td>  </tr>
+<tr><td>Dominik Siemon</td>    <td>LUT University</td>  </tr>
+<tr><td>Eduardo Guerra</td>    <td>Free University of Bozen-Bolzano</td>  </tr>
+<tr><td>Efi Papatheocharous</td>    <td>RISE</td>  </tr>
+<tr><td>Fang Hou</td>    <td>Utrecht University</td>  </tr>
+<tr><td>Fernanda Madeiral</td>    <td>Vrij Universiteit Amsterdam</td>  </tr>
+<tr><td>Fernando Castor</td>    <td>University of Twente</td>  </tr>
+<tr><td>Jurriaan Hage</td>    <td>Heriot-Watt University</td>  </tr>
+<tr><td>Krzysztof Wnuk</td>    <td>Blekinge Institute of Technology</td>  </tr>
+<tr><td>Michiel Overeem</td>    <td>AFAS Software</td>  </tr>
+<tr><td>Nirnaya Tripathi</td>    <td>University of Oulu</td>  </tr>
+<tr><td>Rodrigo Santos</td>    <td>Sociedade Brasileira de Computação</td>  </tr>
+<tr><td>Sami Hyrynsalmi</td>    <td>LUT University</td>  </tr>
+<tr><td>Siamak Farshidi</td>    <td>Wageningen University & Research</td>  </tr>
+<tr><td>Slinger Jansen</td>    <td>Utrecht University</td>  </tr>
+<tr><td>Ulrike Lechner</td>    <td>Universität der Bundeswehr München</td>  </tr>
+<tr><td>Xiaofeng Wang</td>    <td>Free University of Bozen-Bolzano</td>  </tr>
+</table>
+</p>
+
+<div class="col-lg8 mx-auto">
+    <h2 class="display-4" style="text-align: left;">
+               <span style="font-size:45px"> Program Committee </span> 
+               <span style="color:grey; font-size:30px"> Posters and Demos </span> 
+    </h2>
+  
+<p>
+<table id="customers">
   <tr>
-    <td>Siamak	Farshidi</td>    <td>Wageningen University & Research</td>
+    <th>Name</th>
+    <th>Affiliation</th>
   </tr>
-  <tr>
-    <td>Michiel	Overeem</td>    <td>AFAS Software</td>
-  </tr>
-<tr><td>Eduardo Guerra</td>    <td>Free University of Bolzen-Bolzano</td></tr>
-<tr><td>Fang Hou</td>    <td>Utrecht university</td></tr>
-<tr><td>Annabell Petri</td>    <td>Universiteit Twente</td></tr>
-<tr><td>Andrey Saltan</td>    <td>LUT University / HSE University</td></tr>
-<tr><td>Efi Papatheocharous</td>    <td>RISE Research Institutes of Sweden</td></tr>
-<tr><td>Ulrike Lechner</td>    <td>Universität der Bundeswehr München</td></tr>
-<tr><td>Jurriaan Hage</td>    <td>Utrecht University</td></tr>
-<tr><td>Xiaofeng Wang</td>    <td>Free University of Bozen-Bolzano</td></tr>
-<tr><td>Rodrigo Santos</td>    <td>UNIRIO</td></tr>
-<tr><td>David Callele</td>    <td>University of Saskatchewan</td></tr>
-<tr><td>Krzysztof Wnuk</td>    <td>Blekinge Institute of Technology</td></tr>
-<tr><td>Slinger Jansen</td>    <td>Utrecht University</td></tr>
-<tr><td>Rafael Capilla</td>    <td>Universidad Rey Juan Carlos, Madrid</td></tr>
-<tr><td>Bedir Tekinerdogan</td>    <td>Wageningen University</td></tr>
-<tr><td>Sonja Hyrynsalmi</td>    <td>Lappeenranta University of Technology</td></tr>
+<tr><td>Edona Elshan</td>    <td>Vrij Universiteit Amsterdam</td>  </tr>
+<tr><td>Dominik Siemon</td>    <td>LUT University</td>  </tr>
+
 </table>
 </p>
