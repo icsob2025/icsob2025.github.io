@@ -16,7 +16,7 @@ layout: importantdates
 
    <li><strong>Lifetime Achievement Award:</strong> Awarded to an individual who has made significant contributions to the field throughout their career.</li>
    <li><strong>VERSEN Best Research Paper Award:</strong> Awarded to the author(s) of the best research paper presented at the conference. Prize: €250 </li>
-   <li><strong>10-year Most Influential Paper Award:</strong> Awarded to a paper from ten years ago that has had a lasting impact on the field. Prize: €250</li>
+   <li><strong>ISPMA 10-year Most Influential Paper Award:</strong> Awarded to a paper from ten years ago that has had a lasting impact on the field. Prize: €250</li>
    <li><strong>Early Career Researcher Best Paper award:</strong> Awarded to the best paper authored by an early-career researcher. Prize: €250</li>
    <li><strong>Best Poster Award:</strong> Acknowledging the best poster presentation based on thoroughness and the impact of the presented research. Prize: €250</li>
    <li><strong>VERSEN Best Reviewer Award:</strong> Given to a reviewer who has demonstrated outstanding diligence and constructive feedback in the review process. Prize: €250</li>
