@@ -372,3 +372,33 @@ layout: importantdates
 
 </table>
 </p>
+
+<div class="col-lg8 mx-auto">
+    <h2 class="display-4" style="text-align: left;">
+               <span style="font-size:45px"> Program Committee </span> 
+               <span style="color:grey; font-size:30px"> PhD Retreat Track </span> 
+    </h2>
+  
+<p>
+<table id="customers">
+  <tr>
+    <th>Name</th>
+    <th>Affiliation</th>
+  </tr>
+<tr><td>Edona Elshan</td>    <td> Vrije Universiteit Amsterdam, The Netherlands</td>  </tr>
+<tr><td>Eduardo Guerra</td>    <td> Free University of Bozen-Bolzano, Italy</td>  </tr>
+<tr><td>Fabian Fagerholm</td>    <td> Aalto University, Finland</td>  </tr>
+<tr><td>Helena Olsson</td>    <td> University of Malmö, Sweden</td>  </tr>
+<tr><td>Henry Edison</td>    <td> Blekinge Institute of Technology, Sweden</td>  </tr>
+<tr><td>Jesper Andersson</td>    <td> Linnaeus University, Sweden</td>  </tr>
+<tr><td>Joey van Angeren</td>    <td> Vrije Universiteit Amsterdam, The Netherlands</td>  </tr>
+<tr><td>Jorge Melegati</td>    <td> Free University of Bozen-Bolzano, Italy</td>  </tr>
+<tr><td>José Maria David</td>    <td> Federal University of Juiz de Fora, Brazil</td>  </tr>
+<tr><td>Mohamad Kassab</td>    <td> The Pennsylvania State University, USA</td>  </tr>
+<tr><td>Noel Carroll</td>    <td> University of Galway, Ireland</td>  </tr>
+<tr><td>Rafael Capilla</td>    <td> Universidad Rey Juan Carlos, Spain</td>  </tr>
+<tr><td>Simone Vasconcelos</td>    <td> IF Fluminense, Brazil</td>  </tr>
+<tr><td>Xiaofeng Wang</td>    <td> Free University of Bozen-Bolzano, Italy</td>  </tr>
+
+</table>
+</p>
