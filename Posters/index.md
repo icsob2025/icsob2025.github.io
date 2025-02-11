@@ -9,6 +9,8 @@ The poster and demo track invites researchers and practitioners working in softw
 At least one author from each accepted poster or demo must register for the conference and be present during the designated poster/demo sessions. 
 
 The best poster and demo will be recognized with an award during the main conference proceedings.
+
+<b><span style="color:#a90808;">PhD Retreat, Posters & Demos Track papers will be published in the companion proceedings of the CEUR Workshop Proceedings <a href="https://ceur-ws.org/Vol-3921/">http://ceur-ws.org/Vol-3921/</a></span></b><br>
 <hr>
 
 <b style="font-size: 20px" id="poster">Poster</b>
