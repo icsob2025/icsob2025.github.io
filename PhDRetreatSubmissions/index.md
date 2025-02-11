@@ -5,6 +5,10 @@ layout: importantdates
 
 The ICSOB 2024 PhD Retreat is an exciting one-day event. The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
 
+<b><span style="color:#a90808;">PhD Retreat, Posters & Demos Track papers will be published in the companion proceedings of the CEUR Workshop Proceedings <a href="https://ceur-ws.org/Vol-3921/">http://ceur-ws.org/Vol-3921/</a></span></b><br>
+
+
+
 <hr> 
 <b>Program:</b> 
 <ul style="list-style: none;">
