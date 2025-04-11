@@ -251,7 +251,7 @@ L.Control.EasyButton = L.Control.extend({
     if( newState === this._currentState ){
 
       // don't touch the dom if it'll just be the same after
-      return;
+
 
     } else {
 
