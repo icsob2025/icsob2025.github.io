@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICSOB 2024
+title: ICSOB 2025
 email: your-email@example.com
 description: The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://icsob2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://icsob2025.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
@@ -98,8 +98,8 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      img: "logo.png"
-      url: "https://icsob2024.github.io/"
+      img: "assets/images/logo/ICSOB 2025 Logo1.svg"
+      url: "https://icsob2025.github.io/"
     links:
       - name: Home
         relative_url: /
@@ -117,22 +117,22 @@ conference:
             relative_url: /Awards/
           - name: Student Volunteers
             relative_url: "/studentvolunteers"
-      - name: Program 
-        menu:
-         - name: Program Overview
-           relative_url: /program/
-         - name: Detailed Schedule
-           relative_url: /Schedule/
-         - name: Keynotes
-           relative_url: /speakers/
-         - name: Workshop
-           relative_url: "/workshop"
+        # - name: Program
+          # menu:
+          # - name: Program Overview
+          # relative_url: /program/
+          # - name: Detailed Schedule
+          #  relative_url: /Schedule/
+          # - name: Keynotes
+          #  relative_url: /speakers/
+          # - name: Workshop
+          #  relative_url: "/workshop"
 
       - name: Important Dates
         relative_url: /importantdates/
 
-      - name: Sponsors
-        relative_url: /sponsor/
+        # - name: Sponsors
+        # relative_url: /sponsor/
 
       - name: Organisation
         menu:
@@ -140,26 +140,14 @@ conference:
             relative_url: /organisation/
           - name: Program Committee
             relative_url: /programCommittee/
-      - name: Attending
-        menu:
-          - name: Registration
-            relative_url: /registration/
-          - name: Location
-            relative_url: /location/
+        # - name: Attending
+          # menu:
+            # - name: Registration
+            # relative_url: /registration/
+            # - name: Location
+            # relative_url: /location/
 
 
-  # Main landing page
-  main:
-    #logo:
-    # img: 'bozen1.png'
-    links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ""
 
   # Information boxes
   info_bars:
@@ -201,19 +189,6 @@ conference:
     map_provider: "OpenStreetMap.Mapnik"
     default_zoom: 17
 
-  talks:
-    # Talk categories
-    main_categories:
-      - name: Keynote
-        color: warning
-      - name: Long Paper
-        color: info
-      - name: Short Paper
-        color: success
-      - name: Tutorial
-        color: danger
-      - name: Others
-        color: secondary        
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -224,7 +199,7 @@ conference:
 
   location:
     # Disable links to locations
-    hide: false
+    hide: true
     # URL of location / room overview page
     url: "/location"
     # Main page title shown on location/room navigation bar

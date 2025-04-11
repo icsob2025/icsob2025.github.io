@@ -4,26 +4,23 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">Call for Research Paper Submissions</b>
 
-The theme for ICSOB 2024 revolves around the critical and timely topics of ethics, equity, and sustainability within the software business sector. In an era where digital transformation is ubiquitous, it’s imperative to consider the ethical implications and equitable practices, as they are intrinsically linked to the sustainability of software initiatives, vital to realizing social justice, human rights, and democracy. This conference will delve into these topics, offering a platform for discussing how they are shaping the future of software business.
+The theme for ICSOB 2025 revolves around the critical and timely topics software business in digital societies. In an era where software permeates all aspects of society, software businesses play a critical role in driving economic progress and shaping individual and collective well-being. This transformation presents new challenges for both incumbent organizations, which are increasingly evolving into software-driven enterprises, and for established and emerging software ventures. Key issues include digital sustainability, digital infrastructure, tech regulation, and the impact of emerging technologies.
 
-We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be (i) Full Research Papers (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) Short Position and Practice Papers for industry insights, case studies, artifacts, and explorations of new areas. All accepted papers will be published in the conference proceedings, part of the Springer Lecture Notes in Business Information Processing (LNBIP) series.
+This conference aims to bring together researchers from information systems, innovation management, and software engineering, alongside industry practitioners, to explore the evolving role of software businesses in digital societies.
 
 The topics that ICSOB welcomes, but not limited to, are listed below:
 
 
 <ul style="list-style: none;">
-            <li>Ethics in Software Product Management and Development</li>
-            <li>Equity, Diversity and Inclusion in Software Ecosystems, Digital Services, Systems, and Digital Transformation</li>
-            <li>Transparency and Trustability in Software Business</li>
-            <li>Ethical Issues in Emerging Software Technologies (e.g., Blockchain, Generative AI, …)</li>
-            <li>Emerging Technologies and Sustainability in Software Business</li>
-            <li>Sustainable Practices in Software Ecosystems, Platforms, and Business Models</li>
-            <li>Ethical Considerations in Software Business Development</li>
-            <li>Startups, Entrepreneurship, and New Ventures with a Focus on Equity and Sustainability</li>
-            <li>Human-Centered Design and Ethical Software Engineering</li>
-            <li>Empowering Equality and Inclusivity in Software Development</li>
-            <li>Sustainability Metrics and Measurement</li>
-            <li>Decision-making in Software Engineering (design decisions in software architecture, technology selection, ...)</li>
+            <li><b>Digital Ubiquity and the Role of Software Businesses</b> – Socially responsible business models; software ecosystems fostering inclusion, equity and sustainability; digital services for underserved communities; digital platforms for AI, ethical considerations in platform economies</li>
+            <li><b>Incumbent Organizations becoming Software Businesses</b> – Digital transformation of incumbent organizations; the role of software and AI in manufacturing and automotive processes; data governance and data platforms; human resource management related to software business; relevance of AI, standards and digital ecosystems for SMEs</li>
+            <li><b>Innovation and DeepTech in Software</b> – Quantum computing, chips and sensors; digital platforms for deep tech; the role of emerging technologies (e.g., Gen(AI), blockchain, quantum computing) in shaping ethical and responsible digital transformation; new paradigms for balancing innovation with societal impact; obstacles and enablers for the acceptance of digital solutions; digital entrepreneurship; governance frameworks for responsible innovation.</li>
+            <li><b>Software Businesses in Critical Infrastructure</b> – Software business related to health care, military, education, transportation cloud infrastructure; geopolitical considerations related to software business; international conflict and software business.</li>
+            <li><b>Ethics, Security & Digital Rights</b> –  Ethical implications of digital transformation; AI transparency and fairness; algorithmic accountability; digital ethics in business models; Privacy-preserving technologies; cybersecurity challenges in digital ecosystems; ethical data management; digital sovereignty and citizen rights in software-driven societies.</li>
+            <li><b>Human-Centered Software Engineering</b> – Ethical software design principles; user empowerment through responsible technology; trust and transparency in software interfaces; post agile software development practices; dealing with uncertainty and dynamics in changing environments.</li>
+            <li><b>Citizen Development & Digital Inclusion</b> – Empowering non-technical users through low-code/no-code platforms; ethical implications of democratizing software development; accessibility and digital literacy initiatives.</li>
+            <li><b>Sustainable and Responsible Software Development</b> – Green software engineering; energy-efficient algorithms; circular economy principles in software business; mitigating bias in AI systems; human-AI collaboration; fairness-aware machine learning; AI in critical decision-making; regulatory and compliance aspects of AI-driven services.</li>
+            <li><b>Regulation, Policy & Legal Aspects</b> – Legal and regulatory frameworks for responsible digital transformation; compliance strategies; intersection of law, ethics, and software business.</li>
         </ul>   
 
 <b> Paper Submission Categories: </b>
@@ -46,8 +43,7 @@ Join us in Utrecht for what promises to be an enlightening and engaging event, c
 </li>
             <li>Papers should adhere to Springer’s LNBIP/LNCS format and be anonymized for double-blind review.
 </li>
-            <li>Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
-</li>
+
   </ul>
 
 
@@ -60,9 +56,8 @@ Submissions not conforming to the LNBIP format, exceeding 15 pages (for full pap
 
 Information about the Springer LNBIP format can be found <a href="https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines" target="_blank">here</a>. Three to five keywords characterizing the paper should be indicated at the end of the abstract. The type of paper (technical/empirical evaluation/experience/exploratory paper) should be indicated in the submission. Submission is done through EasyChair.
 
-Each paper will be reviewed by at least three reviewers. Accepted papers will be presented at ICSOB ’24 and published in the conference proceedings, which is published in the Springer Lecture Notes in Business Information Processing (LNBIP).
+Each paper will be reviewed by at least three reviewers. Accepted papers will be presented at ICSOB ’25 and published in the conference proceedings, which is published in the Springer Lecture Notes in Business Information Processing (LNBIP).
 
-<b><span style="color:#a90808;">The best papers submitted to ICSOB will be invited for a Q1 Journal special issue, with the theme Software and Society: Ethics, Equity, and Sustainability in Software.</span></b><br>
 
 <hr>
 
@@ -81,22 +76,18 @@ This option applies to both research and short papers, with a maximum of two ext
 <p class="lead">
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
-    <li>Abstract Submission Deadline: August 19, 2024 (AoE) </li>
-    <!--<li>Full Paper Submission Deadline: August 26, 2024 (AoE)</li>
-    <li><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended) </span></li>-->
-    <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
-    <!--<li>Notification of Acceptance: October 7, 2024</li>
-    <li><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></li>-->
-    <li>Notification of Acceptance: October 14, 2024 (AoE)</li>
+    <li>Abstract Submission Deadline: July 14, 2025 (AoE) </li>
+    <<li>Full Paper Submission Deadline: August 04, 2024 (AoE)</li>
+    <li>Notification of Acceptance: October 01, 2024 (AoE)</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
-    <li>Conference Dates: November 19-20, 2024</li>
+    <li>Conference Dates: November 24-26, 2025</li>
     </ul>
     
     <p><b>Short Position and Practice Papers:</b></p>
     <ul style="list-style: none;">
-    <li>Submission Deadline: October 21, 2024 (AoE)</li>
+    <li>Submission Deadline: August 04, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 28, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
-    <li>Conference Dates: November 19-20, 2024</li>
+    <li>Conference Dates: November 24-26, 2025</li>
     </ul>
     </p>
