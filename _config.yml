@@ -60,35 +60,6 @@ exclude:
   - purgecss.config.js
   - vendor
 
-# Collections and their defaults
-collections:
-  talks:
-    output: true
-    permalink: /:collection/:title/
-  speakers:
-    output: true
-    permalink: /:collection/:title/
-  rooms:
-    output: true
-    permalink: /:collection/:title/
-
-defaults:
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-  - scope:
-      path: ""
-      type: speakers
-    values:
-      layout: speaker
-  - scope:
-      path: ""
-      type: rooms
-    values:
-      layout: room
-
 conference:
   # Language
   lang: en
@@ -194,9 +165,6 @@ conference:
     # Hide icons on talk overview page
     hide_icons: false
 
-  speakers:
-    # Show first and last name
-    show_firstname: true
 
   location:
     # Disable links to locations

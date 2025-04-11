@@ -27,6 +27,20 @@ We are delighted to invite you to contribute to the 16th International Conferenc
 In an era where software permeates all aspects of society, software businesses play a critical role in driving economic progress and shaping individual and collective well-being. This transformation presents new challenges for both incumbent organizations, which are increasingly evolving into software-driven enterprises, and for established and emerging software ventures. Key issues include digital sustainability, digital infrastructure, tech regulation, and the impact of emerging technologies.
 This conference aims to bring together researchers from information systems, innovation management, and software engineering, alongside industry practitioners, to explore the evolving role of software businesses in digital societies.
 
+The topics that ICSOB welcomes, but not limited to, are listed below:
+
+
+<ul style="list-style: none;">
+            <li><b>Digital Ubiquity and the Role of Software Businesses</b> – Socially responsible business models; software ecosystems fostering inclusion, equity and sustainability; digital services for underserved communities; digital platforms for AI, ethical considerations in platform economies</li>
+            <li><b>Incumbent Organizations becoming Software Businesses</b> – Digital transformation of incumbent organizations; the role of software and AI in manufacturing and automotive processes; data governance and data platforms; human resource management related to software business; relevance of AI, standards and digital ecosystems for SMEs</li>
+            <li><b>Innovation and DeepTech in Software</b> – Quantum computing, chips and sensors; digital platforms for deep tech; the role of emerging technologies (e.g., Gen(AI), blockchain, quantum computing) in shaping ethical and responsible digital transformation; new paradigms for balancing innovation with societal impact; obstacles and enablers for the acceptance of digital solutions; digital entrepreneurship; governance frameworks for responsible innovation.</li>
+            <li><b>Software Businesses in Critical Infrastructure</b> – Software business related to health care, military, education, transportation cloud infrastructure; geopolitical considerations related to software business; international conflict and software business.</li>
+            <li><b>Ethics, Security & Digital Rights</b> –  Ethical implications of digital transformation; AI transparency and fairness; algorithmic accountability; digital ethics in business models; Privacy-preserving technologies; cybersecurity challenges in digital ecosystems; ethical data management; digital sovereignty and citizen rights in software-driven societies.</li>
+            <li><b>Human-Centered Software Engineering</b> – Ethical software design principles; user empowerment through responsible technology; trust and transparency in software interfaces; post agile software development practices; dealing with uncertainty and dynamics in changing environments.</li>
+            <li><b>Citizen Development & Digital Inclusion</b> – Empowering non-technical users through low-code/no-code platforms; ethical implications of democratizing software development; accessibility and digital literacy initiatives.</li>
+            <li><b>Sustainable and Responsible Software Development</b> – Green software engineering; energy-efficient algorithms; circular economy principles in software business; mitigating bias in AI systems; human-AI collaboration; fairness-aware machine learning; AI in critical decision-making; regulatory and compliance aspects of AI-driven services.</li>
+            <li><b>Regulation, Policy & Legal Aspects</b> – Legal and regulatory frameworks for responsible digital transformation; compliance strategies; intersection of law, ethics, and software business.</li>
+        </ul>   
 </div> 
 
 <hr>
