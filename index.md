@@ -11,8 +11,7 @@ layout: home
   </style>
   <script>
     function redirectToInternalPage(pageUrl) {
-      window.location.href = pageUrl; // Redirect to the specified internal webpage
-    }
+      window.location.href = pageUrl;}
   </script>
 <br/>
 
@@ -51,24 +50,18 @@ This conference aims to bring together researchers from information systems, inn
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
     <li>Abstract Submission Deadline: July 14, 2025 (AoE) </li>
-    <!--<li>Full Paper Submission Deadline: August 04, 2025 (AoE)</li>
-     <li><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended) </span></li>-->
     <li>Full Paper Submission Deadline: August 04, 2025 (AoE)</li>
-    <!--<li>Notification of Acceptance: October 7, 2024</li>
-    <li><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></li>-->
     <li>Notification of Acceptance: October 01, 2025 (AoE)</li>
-    <li>Camera-ready Papers Due: November 4, 2025</li>
+    <li>Camera-ready Papers Due: October 15, 2025</li>
     <li>Conference Dates: November 24-26, 2025</li>
     </ul>
-    
     <p><b>Short Position and Practice Papers:</b></p>
     <ul style="list-style: none;">
-    <li>Submission Deadline: October 21, 2024 (AoE)</li>
-    <li>Notification of Acceptance: October 28, 2024</li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
-    <li>Conference Dates: November 19-20, 2024</li>
+     <li>Submission Deadline: August 04, 2025 (AoE)</li>
+    <li>Notification of Acceptance: October 01, 2025 (AoE)</li>
+    <li>Camera-ready Papers Due: October 15, 2025</li>
+    <li>Conference Dates: November 24-26, 2025</li>
     </ul>
-
     <p><b>Poster and Demo Track:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 14, 2025 (AoE)</li>
@@ -76,7 +69,6 @@ This conference aims to bring together researchers from information systems, inn
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 24-26, 2025</li>
     </ul>
-    
    <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 01, 2025 (AoE)</li>
@@ -113,17 +105,6 @@ This conference aims to bring together researchers from information systems, inn
         </div>
     </div>
      </p>
-
-<hr>
-<!--      
-<b> Special Tracks and Additional Opportunities: </b>
-  <ul style="list-style: none;">
-      <li><b>Workshop and Tutorial Proposals</b>: We invite proposals for engaging and informative workshops and tutorials. The deadline for proposals is June 30, 2024.
-</li>
-      <li><b>Poster and Demo Track</b>: A chance to present early-stage research, innovative ideas, and practical implementations. The submission deadline for this track is September 2, 2024.
-</li>
-      <li><b>PhD Retreat</b>: A unique opportunity for PhD students to receive feedback on their research. Submissions for the PhD retreat are due by September 2, 2024.</li>
-  </ul> 
--->
-
+</div>
+</div>
 

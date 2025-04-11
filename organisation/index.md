@@ -10,29 +10,27 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/slinger.jpg" alt=""
+        <img src="/assets/images/organisation/Georg.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Slinger Jansen</h3>
+            <h3>Georg Herzwurm</h3>
             <br>
-            Utrecht University, The Netherlands
+            University of Stuttgart, Germany
         </div>
     </div>
-    <!--
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Pekka.jpeg" alt=""
+        <img src="/assets/images/organisation/Dimitri.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Pekka Abrahamsson</h3>
+            <h3>Dimitri Petrik</h3>
             <br>
-            University of Jyväskylä, Finland
+            University of Stuttgart, Germany
         </div>
         </div>
-                -->
     </div>
         <hr class="my-4">
 <!-- ----------------------------------------------------------------------------------------------------------------------->
@@ -43,25 +41,37 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/siamak.jpg" alt=""
+        <img src="/assets/images/organisation/Gero.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Siamak Farshidi</h3>
+            <h3>Gero Strobel</h3>
             <br>
-            Wageningen University & Research, The Netherlands
+            University of Stuttgart, Germany
         </div>
     </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Efi.png" alt=""
+        <img src="/assets/images/organisation/Thomas.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Efi Papatheocharous</h3>
+            <h3>Thomas Kude</h3>
             <br>
-            RISE Research Institutes of Sweden, Sweden
+            University of Bamberg, Germany
+        </div>
+        </div>
+ <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Lukas.png" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Lukas Block</h3>
+            <br>
+            Fraunhofer Institute for Industrial Engineering, Germany
         </div>
         </div>
     </div>
@@ -74,25 +84,25 @@ layout: organisation
         <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Rodrigo.jpg" alt=""
+        <img src="/assets/images/organisation/Helena.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Rodrigo Pereira dos Santos</h3>
+            <h3>Helena Holmström Olsson</h3>
             <br>
-            UNIRIO, Brazil 
+            Malmö University, Sweden 
         </div>
         </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Dron Khanna.png" alt=""
+        <img src="/assets/images/organisation/Jan.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Dron Khanna</h3>
+            <h3>Jan Bosch</h3>
             <br>
-            Free University of Bozen-Bolzano, Italy
+            Chalmers University of Technology, Sweden
         </div>
     </div>
     </div>
@@ -124,11 +134,11 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Sonja-Hyrynsalmi.jpg" alt=""
+        <img src="/assets/images/organisation/Andrey.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Sonja Hyrynsalmi</h3>
+            <h3>Andrey Saltan</h3>
             <br>
             Lappeenranta–Lahti University of Technology, Finland
         </div>
@@ -143,13 +153,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Andrey.png" alt=""
+        <img src="/assets/images/organisation/Nadine.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Andrey Saltan</h3>
+            <h3>Nadine Bisswang</h3>
             <br>
-            Lappeenranta–Lahti University of Technology, Finland
+           University of Stuttgart, Germany
         </div>
         </div>
     </div>
@@ -162,13 +172,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Fernanda.png" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Fernanda Madeiral</h3>
+            <h3>TBD</h3>
             <br>
-            Vrije Universiteit Amsterdam, The Netherlands
+            TBD
         </div>
     </div>
     </div>
@@ -196,19 +206,19 @@ layout: organisation
    -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Special Issue Chair
+            Fast Track Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Antti.png" alt=""
+        <img src="/assets/images/organisation/Andrey.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Antti Knutas</h3>
+            <h3>Andrey Saltan</h3>
             <br>
-           Lappeenranta-Lahti University of Technology, Finland
+           Lappeenranta–Lahti University of Technology, Finland
         </div>
     </div>
     </div>
@@ -221,13 +231,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/slinger.jpg" alt=""
+        <img src="/assets/images/organisation/Andreas.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Slinger Jansen</h3>
+            <h3>Andreas Helferich</h3>
             <br>
-           Utrecht University, The Netherlands
+           International School of Management, Germany
         </div>
     </div>
     </div>
@@ -240,13 +250,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/kate.png" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Kate Labunets</h3>
+            <h3>TBD</h3>
             <br>
-           Utrecht University, The Netherlands
+           TBD
         </div>
     </div>
     </div>
@@ -259,13 +269,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/Dominik.PNG" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Dominik Siemon</h3>
+            <h3>TBD</h3>
             <br>
-            Lappeenranta–Lahti University of Technology, Finland
+            TBD
         </div>
     </div>
     </div>
@@ -278,13 +288,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Fang.png" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Fang Hou</h3>
+            <h3>TBD</h3>
             <br>
-           Utrecht University, The Netherlands
+           TBD
         </div>
     </div>
     </div>
@@ -297,13 +307,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Elena.png" alt=""
+        <img src="/assets/images/organisation/Kim.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Elena Baninemeh</h3>
+            <h3>Kim Stuber</h3>
             <br>
-            Utrecht University, The Netherlands
+            University of Stuttgart, Germany
         </div>
     </div>
     </div>
@@ -316,13 +326,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/deekshitha.PNG" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Deekshitha M</h3>
+            <h3>TBD</h3>
+TBD
             <br>
-            Utrecht University, The Netherlands
         </div>
     </div>
     </div>

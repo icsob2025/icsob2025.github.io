@@ -79,7 +79,7 @@ This option applies to both research and short papers, with a maximum of two ext
     <li>Abstract Submission Deadline: July 14, 2025 (AoE) </li>
     <<li>Full Paper Submission Deadline: August 04, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 01, 2024 (AoE)</li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
+    <li>Camera-ready Papers Due: October 15, 2024</li>
     <li>Conference Dates: November 24-26, 2025</li>
     </ul>
     
@@ -87,7 +87,7 @@ This option applies to both research and short papers, with a maximum of two ext
     <ul style="list-style: none;">
     <li>Submission Deadline: August 04, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 28, 2024</li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
+    <li>Camera-ready Papers Due: October 15, 2024</li>
     <li>Conference Dates: November 24-26, 2025</li>
     </ul>
     </p>

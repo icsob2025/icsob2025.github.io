@@ -22,7 +22,6 @@ layout: importantdates
     <li>Camera-ready Papers Due: November 4, 2025</li>
     <li>Conference Dates: November 24-26, 2025</li>
     </ul>
-
     <p><b>Short Position and Practice Papers:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 21, 2024 (AoE)</li>
@@ -30,7 +29,6 @@ layout: importantdates
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
-
     <p><b>Poster and Demo Track:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 14, 2025 (AoE)</li>
@@ -38,7 +36,6 @@ layout: importantdates
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 24-26, 2025</li>
     </ul>
-
    <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 01, 2025 (AoE)</li>
