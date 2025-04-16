@@ -2,44 +2,111 @@
 layout: importantdates
 ---
 
-<div style="text-align: center">
-<h1>  Important Dates </h1>  
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
 
-<br>
-<b>Note: all the deadlines are AoE (<b><a href="https://www.worldtimeserver.com/time-zones/aoe/#:~:text=Anywhere%20on%20Earth%20or%20AoE,the%20Pacific%20all%20year%20round." target="_blank">Anywhere on Earth</a></b>) time. AoE time is 12 hours behind Coordinated Universal Time (UTC).</b>
-</div>      
-<br>
-    <p class="lead">
-    <p><b>Research Papers:</b>
-    <ul style="list-style: none;">
-    <li>Abstract Submission Deadline: July 14, 2025 (AoE) </li>
-    <!--<li>Full Paper Submission Deadline: August 04, 2025 (AoE)</li>
-     <li><span style="color:#a90808;"> Full Paper Submission Deadline: September 9, 2024 (AoE) (extended) </span></li>-->
-    <li>Full Paper Submission Deadline: August 04, 2025 (AoE)</li>
-    <!--<li>Notification of Acceptance: October 7, 2024</li>
-    <li><span style="color:#a90808;"> Notification of Acceptance: October 14, 2024 (AoE) (extended) </span></li>-->
-    <li>Notification of Acceptance: October 01, 2025 (AoE)</li>
-    <li>Camera-ready Papers Due: November 4, 2025</li>
-    <li>Conference Dates: November 24-26, 2025</li>
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  }
+
+  h1 {
+    text-align: center;
+    color: #00203F;
+    font-size: 2.2em;
+    margin-bottom: 20px;
+  }
+
+  .note {
+    text-align: center;
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 40px;
+  }
+
+  .track-box {
+    background-color: #EDF5FF;
+    border-left: 6px solid #1D4ED8;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+  }
+
+  .track-box h2 {
+    margin-top: 0;
+    color: #1E3A8A;
+  }
+
+  .track-box ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+
+  .track-box li {
+    padding: 5px 0;
+  }
+
+</style>
+
+<div class="container">
+  <h1>Important Dates</h1>
+
+  <p class="note">
+    <strong>Note:</strong> All deadlines are in 
+    <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
+    AoE time is 12 hours behind Coordinated Universal Time (UTC).
+  </p>
+
+  <div class="track-box">
+    <h2>Research Papers</h2>
+    <ul>
+      <li><strong>Abstract Submission Deadline:</strong> July 14, 2025</li>
+      <li><strong>Full Paper Submission Deadline:</strong> August 04, 2025</li>
+      <li><strong>Notification of Acceptance:</strong> October 01, 2025</li>
+      <li><strong>Camera-ready Papers Due:</strong> November 4, 2025</li>
+      <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
     </ul>
-    <p><b>Short Position and Practice Papers:</b></p>
-    <ul style="list-style: none;">
-    <li>Submission Deadline: October 21, 2024 (AoE)</li>
-    <li>Notification of Acceptance: October 28, 2024</li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
-    <li>Conference Dates: November 19-20, 2024</li>
+  </div>
+
+  <div class="track-box">
+    <h2>Short Position & Practice Papers</h2>
+    <ul>
+      <li><strong>Submission Deadline:</strong> October 21, 2024</li>
+      <li><strong>Notification of Acceptance:</strong> October 28, 2024</li>
+      <li><strong>Camera-ready Papers Due:</strong> November 4, 2024</li>
+      <li><strong>Conference Dates:</strong> November 19–20, 2024</li>
     </ul>
-    <p><b>Poster and Demo Track:</b></p>
-    <ul style="list-style: none;">
-    <li>Submission Deadline: October 14, 2025 (AoE)</li>
-    <li>Notification of Acceptance: October 21, 2025</li>
-    <li>Camera-ready Papers Due: December 9, 2024</li>
-    <li>Conference Dates: November 24-26, 2025</li>
+  </div>
+
+  <div class="track-box">
+    <h2>Poster & Demo Track</h2>
+    <ul>
+      <li><strong>Submission Deadline:</strong> October 14, 2025</li>
+      <li><strong>Notification of Acceptance:</strong> October 21, 2025</li>
+      <li><strong>Camera-ready Papers Due:</strong> December 9, 2024</li>
+      <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
     </ul>
-   <p><b>PhD Retreat:</b></p>
-    <ul style="list-style: none;">
-    <li>Submission Deadline: October 01, 2025 (AoE)</li>
-    <li>Notification of Acceptance: October 21, 2025 (AoE)</li>
-    <li>Camera-ready Papers Due: December 9, 2025</li>
-    <li>Conference Dates: November 24-26, 2025</li>
+  </div>
+
+  <div class="track-box">
+    <h2>PhD Retreat</h2>
+    <ul>
+      <li><strong>Submission Deadline:</strong> October 01, 2025</li>
+      <li><strong>Notification of Acceptance:</strong> October 21, 2025</li>
+      <li><strong>Camera-ready Papers Due:</strong> December 9, 2025</li>
+      <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
     </ul>
+  </div>
+</div>
+
