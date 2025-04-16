@@ -83,7 +83,7 @@ conference:
       - name: Call for Submissions
         menu:
           - name: Research Papers
-            relative_url: "/researchpapers"
+            relative_url: "/ResearchPapers"
           - name: PhD Retreat
             relative_url: "/PhDRetreatSubmissions"
           - name: Posters and Demos

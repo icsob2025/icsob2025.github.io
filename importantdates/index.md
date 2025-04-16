@@ -53,7 +53,7 @@ permalink: /importantdates/
 </style>
 
 <div>
-
+<h1>Important Dates</h1>
   <p class="note">
     <strong>Note:</strong> All deadlines are in 
     <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.

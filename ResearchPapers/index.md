@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Call for Research Papers
-permalink: /researchpapers/
+permalink: /ResearchPapers/
 ---
 
 <style>
@@ -13,10 +13,6 @@ permalink: /researchpapers/
     padding: 0;
   }
 
-  h1, h2, h3 {
-    color: #00203F;
-    margin-top: 40px;
-  }
 
   .section-title {
     font-size: 22px;
