@@ -32,7 +32,7 @@
                         <h3>Organizor</h3>
                         <ul>
                             <a href="https://www.uni-stuttgart.de/en/" target="_blank">
-                            <img type="image/svg+xml" src="assets/Uni_stuttgart_logo.svg" alt="" style="width: 30%;"></a>
+                            <img type="image" src="assets/Uni_Stuttgart_logo.png" alt="" style="width: 30%;"></a>
                         </ul>
                     </div>
                         <div class="col">
@@ -43,7 +43,8 @@
                    </div>
             <p><b></b><center><font size = "3" align="center">The 16th International Conference on Software Business (ICSOB 2025)</font></center></b></p>
             <p><b></b><center><font size = "3" align="center">NOVEMBER 24-26, 2025, University of Stuttgart, Germany</font></center></b></p>
-            <div id="back-to-top" class="scroll-arrow" align="right">
+                <a href="/legalnotice/legalnotice.html">Legal Notice</a>
+                <div id="back-to-top" class="scroll-arrow" align="right">
             <button class="btn btn-dark" title="Back to Top" style="display: block;">
                <a href="#back-to-top">
               <div class="fa fa-angle-up" style="color: #ffffff;"></div>
@@ -55,14 +56,7 @@
 
 </footer>
 
-{%- include partials/modal_link.html -%}
 
-{%- if site.conference.live.streaming.enable -%}
-{%- include partials/modal_live.html -%}
-{%- endif -%}
-
-<!-- Append build time to avoid caching of live program embedded in JavaScript file -->
-<script src=" {{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: " %s" }}"></script>
 
 </body>
 
