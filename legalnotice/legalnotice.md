@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: home
 title: Legal notice
 permalink: /legalnotice/
 ---
-<body>
+
 <h1>Impressum</h1>
 
 <p>Universit&auml;t Stuttgart<br />
@@ -45,6 +45,3 @@ permalink: /legalnotice/
 <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <p>Quelle: <a href="https://www.e-recht24.de">eRecht24</a></p>
-
-</body>
-</html>
