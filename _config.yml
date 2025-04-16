@@ -70,7 +70,8 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      img: "favicon.ico{%- for r in d.rooms -%}"
+      img: "favicon.svg"
+      name: "ICSOB 2025"
 
 
 

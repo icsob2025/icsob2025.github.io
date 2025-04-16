@@ -51,7 +51,7 @@ permalink: /importantdates/
 
 </style>
 
-<div class="container">
+<div>
 
   <p class="note">
     <strong>Note:</strong> All deadlines are in 
