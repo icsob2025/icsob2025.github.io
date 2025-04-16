@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Legal notice</title>
-</head>
+---
+layout: page
+title: Legal notice
+permalink: /legalnotice/
+---
 <body>
 <h1>Impressum</h1>
 

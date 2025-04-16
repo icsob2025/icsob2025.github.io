@@ -1,7 +1,8 @@
 ---
-layout: importantdates
+layout: page
+title: Important Dates
+permalink: /importantdates/
 ---
-
 <style>
   body {
     font-family: Arial, sans-serif;
