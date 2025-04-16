@@ -3,10 +3,10 @@
 
     <!-- Logo on the left -->
     {% if site.conference.navigation.logo %}
-    <a class="navbar-brand" href="{{ site.conference.navigation.logo.url | default: site.baseurl }}">
+    <a class="navbar-brand" href="https://icsob2025.github.io/">
       {% if site.conference.navigation.logo.img %}
-      <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/logo/' | relative_url }}"
-           class="align-middle" alt="{{ site.conference.navigation.logo.name | default: 'Logo' }}"
+      <img src="https://icsob2025.github.io/assets/images/logo/favicon.svg"
+           class="align-middle" alt="ICSOB 2025"
            style="max-height: 60px;">
       {% else %}
       {{ site.conference.navigation.logo.name }}
