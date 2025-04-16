@@ -84,16 +84,16 @@ conference:
         menu:
           - name: Research Papers
             relative_url: "/ResearchPapers"
-          - name: PhD Retreat
-            relative_url: "/PhDRetreatSubmissions"
-          - name: Posters and Demos
-            relative_url: "/Posters"
-          - name: Special Issue
-            relative_url: "/specialissue"
-          - name: Awards
-            relative_url: /Awards/
-          - name: Student Volunteers
-            relative_url: "/studentvolunteers"
+            #    - name: PhD Retreat
+            #     relative_url: "/PhDRetreatSubmissions"
+            #    - name: Posters and Demos
+            #     relative_url: "/Posters"
+            #   - name: Special Issue
+            #     relative_url: "/specialissue"
+            #   - name: Awards
+            #     relative_url: /Awards/
+            #  - name: Student Volunteers
+          #     relative_url: "/studentvolunteers"
         # - name: Program
           # menu:
           # - name: Program Overview
