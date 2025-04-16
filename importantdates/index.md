@@ -12,15 +12,6 @@ permalink: /importantdates/
     padding: 0;
   }
 
-  .container {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-  }
-
   h1 {
     text-align: center;
     color: #00203F;
@@ -61,7 +52,6 @@ permalink: /importantdates/
 </style>
 
 <div class="container">
-  <h1>Important Dates</h1>
 
   <p class="note">
     <strong>Note:</strong> All deadlines are in 
