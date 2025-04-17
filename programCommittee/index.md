@@ -217,9 +217,6 @@ layout: importantdates
     <td>Maya Daneva</td>    <td>University of Twente</td>
   </tr>
   <tr>
-    <td>Michael Unterkalmsteiner</td>    <td>Blekinge Institute of Technology</td>
-  </tr>
-  <tr>
     <td>Michiel Overeem</td>    <td>AFAS Software</td>
   </tr>
   <tr>
