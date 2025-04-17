@@ -12,12 +12,12 @@ permalink: /pastconferences/
   }
   h1 {
     text-align: center;
-    color: #00203F;
+    color: #000000;
     margin-bottom: 30px;
   }
   .proceedings-box {
     background-color: #EDF5FF;
-    border-left: 6px solid #1D4ED8;
+    border-left: 6px solid #0E1B4D;
     padding: 20px;
     margin-bottom: 40px;
     border-radius: 8px;
