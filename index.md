@@ -63,13 +63,14 @@ layout: home
     text-align: center;
   }
 
-  .section-title {
-    font-size: 1.4em;
-    color: #000000;
-    margin-top: 30px;
-    margin-bottom: 15px;
-    text-align: center;
-  }
+.section-title {
+  font-size: 1.4em;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
 
 </style>
 

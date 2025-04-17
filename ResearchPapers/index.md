@@ -18,7 +18,7 @@ permalink: /ResearchPapers/
 
   .highlight-box {
     background-color: #EDF5FF;
-    border-left: 6px solid #1D4ED8;
+    border-left: 6px solid #0E1B4D;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 40px;
@@ -50,6 +50,15 @@ permalink: /ResearchPapers/
   a:hover {
     text-decoration: underline;
   }
+
+.section-title {
+  font-size: 1.4em;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
 </style>
 
 <div class="container">
