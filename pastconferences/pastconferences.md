@@ -15,6 +15,23 @@ permalink: /pastconferences/
     color: #00203F;
     margin-bottom: 30px;
   }
+  .proceedings-box {
+    background-color: #EDF5FF;
+    border-left: 6px solid #1D4ED8;
+    padding: 20px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  .proceedings-box a {
+    color: #1D4ED8;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.1em;
+  }
+  .proceedings-box a:hover {
+    text-decoration: underline;
+  }
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
