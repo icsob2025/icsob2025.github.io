@@ -86,7 +86,7 @@ permalink: /importantdates/
     <ul>
       <li><strong>Submission Deadline:</strong> October 14, 2025</li>
       <li><strong>Notification of Acceptance:</strong> October 21, 2025</li>
-      <li><strong>Camera-ready Papers Due:</strong> December 9, 2024</li>
+      <li><strong>Camera-ready Papers Due:</strong> October 31, 2024</li>
       <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
     </ul>
   </div>
@@ -96,7 +96,7 @@ permalink: /importantdates/
     <ul>
       <li><strong>Submission Deadline:</strong> October 01, 2025</li>
       <li><strong>Notification of Acceptance:</strong> October 21, 2025</li>
-      <li><strong>Camera-ready Papers Due:</strong> December 9, 2025</li>
+      <li><strong>Camera-ready Papers Due:</strong> October 31, 2025</li>
       <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
     </ul>
   </div>

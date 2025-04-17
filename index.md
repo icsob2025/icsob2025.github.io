@@ -131,7 +131,7 @@ layout: home
     <ul>
       <li><b>Deadline:</b> October 14, 2025</li>
       <li><b>Notification:</b> October 21, 2025</li>
-      <li><b>Camera-ready:</b> December 9, 2025</li>
+      <li><b>Camera-ready:</b> October 31, 2025</li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        
 </ul>
   </div>
@@ -141,7 +141,7 @@ layout: home
     <ul>
       <li><b>Deadline:</b> October 1, 2025</li>
       <li><b>Notification:</b> October 21, 2025</li>
-      <li><b>Camera-ready:</b> December 9, 2025</li>
+      <li><b>Camera-ready:</b> October 31, 2025</li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        
 </ul>
   </div>

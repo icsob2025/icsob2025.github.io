@@ -105,6 +105,30 @@ layout: organisation
             Chalmers University of Technology, Sweden
         </div>
     </div>
+ <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/edona.png" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Edona Elshan</h3>
+            <br>
+           Vrije Universiteit Amsterdam, The Netherlands
+        </div>
+    </div>
+ <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Rodrigo.jpg" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Rodrigo Pereira dos Santos</h3>
+            <br>
+           UNIRIO, Brazil
+        </div>
+    </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -115,13 +139,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/edona.png" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Edona Elshan</h3>
+            <h3>TBD</h3>
             <br>
-           Vrije Universiteit Amsterdam, The Netherlands
+           TBD
         </div>
     </div>
     </div>
