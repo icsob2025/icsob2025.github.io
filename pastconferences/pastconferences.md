@@ -44,7 +44,11 @@ permalink: /pastconferences/
 <div class="container">
   <h1>Past ICSOB Conferences</h1>
   <div class="grid">
-
+ <div class="proceedings-box">
+    <a href="https://link.springer.com/conference/icsob" target="_blank">
+      Proceedings of the ICSOB Series
+    </a>
+  </div>
     <div class="card">
       <h3>ICSOB 2024</h3>
       <p><strong>Dates:</strong> 18–20 November 2024</p>
