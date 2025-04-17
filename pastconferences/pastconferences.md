@@ -109,14 +109,12 @@ permalink: /pastconferences/
       <h3>ICSOB 2014</h3>
       <p><strong>Dates:</strong> 14–17 June 2014</p>
       <p><strong>Location:</strong> Paphos, Cyprus</p>
-      <p><strong>Theme:</strong> Software Business. Towards Continuous Value Delivery</p>
     </div>
 
     <div class="card">
       <h3>ICSOB 2013</h3>
       <p><strong>Dates:</strong> 11–14 June 2013</p>
       <p><strong>Location:</strong> Potsdam, Germany</p>
-      <p><strong>Theme:</strong> Software Business. From Physical Products to Software Services and Solutions</p>
     </div>
 
     <div class="card">
