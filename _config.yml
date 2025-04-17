@@ -117,6 +117,9 @@ conference:
             relative_url: /organisation/
           - name: Program Committee
             relative_url: /programCommittee/
+
+      - name: Past Conferences
+        relative_url: /pastconferences/
         # - name: Attending
           # menu:
             # - name: Registration
