@@ -32,7 +32,7 @@ layout: importantdates
                <span style="font-size:45px"> Program Committee </span> 
                <span style="color:grey; font-size:30px"> Research Track </span> 
     </h2>
-  
+</div>
 <p>
 <table id="customers">
   <tr>
@@ -321,51 +321,16 @@ layout: importantdates
 <div class="col-lg8 mx-auto">
     <h2 class="display-4" style="text-align: left;">
                <span style="font-size:45px"> Program Committee </span> 
-               <span style="color:grey; font-size:30px"> Short Position and Practice Papers track </span> 
-    </h2>
-  
-<p>
-<table id="customers">
-  <tr>
-    <th>Name</th>
-    <th>Affiliation</th>
-  </tr>
-<tr><td>Andrey Saltan</td>    <td>LUT University</td>  </tr>
-<tr><td>Annabell Petri</td>    <td>University of Twente</td>  </tr>
-<tr><td>David Callele</td>    <td>University of Saskatchewan</td>  </tr>
-<tr><td>Dominik Siemon</td>    <td>LUT University</td>  </tr>
-<tr><td>Eduardo Guerra</td>    <td>Free University of Bozen-Bolzano</td>  </tr>
-<tr><td>Efi Papatheocharous</td>    <td>RISE</td>  </tr>
-<tr><td>Fang Hou</td>    <td>Utrecht University</td>  </tr>
-<tr><td>Fernanda Madeiral</td>    <td>Vrij Universiteit Amsterdam</td>  </tr>
-<tr><td>Fernando Castor</td>    <td>University of Twente</td>  </tr>
-<tr><td>Jurriaan Hage</td>    <td>Heriot-Watt University</td>  </tr>
-<tr><td>Krzysztof Wnuk</td>    <td>Blekinge Institute of Technology</td>  </tr>
-<tr><td>Michiel Overeem</td>    <td>AFAS Software</td>  </tr>
-<tr><td>Nirnaya Tripathi</td>    <td>University of Oulu</td>  </tr>
-<tr><td>Rodrigo Santos</td>    <td>Sociedade Brasileira de Computação</td>  </tr>
-<tr><td>Sami Hyrynsalmi</td>    <td>LUT University</td>  </tr>
-<tr><td>Siamak Farshidi</td>    <td>Wageningen University & Research</td>  </tr>
-<tr><td>Slinger Jansen</td>    <td>Utrecht University</td>  </tr>
-<tr><td>Ulrike Lechner</td>    <td>Universität der Bundeswehr München</td>  </tr>
-<tr><td>Xiaofeng Wang</td>    <td>Free University of Bozen-Bolzano</td>  </tr>
-</table>
-</p>
-
-<div class="col-lg8 mx-auto">
-    <h2 class="display-4" style="text-align: left;">
-               <span style="font-size:45px"> Program Committee </span> 
                <span style="color:grey; font-size:30px"> Posters and Demos </span> 
     </h2>
-  
+ </div> 
 <p>
 <table id="customers">
   <tr>
     <th>Name</th>
     <th>Affiliation</th>
   </tr>
-<tr><td>Edona Elshan</td>    <td>Vrij Universiteit Amsterdam</td>  </tr>
-<tr><td>Dominik Siemon</td>    <td>LUT University</td>  </tr>
+
 
 </table>
 </p>
@@ -375,27 +340,14 @@ layout: importantdates
                <span style="font-size:45px"> Program Committee </span> 
                <span style="color:grey; font-size:30px"> PhD Retreat Track </span> 
     </h2>
-  
+  </div>
 <p>
 <table id="customers">
   <tr>
     <th>Name</th>
     <th>Affiliation</th>
   </tr>
-<tr><td>Edona Elshan</td>    <td> Vrije Universiteit Amsterdam, The Netherlands</td>  </tr>
-<tr><td>Eduardo Guerra</td>    <td> Free University of Bozen-Bolzano, Italy</td>  </tr>
-<tr><td>Fabian Fagerholm</td>    <td> Aalto University, Finland</td>  </tr>
-<tr><td>Helena Olsson</td>    <td> University of Malmö, Sweden</td>  </tr>
-<tr><td>Henry Edison</td>    <td> Blekinge Institute of Technology, Sweden</td>  </tr>
-<tr><td>Jesper Andersson</td>    <td> Linnaeus University, Sweden</td>  </tr>
-<tr><td>Joey van Angeren</td>    <td> Vrije Universiteit Amsterdam, The Netherlands</td>  </tr>
-<tr><td>Jorge Melegati</td>    <td> Free University of Bozen-Bolzano, Italy</td>  </tr>
-<tr><td>José Maria David</td>    <td> Federal University of Juiz de Fora, Brazil</td>  </tr>
-<tr><td>Mohamad Kassab</td>    <td> The Pennsylvania State University, USA</td>  </tr>
-<tr><td>Noel Carroll</td>    <td> University of Galway, Ireland</td>  </tr>
-<tr><td>Rafael Capilla</td>    <td> Universidad Rey Juan Carlos, Spain</td>  </tr>
-<tr><td>Simone Vasconcelos</td>    <td> IF Fluminense, Brazil</td>  </tr>
-<tr><td>Xiaofeng Wang</td>    <td> Free University of Bozen-Bolzano, Italy</td>  </tr>
+
 
 </table>
 </p>

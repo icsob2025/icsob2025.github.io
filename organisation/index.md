@@ -171,7 +171,7 @@ layout: organisation
         <hr class="my-4">
         <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Marketing Chair
+            Communication Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
@@ -186,25 +186,6 @@ layout: organisation
            University of Stuttgart, Germany
         </div>
         </div>
-    </div>
-        <hr class="my-4">
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
- <h1 class="display-5">
-            Social Media Chair
-        </h1>
-    <div style="display: flex;">
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/TBD.png" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>TBD</h3>
-            <br>
-            TBD
-        </div>
-    </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
