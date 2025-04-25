@@ -149,7 +149,7 @@ permalink: /organisation/
       <div class="org-card">
         <img src="/assets/images/organisation/Andrey.png" alt="Andrey Saltan">
         <h3>Andrey Saltan</h3>
-        <p>LUT University / HSE University, Finland</p>
+        <p>LUT University, Finland</p>
       </div>
     </div>
   </section>
@@ -175,7 +175,7 @@ permalink: /organisation/
       <div class="org-card">
         <img src="/assets/images/organisation/Andrey.png" alt="Andrey Saltan">
         <h3>Andrey Saltan</h3>
-        <p>LUT University / HSE University, Finland</p>
+        <p>LUT University, Finland</p>
       </div>
     </div>
   </section>
