@@ -134,11 +134,16 @@ permalink: /organisation/
     <h2>Poster Chair</h2>
     <div class="org-cards">
       <div class="org-card">
-        <img src="/assets/images/organisation/TBD.png" alt="TBD">
-        <h3>TBD</h3>
-        <p>TBD</p>
+        <img src="/assets/images/organisation/nirnaya.jpg" alt="Nirnaya Tripathi">
+        <h3>Nirnaya Tripathi</h3>
+        <p>University of Oulu, Finland</p>
       </div>
-    </div>
+      <div class="org-card">
+        <img src="/assets/images/organisation/TBD.png" alt="Usman Rafiq">
+        <h3>Usman Rafiq</h3>
+        <p>Free University of Bozen-Bolzano, Italy</p>
+      </div>
+</div>
   </section>
 
   <hr class="section-separator">
