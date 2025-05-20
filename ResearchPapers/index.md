@@ -94,9 +94,9 @@ permalink: /ResearchPapers/
 
 <h2 class="section-title">Paper Submission Categories</h2>
   <ul>
-    <li><b>Full Research Papers</b> (up to 15 pages) – Detailed studies and novel insights</li>
-    <li><b>Short Position & Practice Papers</b> (up to 6 pages) – Industry cases, early ideas</li>
-    <li><b>Posters & Demos</b> (up to 4 pages)</li>
+    <li><b>Full Research Papers</b> (up to 15 pages all included) – Detailed studies and novel insights</li>
+    <li><b>Short Position & Practice Papers</b> (up to 6 pages all included) – Industry cases, early ideas</li>
+    <li><b>Posters & Demos</b> (up to 4 pages all included)</li>
   </ul>
 
   <p>ICSOB will also include networking events and keynotes from leading voices in the field.</p>

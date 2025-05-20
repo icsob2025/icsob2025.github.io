@@ -139,7 +139,7 @@ permalink: /organisation/
         <p>University of Oulu, Finland</p>
       </div>
       <div class="org-card">
-        <img src="/assets/images/organisation/TBD.png" alt="Usman Rafiq">
+        <img src="/assets/images/organisation/Usman.png" alt="Usman Rafiq">
         <h3>Usman Rafiq</h3>
         <p>Free University of Bozen-Bolzano, Italy</p>
       </div>
