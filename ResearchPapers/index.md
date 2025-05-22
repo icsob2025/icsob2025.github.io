@@ -141,11 +141,11 @@ permalink: /ResearchPapers/
   <div class="highlight-box">
     <h3>Short Position & Practice Papers</h3>
     <ul>
-      <li><b>Submission Deadline:</b> August 04, 2024 (AoE)</li>
-      <li><b>Notification:</b> October 28, 2024 (AoE)</li>
-      <li><b>Camera-ready:</b> October 15, 2024 (AoE)</li>
-      <li><b>Conference:</b> November 24–26, 2025</li>
-    </ul>
+      <li><b>Deadline:</b> August 4, 2025</li>
+      <li><b>Notification:</b> October 1, 2025</li>
+      <li><b>Camera-ready:</b> October 15, 2025</li>
+<li><b>Conference Dates:</b> November 24-26, 2025</li>        
+</ul>
   </div>
 
 </div>

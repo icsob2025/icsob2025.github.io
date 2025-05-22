@@ -74,11 +74,11 @@ permalink: /importantdates/
   <div class="track-box">
     <h2>Short Position & Practice Papers</h2>
     <ul>
-      <li><strong>Submission Deadline:</strong> October 21, 2024</li>
-      <li><strong>Notification of Acceptance:</strong> October 28, 2024</li>
-      <li><strong>Camera-ready Papers Due:</strong> November 4, 2024</li>
-      <li><strong>Conference Dates:</strong> November 19–20, 2024</li>
-    </ul>
+      <li><b>Deadline:</b> August 4, 2025</li>
+      <li><b>Notification:</b> October 1, 2025</li>
+      <li><b>Camera-ready:</b> October 15, 2025</li>
+<li><b>Conference Dates:</b> November 24-26, 2025</li>        
+</ul>
   </div>
 
   <div class="track-box">
