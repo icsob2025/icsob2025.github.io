@@ -126,16 +126,20 @@ permalink: /ResearchPapers/
   <hr>
 
 <h2 class="section-title">Important Dates</h2>
-
+  <p class="note">
+    <strong>Note:</strong> All deadlines are in 
+    <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
+    AoE time is 12 hours behind Coordinated Universal Time (UTC).
+  </p>
   <div class="highlight-box">
     <h3>Research Papers</h3>
     <ul>
-      <li><b>Abstract Deadline:</b> July 14, 2025 (AoE)</li>
-      <li><b>Full Paper Deadline:</b> August 04, 2024 (AoE)</li>
-      <li><b>Notification:</b> October 01, 2024 (AoE)</li>
-      <li><b>Camera-ready:</b> October 15, 2024 (AoE)</li>
-      <li><b>Conference:</b> November 24–26, 2025</li>
-    </ul>
+      <li><b>Abstract Deadline:</b> July 14, 2025</li>
+      <li><b>Full Paper Deadline:</b> August 4, 2025</li>
+      <li><b>Notification:</b> October 1, 2025</li>
+      <li><b>Camera-ready:</b> October 15, 2025</li>
+<li><b>Conference Dates:</b> November 24-26, 2025</li>    
+</ul>
   </div>
 
   <div class="highlight-box">
