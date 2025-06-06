@@ -129,6 +129,8 @@ conference:
         - name: Location
           relative_url: /location/
 
+      - name: Submissions
+        url: https://www.conftool.com/icsob2025/index.php?page=login
 
 
   # Information boxes
