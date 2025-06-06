@@ -126,7 +126,7 @@ conference:
          - name: Attending
            menu:
              - name: Registration
-             relative_url: /registration/
+               relative_url: /registration/
             # - name: Location
             # relative_url: /location/
 
