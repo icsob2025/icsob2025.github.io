@@ -3,29 +3,6 @@ layout: importantdates
 ---
 
 <style>
-#registration {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#registration td, #registration th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#registration tr:nth-child(even){background-color: #f2f2f2;}
-
-#registration tr:hover {background-color: #ddd;}
-
-#registration th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #000;
-  color: white;
-}
-
     /* Styling for the button */
     .styled-button {
       background-color: #000; /* Green background */
@@ -71,78 +48,7 @@ layout: importantdates
     <h1 class="display-4" style="text-align: left;">
         Registration
     </h1>
-    <p> Registration and payments for the ICSOB 2024 conference should be completed via the online registration system. Registration is required for all persons attending the conference.</p>
-
-<p> Registration fees:</p>
-<p>
- <table id="registration">
-  <tr>
-    <th>Categories</th>
-    <th>Early Bird Registration Fee (till October 23rd)</th>
-    <th>Standard Registration Fee (from October 24th)</th>
-  </tr>
-  <tr>
-    <td>Student, Full conference</td>
-    <td> <label>
-      <input type="radio" name="redirectOption" disabled > € 600.00 </label> </td>
-    
-       <!--<input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-23rd')" /> € 600.00 </label> </td>-->
-    <td> <label>
-    <!--<input type="radio" name="redirectOption" disabled > € 700.00 </label> </td>-->
-      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-after-october-1st')" /> € 700.00 </label> </td>
-
-  </tr>
-  <tr>
-    <td>Regular, Full conference</td>
-    <td> <label>
-     <input type="radio" name="redirectOption" disabled > € 700.00 </label> </td> 
-      <!--<input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-october-23rd')" /> € 700.00 </label> </td>-->
-    <td> <label>
-    <!--  <input type="radio" name="redirectOption" disabled > € 800.00 </label> </td>-->
-<input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-regular-attendance-registration-after-october-1st')" /> € 800.00 </label> </td> 
-    
-  </tr>
-   
-  <tr>
-    <td>Student, Full conference + PhD Retreat (if accepted) </td>
-    <td> <label>
-      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-phd-student-october-1st-retreat-combo')" /> € 500.00 </label> </td>
-    
-   <td></td>
-  </tr>
-
-  <tr>
-    <td>Student, only PhD retreat</td>
-    <td> <label>
-      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-student-october-1st-phd-retreat-only')" /> € 200.00 </label> </td>
-    
-    <td></td>
-  </tr>
-
-    <tr>
-    <td>Workshop and dinner</td>
-    <td> <label>
-      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-workshop-and-dinner')" /> € 350.00 </label> </td>
-      
-     <td></td>
-  </tr>
-
-      <tr>
-    <td>Dinner</td>
-    <td> <label>
-      <input type="radio" name="redirectOption" onclick="setRedirectUrl('https://uusalesservices.uu.nl/international-conference-software-business-extra-dinner-ticket')" /> € 100.00 </label> </td>
-      
-     <td></td>
-  </tr>
-  </table>
-
-</p>
-
-<p><b>Please note: Each full or short paper must have a unique registered presenter. This policy applies also to PhD Retreat.</b></p>
-
-<p><button class="styled-button" onclick="redirectToSelected()">Register</button></p>
-
-
+    <p>Registration details and fees will be announced soon. Please check back later for updates.</p>
 
 <p><b><span style="color:#a90808;">Purchase Extra Pages for Your Accepted Research Paper</span></b></p>
 

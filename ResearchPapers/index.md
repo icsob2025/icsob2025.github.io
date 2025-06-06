@@ -109,7 +109,7 @@ permalink: /ResearchPapers/
     <li>Papers must follow <a href="https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines" target="_blank">Springer’s LNBIP format</a>.</li>
     <li>All papers must be anonymized for double-blind review.</li>
     <li>Include 3–5 keywords and indicate the paper type (technical, empirical, experience, exploratory).</li>
-    <li>Submission will be through Conftool (link coming soon).</li>
+    <li>Papers can be submitted through our dedicated <a href="https://www.conftool.com/icsob2025/index.php?page=login" target="_blank">Conftool</a>.</li>
     <li>Each paper will be reviewed by at least three experts.</li>
     <li>Accepted papers will be presented at ICSOB 2025 and published in Springer LNBIP.</li>
   </ul>
