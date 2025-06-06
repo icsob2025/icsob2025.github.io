@@ -131,6 +131,7 @@ conference:
 
       - name: Submissions
         url: https://www.conftool.com/icsob2025/index.php?page=login
+        external: true
 
 
   # Information boxes
