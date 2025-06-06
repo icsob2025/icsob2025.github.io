@@ -129,6 +129,9 @@ conference:
         - name: Location
           relative_url: /location/
 
+      - name: Submissions
+        relative_url: /submissions/
+
   # Information boxes
   info_bars:
     - title: Welcome to the Conference Theme for Jekyll!
