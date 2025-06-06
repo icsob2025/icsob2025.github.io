@@ -1,0 +1,22 @@
+dates:
+  conference:
+    display: November 24–26, 2025
+    start: 2025-11-24
+    end: 2025-11-26
+  research_papers:
+    abstract_deadline: July 14, 2025
+    full_paper_deadline: August 4, 2025
+    notification: October 1, 2025
+    camera_ready: October 15, 2025
+  short_papers:
+    deadline: August 4, 2025
+    notification: October 1, 2025
+    camera_ready: October 15, 2025
+  posters:
+    deadline: October 14, 2025
+    notification: October 21, 2025
+    camera_ready: October 31, 2025
+  phd_retreat:
+    deadline: October 1, 2025
+    notification: October 21, 2025
+    camera_ready: October 31, 2025
