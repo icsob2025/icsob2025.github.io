@@ -121,14 +121,13 @@ conference:
       - name: Past Conferences
         relative_url: /pastconferences/
 
-      - name: Location
-        relative_url: /location/
+
       - name: Attending
         menu:
         - name: Registration
           relative_url: /registration/
-            # - name: Location
-            # relative_url: /location/
+        - name: Location
+          relative_url: /location/
 
 
 
