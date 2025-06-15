@@ -71,6 +71,7 @@ layout: importantdates
 <tr><td>Fang Hou</td><td>Utrecht University</td></tr>
 <tr><td>Fernanda Madeiral</td><td>Vrije Universiteit Amsterdam</td></tr>
 <tr><td>Francesca Lonetti</td><td>CNR-ISTI</td></tr>
+<tr><td>Francisco Ferreira</td><td>UFJF</td></tr>
 <tr><td>Frederik Möller</td><td>TU Braunschweig</td></tr>
 <tr><td>Georg Herzwurm</td><td>University of Stuttgart, Institute of Business Administration, Dept. VIII: Information Systems II</td></tr>
 <tr><td>George Valença</td><td>Universidade Federal Rural de Pernambuco (UFRPE)</td></tr>
@@ -109,6 +110,7 @@ layout: importantdates
 <tr><td>Luís Ferreira Pires</td><td>University of Twente</td></tr>
 <tr><td>Marcin Ocieszak</td><td>Kozminski University</td></tr>
 <tr><td>Marko Seppänen</td><td>Tampere University</td></tr>
+<tr><td>Markus Funke</td><td>Vriju University</td></tr>
 <tr><td>Matthew Ajimati</td><td>National University of Ireland Galway</td></tr>
 <tr><td>Matti Muhos</td><td>University of Oulu</td></tr>
 <tr><td>Maya Daneva</td><td>University of Twente</td></tr>
@@ -121,6 +123,7 @@ layout: importantdates
 <tr><td>Nirnaya Tripathi</td><td>University of Oulu</td></tr>
 <tr><td>Noel Carroll</td><td>National University of Ireland Galway</td></tr>
 <tr><td>Pablo Oliveira Antonino</td><td>Fraunhofer</td></tr>
+<tr><td>Paulo Malcher </td><td>UFRA</td></tr>
 <tr><td>Pasi Tyrväinen</td><td>University of Jyväskylä</td></tr>
 <tr><td>Pekka Abrahamsson</td><td>Tampere University</td></tr>
 <tr><td>Regina Braga</td><td>UFJF</td></tr>
