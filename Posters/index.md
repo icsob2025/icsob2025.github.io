@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Call for Posters and Demo
+permalink: /Posters/
 ---
 
 <style>
@@ -10,65 +12,63 @@ layout: home
     margin: 0;
     padding: 0;
   }
+
+
+ 
+
   .highlight-box {
     background-color: #EDF5FF;
     border-left: 6px solid #0E1B4D;
     padding: 20px;
-    margin: 20px 0;
+    margin-top: 20px;
+    margin-bottom: 40px;
     border-radius: 8px;
   }
+
   ul {
     padding-left: 0;
     list-style: none;
     margin-bottom: 30px;
   }
+
   ul li {
     margin-bottom: 10px;
   }
+
   hr {
     border: none;
     height: 1px;
     background: #ccc;
     margin: 40px 0;
   }
-  h1, h2, h3, h4 {
-    color: #00203F;
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 20px;
+
+  a {
+    color: #1D4ED8;
+    text-decoration: none;
   }
-  .note {
-    font-size: 0.95em;
-    color: #555;
-    text-align: center;
+
+  a:hover {
+    text-decoration: underline;
   }
-  .section-title {
-    font-size: 1.4em;
-    color: #000000;
-    margin-top: 30px;
-    margin-bottom: 15px;
-    text-align: center;
-    font-weight: bold;
-  }
-  .contact-list {
-    text-align: left;
-    margin: 0 auto;
-    max-width: 500px;
-  }
-  .important-dates {
-    text-align: center;
-    margin: 0 auto 30px auto;
-    max-width: 500px;
-  }
+
+.section-title {
+  font-size: 1.4em;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
 </style>
 
+
 <div class="container">
-  <h1 class="section-title">Call for Posters and Demos</h1>
+  <h1>Call for Posters and Demos</h1>
   <div>
     <p>We invite researchers, practitioners, and doctoral students to submit posters and demos to the <strong>16th International Conference on Software Business (ICSOB 2025)</strong> based on the conference theme. The Poster and Demo track aims to provide a dynamic forum for showcasing early research, demonstrating innovative tools and practical solutions, and presenting emerging ideas in the field of software business.</p>
   </div>
 
-  <h2 class="section-title">Poster Submissions</h2>
+  <h2>Poster Submissions</h2>
   <div>
     <p>Posters are planned to facilitate face-to-face discussions among conference participants. Therefore, participants are anticipated to discuss preliminary research results, emerging research ideas, and projects in interactive sessions.</p>
     <ul>
@@ -98,8 +98,8 @@ layout: home
       <li>Submissions must be made as extended abstracts. The page limit is <strong>four pages, including references</strong>.</li>
       <li><strong>Template:</strong> Use the CEUR-ART one-column template
         <ul>
-          <li>LaTeX: <a href=http://ceur-ws.org/Vol-XXX/CEURART.zip>CEURART LaTeX Template</a></li>
-          <li>Word/ODT: <a href=https://ceur-ws.org/Vol-XXX/CEURART.zip>CEURART Word/ODT Template</a></li>
+          <li>LaTeX: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART LaTeX Template</a></li>
+          <li>Word/ODT: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART Word/ODT Template</a></li>
         </ul>
         <em>Note: If the links do not work, please contact the organizers for assistance.</em>
       </li>
