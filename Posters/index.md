@@ -64,12 +64,12 @@ layout: home
 
 <div class="container">
   <h1 class="section-title">Call for Posters and Demos</h1>
-  <div class="highlight-box">
+  <div>
     <p>We invite researchers, practitioners, and doctoral students to submit posters and demos to the <strong>16th International Conference on Software Business (ICSOB 2025)</strong> based on the conference theme. The Poster and Demo track aims to provide a dynamic forum for showcasing early research, demonstrating innovative tools and practical solutions, and presenting emerging ideas in the field of software business.</p>
   </div>
 
   <h2 class="section-title">Poster Submissions</h2>
-  <div class="highlight-box">
+  <div>
     <p>Posters are planned to facilitate face-to-face discussions among conference participants. Therefore, participants are anticipated to discuss preliminary research results, emerging research ideas, and projects in interactive sessions.</p>
     <ul>
       <li>Preliminary research results</li>
@@ -81,7 +81,7 @@ layout: home
   </div>
 
   <h2 class="section-title">Demo Submissions</h2>
-  <div class="highlight-box">
+  <div>
     <p>Demo contributions should focus on hands-on demonstrations, including:</p>
     <ul>
       <li>Practical software implementations</li>
@@ -93,34 +93,34 @@ layout: home
   </div>
 
   <h2 class="section-title">Submission Requirements</h2>
-  <div class="highlight-box">
+  <div>
     <ul>
       <li>Submissions must be made as extended abstracts. The page limit is <strong>four pages, including references</strong>.</li>
       <li><strong>Template:</strong> Use the CEUR-ART one-column template
         <ul>
-          <li>LaTeX: <a href="/PhDRetreatSubmissions/CEURART.zip">CEURART LaTeX Template</a></li>
-          <li>Word/ODT: <a href="/PhDRetreatSubmissions/CEUR-Template-1col.docx">CEURART Word/ODT Template</a></li>
+          <li>LaTeX: <a href=http://ceur-ws.org/Vol-XXX/CEURART.zip>CEURART LaTeX Template</a></li>
+          <li>Word/ODT: <a href=https://ceur-ws.org/Vol-XXX/CEURART.zip>CEURART Word/ODT Template</a></li>
         </ul>
         <em>Note: If the links do not work, please contact the organizers for assistance.</em>
       </li>
       <li>All submissions will be peer-reviewed by two members of the conference Program Committee through a single-blind review process.</li>
-      <li>Submissions should be made through the ICSOB submission system via <a href="/submissions/">Conftool</a>.</li>
+      <li>Submissions should be made through the ICSOB submission system via <a href="https://www.conftool.com/icsob2025/index.php?page=login" target="_blank">Conftool</a>.</li>
     </ul>
   </div>
 
   <h2 class="section-title">Publication of Accepted Submissions</h2>
-  <div class="highlight-box">
+  <div>
     <p>All accepted posters and demos will be published in the ICSOB 2025 Companion Proceedings.</p>
     <p>At least one author of each accepted contribution must register for the conference and present their work during the designated poster/demo session.</p>
   </div>
 
   <h2 class="section-title">Poster Printing</h2>
-  <div class="highlight-box">
+  <div>
     <p>If accepted, authors are expected to design, print, and bring their posters to the session. The poster should briefly summarize the paper. Posters should be of size <strong>A1 (594 mm x 841 mm)</strong> and in <strong>portrait orientation</strong>. If authors remain unable to print their posters, we will print on behalf of the authors. However, authors are required to provide the poster file to the chairs well in advance to allow sufficient time for printing.</p>
   </div>
 
   <h2 class="section-title">Poster Design Guidelines</h2>
-  <div class="highlight-box">
+  <div>
     <h3>Layout</h3>
     <ul>
       <li>Poster size should be A1 (594 mm x 841 mm). The poster should have an ample supply of push-pins.</li>
@@ -142,25 +142,22 @@ layout: home
   </div>
 
   <h2 class="section-title">Important Dates</h2>
-  <p class="note">
-    <strong>Note:</strong> All deadlines are in 
-    <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
-    AoE time is 12 hours behind Coordinated Universal Time (UTC).
-  </p>
-  <ul>
-    <li><b>Submission Deadline:</b> {{ site.data.dates.posters.deadline }}</li>
-    <li><b>Notification of Acceptance:</b> {{ site.data.dates.posters.notification }}</li>
-    <li><b>Camera-ready Submission:</b> {{ site.data.dates.posters.camera_ready }}</li>
-    <li><b>Conference Dates:</b> {{ site.data.dates.conference.display }}</li>
-  </ul>
+  <div class="highlight-box important-dates">
+    <ul>
+      <li><strong>Submission Deadline:</strong> {{ site.data.dates.posters.deadline }}</li>
+      <li><strong>Notification of Acceptance:</strong> {{ site.data.dates.posters.notification }}</li>
+      <li><strong>Camera-ready Submission:</strong> {{ site.data.dates.posters.camera_ready }}</li>
+      <li><strong>Conference Dates:</strong> {{ site.data.dates.conference.display }}</li>
+    </ul>
+  </div>
 
   <h2 class="section-title">Accepted Papers</h2>
-  <div class="highlight-box">
+  <div>
     <p>The selected papers will be listed here once the review process is complete and papers have been selected for poster and demo presentation.</p>
   </div>
 
   <h2 class="section-title">Questions?</h2>
-  <div class="highlight-box contact-list">
+  <div>
     <p>For inquiries, please contact the Poster and Demo Track Chairs:</p>
     <ul>
       <li>Nirnaya Tripathi: <a href="mailto:nirnaya.tripathi@oulu.fi">nirnaya.tripathi@oulu.fi</a></li>
