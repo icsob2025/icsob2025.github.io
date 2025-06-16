@@ -86,8 +86,8 @@ conference:
             relative_url: "/ResearchPapers"
             #    - name: PhD Retreat
             #     relative_url: "/PhDRetreatSubmissions"
-            #    - name: Posters and Demos
-            #     relative_url: "/Posters"
+          - name: Posters and Demos
+            relative_url: "/Posters"
             #   - name: Special Issue
             #     relative_url: "/specialissue"
             #   - name: Awards
