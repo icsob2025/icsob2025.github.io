@@ -142,14 +142,17 @@ layout: home
   </div>
 
   <h2 class="section-title">Important Dates</h2>
-  <div class="highlight-box important-dates">
-    <ul>
-      <li><strong>Submission Deadline:</strong> {{ site.data.dates.posters.deadline }}</li>
-      <li><strong>Notification of Acceptance:</strong> {{ site.data.dates.posters.notification }}</li>
-      <li><strong>Camera-ready Submission:</strong> {{ site.data.dates.posters.camera_ready }}</li>
-      <li><strong>Conference Dates:</strong> {{ site.data.dates.conference.display }}</li>
-    </ul>
-  </div>
+  <p class="note">
+    <strong>Note:</strong> All deadlines are in 
+    <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
+    AoE time is 12 hours behind Coordinated Universal Time (UTC).
+  </p>
+  <ul>
+    <li><b>Submission Deadline:</b> {{ site.data.dates.posters.deadline }}</li>
+    <li><b>Notification of Acceptance:</b> {{ site.data.dates.posters.notification }}</li>
+    <li><b>Camera-ready Submission:</b> {{ site.data.dates.posters.camera_ready }}</li>
+    <li><b>Conference Dates:</b> {{ site.data.dates.conference.display }}</li>
+  </ul>
 
   <h2 class="section-title">Accepted Papers</h2>
   <div class="highlight-box">
