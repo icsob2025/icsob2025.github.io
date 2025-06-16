@@ -97,10 +97,8 @@ permalink: /Posters/
     <ul>
       <li>Submissions must be made as extended abstracts. The page limit is <strong>four pages, including references</strong>.</li>
       <li><strong>Template:</strong> Use the CEUR-ART one-column template
-        <ul>
-          <li>LaTeX: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART LaTeX Template</a></li>
-          <li>Word/ODT: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART Word/ODT Template</a></li>
-        </ul>
+          LaTeX: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART LaTeX Template</a>
+          Word/ODT: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART Word/ODT Template</a>
         <em>Note: If the links do not work, please contact the organizers for assistance.</em>
       </li>
       <li>All submissions will be peer-reviewed by two members of the conference Program Committee through a single-blind review process.</li>
@@ -142,14 +140,17 @@ permalink: /Posters/
   </div>
 
   <h2 class="section-title">Important Dates</h2>
-  <div class="highlight-box important-dates">
-    <ul>
-      <li><strong>Submission Deadline:</strong> {{ site.data.dates.posters.deadline }}</li>
-      <li><strong>Notification of Acceptance:</strong> {{ site.data.dates.posters.notification }}</li>
-      <li><strong>Camera-ready Submission:</strong> {{ site.data.dates.posters.camera_ready }}</li>
-      <li><strong>Conference Dates:</strong> {{ site.data.dates.conference.display }}</li>
-    </ul>
-  </div>
+  <p class="note">
+    <strong>Note:</strong> All deadlines are in 
+    <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
+    AoE time is 12 hours behind Coordinated Universal Time (UTC).
+  </p>
+  <ul>
+    <li><b>Submission Deadline:</b> October 14, 2025</li>
+    <li><b>Notification of Acceptance:</b> October 21, 2025</li>
+    <li><b>Camera-ready Submission:</b> October 31, 2025</li>
+    <li><b>Conference Dates:</b> November 24–26, 2025</li>
+  </ul>
 
   <h2 class="section-title">Accepted Papers</h2>
   <div>
