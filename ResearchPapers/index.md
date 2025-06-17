@@ -132,19 +132,24 @@ permalink: /ResearchPapers/
   AoE time is 12 hours behind Coordinated Universal Time (UTC).
 </p>
 <div class="highlight-box">
-<ul style="list-style: disc; padding-left: 20px;">
-  <li><b>Abstract Deadline:</b> July 14, 2025</li>
-  <li><b>Full Paper Deadline:</b> August 4, 2025</li>
-  <li><b>Notification:</b> October 1, 2025</li>
-  <li><b>Camera-ready:</b> October 15, 2025</li>
-  <li><b>Conference Dates:</b> November 24–26, 2025</li>
+    <h3 class="section-title">Research Papers</h3>
+    <ul>
+      <li><b>Abstract Deadline:</b> July 14, 2025</li>
+      <li><b>Full Paper Deadline:</b> August 4, 2025</li>
+      <li><b>Notification:</b> October 1, 2025</li>
+      <li><b>Camera-ready:</b> October 15, 2025</li>
+<li><b>Conference Dates:</b> November 24-26, 2025</li>    
 </ul>
-<ul style="list-style: disc; padding-left: 20px;">
-  <li><b>Short Position & Practice Papers Deadline:</b> August 4, 2025</li>
-  <li><b>Notification:</b> October 1, 2025</li>
-  <li><b>Camera-ready:</b> October 15, 2025</li>
-  <li><b>Conference Dates:</b> November 24–26, 2025</li>
+  </div>
+
+  <div class="highlight-box">
+    <h3 class="section-title">Short Position & Practice Papers</h3>
+    <ul>
+      <li><b>Deadline:</b> August 4, 2025</li>
+      <li><b>Notification:</b> October 1, 2025</li>
+      <li><b>Camera-ready:</b> October 15, 2025</li>
+<li><b>Conference Dates:</b> November 24-26, 2025</li>        
 </ul>
-</div>
+  </div>
 
 </div>
