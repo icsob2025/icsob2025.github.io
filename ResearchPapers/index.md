@@ -131,6 +131,7 @@ permalink: /ResearchPapers/
   <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
   AoE time is 12 hours behind Coordinated Universal Time (UTC).
 </p>
+<div class="highlight-box">
 <ul style="list-style: disc; padding-left: 20px;">
   <li><b>Abstract Deadline:</b> July 14, 2025</li>
   <li><b>Full Paper Deadline:</b> August 4, 2025</li>
@@ -144,5 +145,6 @@ permalink: /ResearchPapers/
   <li><b>Camera-ready:</b> October 15, 2025</li>
   <li><b>Conference Dates:</b> November 24–26, 2025</li>
 </ul>
+</div>
 
 </div>
