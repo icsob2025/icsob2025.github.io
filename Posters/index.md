@@ -94,15 +94,17 @@ permalink: /Posters/
 
   <h2 class="section-title">Submission Requirements</h2>
   <div>
-    <ul>
+    <ul style="list-style: disc; padding-left: 20px;">
       <li>Submissions must be made as extended abstracts. The page limit is <strong>four pages, including references</strong>.</li>
       <li><strong>Template:</strong> Use the CEUR-ART one-column template
-          LaTeX: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART LaTeX Template</a>
-          Word/ODT: <a href=https://ceur-ws.org/Vol-XXX/CEURART. target="_blank">CEURART Word/ODT Template</a>
+        <ul style="list-style: disc; padding-left: 20px;">
+          <li>LaTeX: <a href="/PhDRetreatSubmissions/CEURART.zip">CEURART LaTeX Template</a></li>
+          <li>Word/ODT: <a href="/PhDRetreatSubmissions/CEUR-Template-1col.docx">CEURART Word/ODT Template</a></li>
+        </ul>
         <em>Note: If the links do not work, please contact the organizers for assistance.</em>
       </li>
       <li>All submissions will be peer-reviewed by two members of the conference Program Committee through a single-blind review process.</li>
-      <li>Submissions should be made through the ICSOB submission system via <a href="https://www.conftool.com/icsob2025/index.php?page=login" target="_blank">Conftool</a>.</li>
+      <li>Submissions should be made through the ICSOB submission system via <a href="/submissions/">Conftool</a>.</li>
     </ul>
   </div>
 
@@ -145,7 +147,7 @@ permalink: /Posters/
     <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
     AoE time is 12 hours behind Coordinated Universal Time (UTC).
   </p>
-  <ul>
+  <ul style="list-style: disc; padding-left: 20px;">
     <li><b>Submission Deadline:</b> October 14, 2025</li>
     <li><b>Notification of Acceptance:</b> October 21, 2025</li>
     <li><b>Camera-ready Submission:</b> October 31, 2025</li>
