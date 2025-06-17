@@ -71,25 +71,29 @@ permalink: /Posters/
   <h2>Poster Submissions</h2>
   <div>
     <p>Posters are planned to facilitate face-to-face discussions among conference participants. Therefore, participants are anticipated to discuss preliminary research results, emerging research ideas, and projects in interactive sessions.</p>
-    <ul>
-      <li>Preliminary research results</li>
-      <li>Descriptions of ongoing projects</li>
-      <li>Vision statements for future work</li>
-      <li>Reflections on past research initiatives</li>
-    </ul>
-    <p>Participants of the ICSOB PhD retreat are highly encouraged to submit to the Poster and Demo track to receive extended feedback from the ICSOB community.</p>
+    <div class="highlight-box">
+      <ul style="list-style: disc; padding-left: 20px;">
+        <li>Preliminary research results</li>
+        <li>Descriptions of ongoing projects</li>
+        <li>Vision statements for future work</li>
+        <li>Reflections on past research initiatives</li>
+      </ul>
+      <p>Participants of the ICSOB PhD retreat are highly encouraged to submit to the Poster and Demo track to receive extended feedback from the ICSOB community.</p>
+    </div>
   </div>
 
   <h2 class="section-title">Demo Submissions</h2>
   <div>
     <p>Demo contributions should focus on hands-on demonstrations, including:</p>
-    <ul>
-      <li>Practical software implementations</li>
-      <li>Working prototypes</li>
-      <li>Frameworks and tools</li>
-      <li>Interactive applications</li>
-      <li>Live experiments</li>
-    </ul>
+    <div class="highlight-box">
+      <ul style="list-style: disc; padding-left: 20px;">
+        <li>Practical software implementations</li>
+        <li>Working prototypes</li>
+        <li>Frameworks and tools</li>
+        <li>Interactive applications</li>
+        <li>Live experiments</li>
+      </ul>
+    </div>
   </div>
 
   <h2 class="section-title">Submission Requirements</h2>
@@ -122,14 +126,14 @@ permalink: /Posters/
   <h2 class="section-title">Poster Design Guidelines</h2>
   <div>
     <h3>Layout</h3>
-    <ul>
+    <ul style="list-style: disc; padding-left: 20px;">
       <li>Poster size should be A1 (594 mm x 841 mm). The poster should have an ample supply of push-pins.</li>
       <li>Poster should have a portrait, NOT a landscape layout.</li>
       <li>Consider borders during the print if you design your poster in tools such as Microsoft PowerPoint.</li>
       <li>The scale for images should be 1/1 so they do not appear stretched.</li>
     </ul>
     <h3>Content</h3>
-    <ul>
+    <ul style="list-style: disc; padding-left: 20px;">
       <li>The poster shall contain the title, author(s), affiliation(s), and contact information of the main author.</li>
       <li>All materials on the poster should be easily readable from more than 1 m away.</li>
       <li>In general, posters should be self-supporting. Make sure the poster is structured logically, from top to bottom, or with a similar easy-to-follow logical structure.</li>
@@ -142,17 +146,14 @@ permalink: /Posters/
   </div>
 
   <h2 class="section-title">Important Dates</h2>
-  <p class="note">
-    <strong>Note:</strong> All deadlines are in 
-    <a href="https://www.worldtimeserver.com/time-zones/aoe/" target="_blank">AoE (Anywhere on Earth)</a> time.
-    AoE time is 12 hours behind Coordinated Universal Time (UTC).
-  </p>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li><b>Submission Deadline:</b> October 14, 2025</li>
-    <li><b>Notification of Acceptance:</b> October 21, 2025</li>
-    <li><b>Camera-ready Submission:</b> October 31, 2025</li>
-    <li><b>Conference Dates:</b> November 24–26, 2025</li>
-  </ul>
+  <div class="highlight-box important-dates">
+    <ul style="list-style: disc; padding-left: 20px;">
+      <li><b>Submission Deadline:</b> October 14, 2025</li>
+      <li><b>Notification of Acceptance:</b> October 21, 2025</li>
+      <li><b>Camera-ready Submission:</b> October 31, 2025</li>
+      <li><b>Conference Dates:</b> November 24–26, 2025</li>
+    </ul>
+  </div>
 
   <h2 class="section-title">Accepted Papers</h2>
   <div>
