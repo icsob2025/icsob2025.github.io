@@ -129,8 +129,8 @@ conference:
         - name: Location
           relative_url: /location/
 
-      - name: Submissions
-        relative_url: /submissions/
+      - name: Submit
+        relative_url: /submit/
 
   # Information boxes
   info_bars:
