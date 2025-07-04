@@ -109,7 +109,7 @@ layout: home
   <div class="highlight-box">
     <h3 class="section-title">Research Papers</h3>
     <ul>
-      <li><b>Abstract Deadline:</b> July 14, 2025</li>
+      <li><b>Abstract Deadline (voluntary):</b> July 14, 2025</li>
       <li><b>Full Paper Deadline:</b> August 4, 2025</li>
       <li><b>Notification:</b> October 1, 2025</li>
       <li><b>Camera-ready:</b> October 15, 2025</li>

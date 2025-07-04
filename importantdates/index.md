@@ -63,7 +63,7 @@ permalink: /importantdates/
   <div class="track-box">
     <h2>Research Papers</h2>
     <ul>
-      <li><strong>Abstract Submission Deadline:</strong> July 14, 2025</li>
+      <li><strong>Abstract Submission Deadline (voluntary):</strong> July 14, 2025</li>
       <li><strong>Full Paper Submission Deadline:</strong> August 04, 2025</li>
       <li><strong>Notification of Acceptance:</strong> October 01, 2025</li>
       <li><strong>Camera-ready Papers Due:</strong> November 4, 2025</li>

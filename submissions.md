@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /submissions/
+permalink: /submit/
 ---
 
 <meta http-equiv="refresh" content="0; url=https://www.conftool.com/icsob2025/index.php?page=login">
