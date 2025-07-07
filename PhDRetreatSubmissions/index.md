@@ -51,7 +51,7 @@ permalink: /PhDRetreat/
   }
 </style>
 
-<h1 class="section-title">PhD Retreat – Call for Submissions</h1>
+<h1>PhD Retreat – Call for Submissions</h1>
 
   <p>The ICSOB 2025 PhD Retreat is an exciting one-day event. The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.</p>
 
