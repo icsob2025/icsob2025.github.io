@@ -1,7 +1,7 @@
 ---
 layout: home
 title: PhD Retreat
-permalink: /phdretreat/
+permalink: /PhDRetreat/
 ---
 
 <style>
