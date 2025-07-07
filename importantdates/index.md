@@ -94,11 +94,11 @@ permalink: /importantdates/
   <div class="track-box">
     <h2>PhD Retreat</h2>
     <ul>
-      <li><strong>Submission Deadline:</strong> October 01, 2025</li>
-      <li><strong>Notification of Acceptance:</strong> October 21, 2025</li>
-      <li><strong>Camera-ready Papers Due:</strong> October 31, 2025</li>
-      <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
-    </ul>
+        <li><b>Submission Deadline:</b> October 06, 2025 (AoE)</li>
+        <li><b>Notification of Acceptance:</b> October 27, 2025 (AoE)</li>
+        <li><b>Conference Dates:</b> November 24–26, 2025</li>
+        <li><b>Camera-ready Papers Due:</b> December 08, 2025</li>
+  </ul>
   </div>
 </div>
 

@@ -140,11 +140,11 @@ layout: home
   <div class="highlight-box">
     <h3 class="section-title">PhD Retreat</h3>
     <ul>
-      <li><b>Deadline:</b> October 1, 2025</li>
-      <li><b>Notification:</b> October 21, 2025</li>
-      <li><b>Camera-ready:</b> October 31, 2025</li>
-<li><b>Conference Dates:</b> November 24-26, 2025</li>        
-</ul>
+    <li><b>Submission Deadline:</b> October 06, 2025 (AoE)</li>
+    <li><b>Notification of Acceptance:</b> October 27, 2025 (AoE)</li>
+    <li><b>Conference Dates:</b> November 24–26, 2025</li>
+    <li><b>Camera-ready Papers Due:</b> December 08, 2025</li>
+  </ul>
   </div>
 
   <hr>
