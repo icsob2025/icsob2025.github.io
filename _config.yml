@@ -84,8 +84,8 @@ conference:
         menu:
           - name: Research Papers
             relative_url: "/ResearchPapers"
-            #    - name: PhD Retreat
-            #     relative_url: "/PhDRetreatSubmissions"
+          - name: PhD Retreat
+            relative_url: "/PhDRetreat"
           - name: Posters and Demos
             relative_url: "/Posters"
             #   - name: Special Issue
