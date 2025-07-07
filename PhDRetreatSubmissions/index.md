@@ -95,7 +95,7 @@ permalink: /PhDRetreat/
 <h2 class="section-title">Submissions</h2>
   <p>The PhD Retreat submission must consist of two elements:</p>
   <ul>
-    <li>A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href="mailto:rps@uniriotec.br">rps@uniriotec.br</a>, <a href="mailto:e.elshan@vu.nl">e.elshan@vu.nl</a>, <a href="mailto:jan@janbosch.com">jan@janbosch.com</a>, and <a href="mailto:helena.holmstrom.olsson@mau.se">helena.holmstrom.olsson@mau.se</a>).</li>
+    <li>A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href="mailto:rps@uniriotec.br">Rodrigo Pereira dos Santos</a>, <a href="mailto:e.elshan@vu.nl">Edona Elshan</a>, <a href="mailto:jan@janbosch.com">Jan Bosch</a>, and <a href="mailto:helena.holmstrom.olsson@mau.se">Helena Holmström Olsson</a>).</li>
     <li>A short paper that describes the PhD student’s thesis. The short paper should not be anonymous and should meet the following requirements:
       <ul>
         <li>Be authored only by the student and his/her supervisors</li>
