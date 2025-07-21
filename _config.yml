@@ -108,7 +108,7 @@ conference:
       - name: Important Dates
         relative_url: /importantdates/
 
-      - name: Sponsors
+      - name: Sponsors and Partners
         relative_url: /sponsor/
 
       - name: Organisation
