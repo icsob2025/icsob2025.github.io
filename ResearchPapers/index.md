@@ -133,19 +133,19 @@ permalink: /ResearchPapers/
 </p>
 <div class="highlight-box">
     <h3 class="section-title">Research Papers</h3>
-    <ul>
-      <li><b>Abstract Deadline (voluntary):</b> July 14, 2025</li>
-      <li><b>Full Paper Deadline:</b> August 4, 2025</li>
+     <ul>
+      <li><b><s>Abstract Deadline (voluntary): July 14, 2025</s></b></li>
+      <li><b>Full Paper Deadline: <s>August 4, 2025</s></b><br><b>August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
       <li><b>Notification:</b> October 1, 2025</li>
       <li><b>Camera-ready:</b> October 15, 2025</li>
-<li><b>Conference Dates:</b> November 24-26, 2025</li>    
-</ul>
+      <li><b>Conference Dates:</b> November 24-26, 2025</li>    
+    </ul>
   </div>
 
   <div class="highlight-box">
     <h3 class="section-title">Short Position & Practice Papers</h3>
     <ul>
-      <li><b>Deadline:</b> August 4, 2025</li>
+      <li><b>Deadline:</b> <s>August 4, 2025</s></b><br><b>August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
       <li><b>Notification:</b> October 1, 2025</li>
       <li><b>Camera-ready:</b> October 15, 2025</li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        

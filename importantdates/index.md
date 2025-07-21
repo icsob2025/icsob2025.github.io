@@ -62,19 +62,19 @@ permalink: /importantdates/
 
   <div class="track-box">
     <h2>Research Papers</h2>
-    <ul>
-      <li><strong>Abstract Submission Deadline (voluntary):</strong> July 14, 2025</li>
-      <li><strong>Full Paper Submission Deadline:</strong> August 04, 2025</li>
-      <li><strong>Notification of Acceptance:</strong> October 01, 2025</li>
-      <li><strong>Camera-ready Papers Due:</strong> November 4, 2025</li>
-      <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
+     <ul>
+      <li><b><s>Abstract Deadline (voluntary): July 14, 2025</s></b></li>
+      <li><b>Full Paper Deadline: <s>August 4, 2025</s></b><br><b>August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
+      <li><b>Notification:</b> October 1, 2025</li>
+      <li><b>Camera-ready:</b> October 15, 2025</li>
+      <li><b>Conference Dates:</b> November 24-26, 2025</li>    
     </ul>
   </div>
 
   <div class="track-box">
     <h2>Short Position & Practice Papers</h2>
     <ul>
-      <li><b>Deadline:</b> August 4, 2025</li>
+      <li><b>Deadline:</b> <s>August 4, 2025</s></b><br><b>August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
       <li><b>Notification:</b> October 1, 2025</li>
       <li><b>Camera-ready:</b> October 15, 2025</li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        
