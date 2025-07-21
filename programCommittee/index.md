@@ -110,7 +110,7 @@ layout: importantdates
 <tr><td>Luís Ferreira Pires</td><td>University of Twente</td></tr>
 <tr><td>Marcin Ocieszak</td><td>Kozminski University</td></tr>
 <tr><td>Marko Seppänen</td><td>Tampere University</td></tr>
-<tr><td>Markus Funke</td><td>Vriju University</td></tr>
+<tr><td>Markus Funke</td><td>Vrije Universiteit Amsterdam</td></tr>
 <tr><td>Matthew Ajimati</td><td>National University of Ireland Galway</td></tr>
 <tr><td>Matti Muhos</td><td>University of Oulu</td></tr>
 <tr><td>Maya Daneva</td><td>University of Twente</td></tr>
