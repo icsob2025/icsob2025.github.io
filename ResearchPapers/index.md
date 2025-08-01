@@ -111,7 +111,7 @@ permalink: /ResearchPapers/
     <li>Include 3–5 keywords and indicate the paper type (technical, empirical, experience, exploratory).</li>
     <li>Papers can be submitted through our dedicated <a href="https://www.conftool.com/icsob2025/index.php?page=login" target="_blank">Conftool</a>.</li>
     <li>Each paper will be reviewed by at least three experts.</li>
-    <li>Accepted papers will be presented at ICSOB 2025 and published in Springer LNBIP.</li>
+    <li>Accepted papers will be presented at ICSOB 2025 and published in <b>Springer LNBIP open access.</b></li>
   </ul>
 
   <hr>
