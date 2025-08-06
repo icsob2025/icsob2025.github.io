@@ -118,7 +118,7 @@ layout: home
   </div>
 
   <div class="highlight-box">
-    <h3 class="section-title">Short Position & Practice Papers</h3>
+    <h3 class="section-title">Short Position, Research in Progress & Practice Papers</h3>
     <ul>
       <li><b>Deadline: <s>August 4, 2025</s></b><b> August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
       <li><b>Notification:</b> October 1, 2025</li>

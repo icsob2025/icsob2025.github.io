@@ -13,10 +13,10 @@ permalink: /importantdates/
     padding: 0;
   }
 
-  h1 {
+ h1, h2 {
     text-align: center;
-    color: #000000;
-    font-size: 2.2em;
+    color: #00203F;
+    margin-top: 40px;
     margin-bottom: 20px;
   }
 
@@ -72,7 +72,7 @@ permalink: /importantdates/
   </div>
 
   <div class="track-box">
-    <h2>Short Position & Practice Papers</h2>
+    <h2>Short Position, Research in Progress & Practice Papers</h2>
     <ul>
       <li><b>Deadline: <s>August 4, 2025</s></b><b> August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
       <li><b>Notification:</b> October 1, 2025</li>

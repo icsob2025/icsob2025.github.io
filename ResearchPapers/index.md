@@ -14,6 +14,13 @@ permalink: /ResearchPapers/
   }
 
 
+  h1, h2 {
+    text-align: center;
+    color: #00203F;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
  
 
   .highlight-box {
@@ -95,7 +102,7 @@ permalink: /ResearchPapers/
 <h2 class="section-title">Paper Submission Categories</h2>
   <ul>
     <li><b>Full Research Papers</b> (up to 15 pages all included) – Detailed studies and novel insights</li>
-    <li><b>Short Position & Practice Papers</b> (up to 6 pages all included) – Industry cases, early ideas</li>
+    <li><b>Short Position, Research in Progress & Practice Papers</b> (up to 6 pages all included) – Industry cases, early ideas and research in progress</li>
     <li><b>Posters & Demos</b> (up to 4 pages all included)</li>
   </ul>
 
@@ -143,7 +150,7 @@ permalink: /ResearchPapers/
   </div>
 
   <div class="highlight-box">
-    <h3 class="section-title">Short Position & Practice Papers</h3>
+    <h3 class="section-title">Short Position, Research in Progress & Practice Papers</h3>
     <ul>
       <li><b>Deadline: <s>August 4, 2025</s></b><b> August 18, 2025 <span style='color:#a90808'>(extended)</span></b></li>
       <li><b>Notification:</b> October 1, 2025</li>
