@@ -44,6 +44,7 @@ layout: importantdates
 <tr><td>Alexander Bakhtin</td><td>University of Oulu</td></tr>
 <tr><td>Ana-Maria Oprescu</td><td>University of Amsterdam</td></tr>
 <tr><td>Andreas Drechsler</td><td>Victoria University of Wellington</td></tr>
+<tr><td>Andreas Helferich</td><td>International School of Management</td></tr>
 <tr><td>Andrey Maglyas</td><td>Lappeenranta University of Technology</td></tr>
 <tr><td>Andrey Saltan</td><td>LUT University / HSE University</td></tr>
 <tr><td>Anh Nguyen Duc</td><td>University college of Southeast Norway</td></tr>
@@ -59,7 +60,6 @@ layout: importantdates
 <tr><td>Dirk Riehle</td><td>Friedrich-Alexander University Erlangen-Nürnberg</td></tr>
 <tr><td>Dominik Siemon</td><td>Lappeenranta University of Technology</td></tr>
 <tr><td>Edona Elshan</td><td>Vriju University</td></tr>
-<tr><td>Eduardo Guerra</td><td>Free University of Bolzen-Bolzano</td></tr>
 <tr><td>Eduardo Guerra</td><td>Free University of Bolzen-Bolzano</td></tr>
 <tr><td>Efi Papatheocharous</td><td>RISE</td></tr>
 <tr><td>Ehsan Zabardast</td><td>Blekinge Institute of Technology</td></tr>
@@ -94,8 +94,6 @@ layout: importantdates
 <tr><td>João M. Fernandes</td><td>University of Minho</td></tr>
 <tr><td>Juan Garbajosa</td><td>Universidad Politécnica De Madrid</td></tr>
 <tr><td>Juergen Muench</td><td>Reutlingen University</td></tr>
-<tr><td>Juergen Muench</td><td>Reutlingen University</td></tr>
-<tr><td>Jurriaan Hage</td><td>Utrecht University</td></tr>
 <tr><td>Jurriaan Hage</td><td>Utrecht University</td></tr>
 <tr><td>Kai-Kristian Kemell</td><td>University of Helsinki</td></tr>
 <tr><td>Kari Smolander</td><td>Lappeenranta University of Technology</td></tr>
