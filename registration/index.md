@@ -55,9 +55,8 @@ layout: importantdates
 We also offer the possibility of buying extra pages for your accepted research paper.
 
 <ul>
-    <li>100 € for one extra page: 
-    <li>200 € for two extra pages: 
-    
+    <li>100 € for one extra page: </li>
+    <li>200 € for two extra pages:</li>
 </ul>
 
 
@@ -80,3 +79,4 @@ We also offer the possibility of buying extra pages for your accepted research p
 <p><b>Privacy Policy</b></p>
 
 By registering to this event you accept that the personal information you provide will be used by the hosting organization(s) in connection with the administration of the event, and may be shared with the service providers when necessary.
+</div>
