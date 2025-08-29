@@ -1,5 +1,7 @@
 ---
 layout: home
+title: 3rd International Workshop on Advances in Software Intensive Startups
+permalink: /workshop1/
 ---
 
 <style>
