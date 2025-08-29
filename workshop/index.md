@@ -2,42 +2,79 @@
 layout: importantdates
 ---
 
+<style>
+  .highlight-box {
+    background-color: #EDF5FF;
+    border-left: 6px solid #0E1B4D;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  .section-title {
+    font-size: 1.4em;
+    color: #000000;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+  }
+  ul {
+    padding-left: 20px;
+    list-style: disc;
+  }
+  ul li {
+    margin-bottom: 10px;
+  }
+</style>
+
 <h1 class="display-4" style="text-align: center;">
-	Workshop
+    3rd International Workshop on Advances in Software Intensive Startups
 </h1>
 
-<h2 style="text-align: left;"> 
-	2nd International Workshop on Advances in Software Intensive Startups (AiSIS) 
-</h2>
+<div style="text-align: justify;">
+    <p>Software startup research continues to evolve as emerging technologies, novel business models, and societal changes reshape the entrepreneurial landscape. Building on the success of the first two editions, the 3rd workshop aims to provide a dynamic forum where researchers and practitioners can exchange ideas, present fresh insights, and co-create the future research agenda for software startups.</p>
 
-Software startups research has been established over the past decade, and the body of knowledge accumulated enabled researchers and various startup ecosystem players to better understand and support software startups and entrepreneurs. However, the landscape of software startups is extremely dynamic, unpredictable and even chaotic. The recent substantial developments in artificial intelligence (AI) technologies such as machine learning, deep learning, natural language processing, and generative AI,  as well as other technological and societal advances, such as quantum computing and sustainability goals, brought forward both new opportunities and challenges to startups with software intensive products or services which are yet to be fully explored and properly handled. 
- 
-The AiSIS workshop will create an active forum for researchers and practitioners working on or interested in software startups to discuss and exchange ideas about the latest trends, challenges, and solutions and shape the future research agenda of software startups. The aim of the workshop is to achieve a clearer understanding of how software startups advance in the next decade. The topics listed below are only suggestive and serve to solicit more interesting related topics:
+    <p>This year's workshop marks the conclusion of our collaborative book, "Advances in Software Startups: Generative AI, Product Engineering and Business Development" | SpringerLink which showcases leading perspectives on how emerging technologies and new business paradigms shape startup success. In addition, the workshop will provide an interactive forum to co-create the next research roadmap on software startups, strengthen international collaborations, and open new opportunities for impactful research.</p>
+</div>
 
-<p>
-  <ul>
-    <li>Technology advances (e.g. quantum computing, AI, etc) and their impacts on software startups</li>
-    <li>Development of novel technologies and tools to support creative and innovative work</li>
-    <li>Communication and collaboration of AI agents and startup teams effectively</li>
-    <li>Management of data, addressing issues like data privacy, security, and integrity to support the integration of AI in startup processes</li>
-    <li>Adaptation of AI-based methods, tools, and practices for new product development or business models</li>
-    <li>Industry experience in exploring and exploiting new and emerging technologies for existing and new ways of software product innovation in startups</li>
-    <li>Education and training on AI in new product development</li>
-    <li>Current trends and practices for innovative business models</li>
-    <li>Sustainable practices in new product development or business models</li>
-    <li>Inclusiveness, Diversity, and Equity aspects in startups</li>
-       
-  </ul>
-</p>
-The workshop is planned for one day. It will start with two invited inspirational talks on software startups. Then the workshop organisers will present the book project to which all participants are invited to contribute. The rest of the day will be dedicated to interactive sessions in which the participants will work in small groups to brainstorm on the book chapters they can collaborate on. The workshop will be wrapped up with a plan for continuing collaboration among the participants after the workshop. A Slack workspace will be created for the participants to interact during and after the workshop and share the documents and other resources. If the project goes smoothly, the book will be ready to be presented at the 3rd AiSIS at ICSOB 2025.
+<h2 class="section-title">Workshop Program</h2>
+<p>The one-day program will begin with invited talks on software startups, followed by a presentation of the book project. The remainder of the day will focus on interactive group sessions, where participants will collaborate on brainstorming ideas for future research directions and potential joint contributions.</p>
 
+<h3 class="section-title">Part 1: Book Presentation</h3>
+<div class="highlight-box">
+    <h4>Advances in Software Startups: Generative AI, Product Engineering, and Business Development</h4>
+    <ul>
+        <li><b>Invited Talk:</b> An inspiring keynote aligned with the book's central theme, highlighting how generative AI and other cutting-edge technologies reshape startup practices in product development, engineering, and business innovation.</li>
+        <li><b>Introduction to the Book Project:</b> A retrospective look at the collaborative process behind the book project initiated at the previous workshop in 2024, and presentation and promotion of the published book.</li>
+        <li><b>Selected Chapter Presentations:</b> Contributors present highlights from selected book chapters, covering themes such as Generative AI, Product Engineering, and Business Development.</li>
+    </ul>
+</div>
 
-To maximize participation in the workshop and the book project, the workshop will be organized in a hybrid mode and open to online participation. 
+<h3 class="section-title">Part 2: Interactive Session</h3>
+<div class="highlight-box">
+    <h4>Defining the Research Roadmap on Software Startups</h4>
+    <ul>
+        <li><b>Revisiting the Previous Roadmap Article:</b> Reflecting on the earlier research roadmap paper in software startups, identifying what has been achieved, and where gaps remain.</li>
+        <li><b>Connecting International Researchers:</b> Facilitating collaboration among researchers from diverse disciplines and geographies to consolidate ongoing efforts and build new partnerships.</li>
+        <li><b>Defining Key Challenges, Trends, and Directions:</b> Participants will engage in group discussions and brainstorming sessions to identify the most pressing challenges for software startups in the coming decade and concrete research directions and opportunities.</li>
+    </ul>
+</div>
+
+<h2 class="section-title">Who Can Participate</h2>
+<div class="highlight-box">
+    <p>The workshop welcomes a broad range of participants, including:</p>
+    <ul>
+        <li>Researchers from software engineering, entrepreneurship, innovation, and related fields interested in startups and emerging technologies</li>
+        <li>Practitioners and entrepreneurs working in or with software startups who want to share experiences and insights</li>
+        <li>Students and early-career researchers seeking to engage with the community and contribute to shaping the future research agenda</li>
+        <li>Policymakers, educators, and ecosystem stakeholders involved in supporting startups, innovation, or digital entrepreneurship</li>
+    </ul>
+    <p>Participation is open to anyone interested in software startups, whether through academic research, practical experience, or ecosystem engagement.</p>
+</div>
 
 <p><b>Time and Place</b></p>
 
-Tuinzaal (<a href="/location/">Sinkel's Shop Oudegracht 158, 3511 AZ Utrecht</a>), November 18, 2024
-
+November 24, 2025
 
 <p><b>Workshop Organizers</b></p>
 
