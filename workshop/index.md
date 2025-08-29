@@ -1,8 +1,38 @@
 ---
-layout: importantdates
+layout: home
 ---
 
 <style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2 {
+    text-align: center;
+    color: #00203F;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  hr {
+    border: 1px solid #ccc;
+    margin: 40px 0;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 15px;
+  }
+
   .highlight-box {
     background-color: #EDF5FF;
     border-left: 6px solid #0E1B4D;
@@ -10,21 +40,38 @@ layout: importantdates
     margin: 20px 0;
     border-radius: 8px;
   }
-  .section-title {
-    font-size: 1.4em;
-    color: #000000;
-    margin-top: 30px;
-    margin-bottom: 15px;
+
+  .figure {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+
+  .figure:hover {
+    transform: scale(1.05);
+  }
+
+  .figure img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+
+  .note {
+    font-size: 0.95em;
+    color: #555;
     text-align: center;
-    font-weight: bold;
   }
-  ul {
-    padding-left: 20px;
-    list-style: disc;
-  }
-  ul li {
-    margin-bottom: 10px;
-  }
+
+.section-title {
+  font-size: 1.4em;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
 </style>
 
 <h1 class="display-4" style="text-align: center;">
