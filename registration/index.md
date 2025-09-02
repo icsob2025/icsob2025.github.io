@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Registration
-permalink: /registration
+permalink: /registration/
 ---
 
 <style>
@@ -15,7 +15,7 @@ permalink: /registration
     --shadow:0 10px 25px rgba(10,22,70,.08);
     --radius:18px;
   }
-
+  
   body{font-family: Arial, system-ui, sans-serif; color:var(--ink); background:var(--bg); margin:0}
   .container{max-width:1100px; margin:0 auto; padding:24px}
   .hero{background: linear-gradient(180deg,#0e1b4d 0%, #1f3a93 80%); color:#fff; padding:56px 20px; border-radius:0 0 28px 28px; box-shadow:var(--shadow)}
@@ -67,12 +67,12 @@ permalink: /registration
           <tr><td>Student, only PhD retreat</td><td>200,00&nbsp;€</td><td>200,00&nbsp;€</td></tr>
           <tr><td>Workshop only (1-day)</td><td>300,00&nbsp;€</td><td>300,00&nbsp;€</td></tr>
           <tr><td>Workshop and dinner</td><td>400,00&nbsp;€</td><td>400,00&nbsp;€</td></tr>
-          <tr><td>Dinner <span class="muted">*</span></td><td>100,00&nbsp;€</td><td>100,00&nbsp;€</td></tr>
+          <tr><td>Dinner <span class="muted">*</span></td><td>119,00&nbsp;€</td><td>119,00&nbsp;€</td></tr>
         </tbody>
       </table>
       <p id="price-notes" class="price-note">
         * Optional dinner ticket (also for accompanying persons).<br>
-        ** Early Bird valid until <em>t.b.a.</em><br>
+        ** Early Bird valid until 23.10.2025<br>
         *** Standard applies after the Early Bird deadline.
       </p>
     </div>
