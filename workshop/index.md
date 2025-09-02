@@ -83,7 +83,7 @@ permalink: /workshop1
 <div style="text-align: justify;">
     <p>Software startup research continues to evolve as emerging technologies, novel business models, and societal changes reshape the entrepreneurial landscape. Building on the success of the first two editions, the 3rd workshop aims to provide a dynamic forum where researchers and practitioners can exchange ideas, present fresh insights, and co-create the future research agenda for software startups.</p>
 
-    <p>This year's workshop marks the conclusion of our collaborative book, "Advances in Software Startups: Generative AI, Product Engineering and Business Development" | SpringerLink which showcases leading perspectives on how emerging technologies and new business paradigms shape startup success. In addition, the workshop will provide an interactive forum to co-create the next research roadmap on software startups, strengthen international collaborations, and open new opportunities for impactful research.</p>
+    <p>This year's workshop marks the conclusion of our collaborative book, "Advances in Software Startups: Generative AI, Product Engineering and Business Development" |<a href="https://link.springer.com/book/9783032042934">SpringerLink</a> which showcases leading perspectives on how emerging technologies and new business paradigms shape startup success. In addition, the workshop will provide an interactive forum to co-create the next research roadmap on software startups, strengthen international collaborations, and open new opportunities for impactful research.</p>
 </div>
 
 <h2 class="section-title">Workshop Program</h2>
