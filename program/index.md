@@ -1,7 +1,7 @@
 ---
 layout: home
-title: First International Workshop on AI-Enabled Data Trustees
-permalink: /workshop2
+title: Conference Program Overview
+permalink: /program
 ---
 
 <style>
