@@ -16,9 +16,24 @@ permalink: /program
   }
   body{font-family: Arial, system-ui, sans-serif; color:var(--ink); background:#f6f8fc; margin:0}
   .container{max-width:1100px; margin:0 auto; padding:24px}
-  .title-wrap{background:linear-gradient(180deg,#0e1b4d 0%, #1f3a93 80%); color:#fff; padding:56px 20px; border-radius:0 0 28px 28px; box-shadow:var(--shadow)}
+  .title-wrap{background:linear-gradient(180deg,#0e1b4d 0%, #1f3a93 80%); color:#fff; padding:56px 20px; border-radius:0 0 28px 28px; box-shadow:var(--shadow); text-align:center}
   .title-wrap h1{margin:0; font-size:clamp(28px, 4vw, 44px)}
   .subtitle{opacity:.95; margin-top:10px; font-size:clamp(14px, 2vw, 18px)}
+
+  /* Navigation buttons */
+  .day-nav{display:flex; justify-content:center; flex-wrap:wrap; gap:12px; margin:28px 0}
+  .day-nav a{
+    text-decoration:none;
+    background:#fff;
+    border:2px solid #d8e0f5;
+    color:var(--accent);
+    font-weight:700;
+    padding:10px 18px;
+    border-radius:999px;
+    transition:all .2s ease;
+    box-shadow:0 4px 8px rgba(10,22,70,.05);
+  }
+  .day-nav a:hover{background:var(--accent); color:#fff; border-color:var(--accent)}
 
   /* Day cards */
   .day-card{background:var(--card); border:1px solid #e3e9fc; border-radius:var(--radius); box-shadow:var(--shadow); margin:22px 0; overflow:hidden}
@@ -41,54 +56,38 @@ permalink: /program
 </style>
 
 <div class="title-wrap">
-  <div class="container">
-    <h1>Conference Program Overview</h1>
-    <div class="subtitle">High-level agenda for ICSOB 2025 — times and details will be published later.</div>
-  </div>
+  <h1>Conference Program Overview</h1>
+  <div class="subtitle">Initial program for ICSOB 2025 — times and details will be published later.</div>
 </div>
 
 <div class="container">
 
+  <!-- Navigation -->
+  <div class="day-nav">
+    <a href="#monday">Monday · Nov 24</a>
+    <a href="#tuesday">Tuesday · Nov 25</a>
+    <a href="#wednesday">Wednesday · Nov 26</a>
+  </div>
+
   <!-- Monday -->
-  <section class="day-card">
+  <section id="monday" class="day-card">
     <div class="day-head">
       <span class="badge">Monday</span>
       <div class="date">November 24, 2025</div>
     </div>
     <ul class="agenda">
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>PhD Retreat</h4></div>
-      </li>
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>Workshop 1 & Workshop 2</h4></div>
-      </li>
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>Walk-In & Registration</h4></div>
-      </li>
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>Coffee Breaks</h4></div>
-      </li>
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>Lunch</h4></div>
-      </li>
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>Hotel Check-in & Transfer</h4><p>To Markthalle Stuttgart (self-organized)</p></div>
-      </li>
-      <li class="agenda-item">
-        <span class="agenda-dot"></span>
-        <div class="agenda-card"><h4>Welcome Reception</h4><p>Restaurant Ampulle, Markthalle Stuttgart</p></div>
-      </li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>PhD Retreat</h4></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Workshop 1 & Workshop 2</h4></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Walk-In & Registration</h4></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Coffee Breaks</h4></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Lunch</h4></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Hotel Check-in & Transfer</h4><p>To Markthalle Stuttgart (self-organized)</p></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Welcome Reception</h4><p>Restaurant Ampulle, Markthalle Stuttgart</p></div></li>
     </ul>
   </section>
 
   <!-- Tuesday -->
-  <section class="day-card">
+  <section id="tuesday" class="day-card">
     <div class="day-head">
       <span class="badge green">Tuesday</span>
       <div class="date">November 25, 2025</div>
@@ -118,7 +117,7 @@ permalink: /program
   </section>
 
   <!-- Wednesday -->
-  <section class="day-card">
+  <section id="wednesday" class="day-card">
     <div class="day-head">
       <span class="badge">Wednesday</span>
       <div class="date">November 26, 2025</div>
