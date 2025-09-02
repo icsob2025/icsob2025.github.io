@@ -76,11 +76,14 @@ permalink: /program
       <div class="date">November 24, 2025</div>
     </div>
     <ul class="agenda">
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>PhD Retreat</h4></div></li>
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Workshop 1 & Workshop 2</h4></div></li>
+      
+      
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Walk-In & Registration</h4></div></li>
+	  <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Part 1: PhD Retreat, Workshop 1 & Workshop 2</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Coffee Breaks</h4></div></li>
+	  <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Part 2:PhD Retreat, Workshop 1 & Workshop 2</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Lunch</h4></div></li>
+	  <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Part 3:PhD Retreat, Workshop 1 & Workshop 2</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Hotel Check-in & Transfer</h4><p>To Markthalle Stuttgart (self-organized)</p></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Welcome Reception</h4><p>Restaurant Ampulle, Markthalle Stuttgart</p></div></li>
     </ul>
@@ -97,11 +100,11 @@ permalink: /program
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Opening & Introduction</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Keynote 1</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Coffee Break</h4></div></li>
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Sessions</h4><p>Session 1 & Session 2</p></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Paper Sessions</h4><p>Session 1 & Session 2</p></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Lunch</h4></div></li>
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Sessions</h4><p>Session 3 & Session 4</p></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Paper Sessions</h4><p>Session 3 & Session 4</p></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Coffee Break, Demos & Poster Session</h4></div></li>
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Sessions</h4><p>Session 5 & Session 6</p></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Paper Sessions</h4><p>Session 5 & Session 6</p></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span>
         <div class="agenda-card">
           <h4>Excursions</h4>
@@ -126,9 +129,9 @@ permalink: /program
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Opening & Introduction</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Keynote 3</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Coffee Break, Demos & Poster Session</h4></div></li>
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Sessions</h4><p>Session 6 & Session 7</p></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Paper Sessions</h4><p>Session 6 & Session 7</p></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Lunch</h4></div></li>
-      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Sessions</h4><p>Session 8 & Session 9</p></div></li>
+      <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Parallel Paper Sessions</h4><p>Session 8 & Session 9</p></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Coffee Break, Demos & Poster Session</h4></div></li>
       <li class="agenda-item"><span class="agenda-dot"></span><div class="agenda-card"><h4>Closing</h4></div></li>
     </ul>
