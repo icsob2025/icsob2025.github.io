@@ -70,6 +70,7 @@ layout: importantdates
 <tr><td>Fabian Fagerholm</td><td>Aalto University</td></tr>
 <tr><td>Fang Hou</td><td>Utrecht University</td></tr>
 <tr><td>Fernanda Madeiral</td><td>Vrije Universiteit Amsterdam</td></tr>
+<tr><td>Florian Härer</td><td>University of Stuttgart</td></tr>
 <tr><td>Francesca Lonetti</td><td>CNR-ISTI</td></tr>
 <tr><td>Francisco Ferreira</td><td>UFJF</td></tr>
 <tr><td>Frederik Möller</td><td>TU Braunschweig</td></tr>
@@ -85,6 +86,7 @@ layout: importantdates
 <tr><td>Jan Bosch</td><td>Chalmers</td></tr>
 <tr><td>Jari Porras</td><td>LUT</td></tr>
 <tr><td>Jens Knodel</td><td>Caruso GmbH</td></tr>
+<tr><td>Jens Lachenmaier</td><td>Ferdinand Steinbeis Institut</td></tr>
 <tr><td>Jesper Andersson</td><td>Linnaeus university</td></tr>
 <tr><td>Johan Linåker</td><td>RISE Research Institutes of Sweden</td></tr>
 <tr><td>John Mcgregor</td><td>Clemson University</td></tr>
@@ -106,12 +108,14 @@ layout: importantdates
 <tr><td>Luciana Zaina</td><td>UFSCar</td></tr>
 <tr><td>Luiz Olavo Bonino Da Silva Santos</td><td>University of Twente</td></tr>
 <tr><td>Luís Ferreira Pires</td><td>University of Twente</td></tr>
+<tr><td>Marc Brechtel</td><td>University of Potsdam</td></tr>
 <tr><td>Marcin Ocieszak</td><td>Kozminski University</td></tr>
 <tr><td>Marko Seppänen</td><td>Tampere University</td></tr>
 <tr><td>Markus Funke</td><td>Vrije Universiteit Amsterdam</td></tr>
 <tr><td>Matthew Ajimati</td><td>National University of Ireland Galway</td></tr>
 <tr><td>Matti Muhos</td><td>University of Oulu</td></tr>
 <tr><td>Maya Daneva</td><td>University of Twente</td></tr>
+<tr><td>Maximilian Werling</td><td>Ferdinand Steinbeis Institut</td></tr>
 <tr><td>Michael Möhring</td><td>University of Reutlingen</td></tr>
 <tr><td>Michiel Overeem</td><td>AFAS Software</td></tr>
 <tr><td>Mohamad Kassab</td><td>The Pennsylvania State University</td></tr>
@@ -146,6 +150,7 @@ layout: importantdates
 <tr><td>Viktoria Stray</td><td>University of Oslo</td></tr>
 <tr><td>Ville Vakkuri</td><td>University of Jyväskylä</td></tr>
 <tr><td>Wolfram Pietsch</td><td>Aachen University of Applied Sciences</td></tr>
+<tr><td>Yevgen Bogodistov</td><td>Management Center Innsbruck</td></tr>
 <tr><td>Xiaofeng Wang</td><td>Free University of Bolzano</td></tr>
   </tbody>
 </table>
