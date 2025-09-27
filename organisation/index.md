@@ -256,9 +256,9 @@ permalink: /organisation/
     <h2>Companion Proceedings Chair</h2>
     <div class="org-cards">
       <div class="org-card">
-        <img src="/assets/images/organisation/TBD.png" alt="TBD">
-        <h3>TBD</h3>
-        <p>TBD</p>
+        <img src="/assets/images/organisation/Damian_Kedziora.jpg" alt="Damian Kedziora">
+        <h3>Damian Kedziora</h3>
+        <p>LUT University, Finland</p>
       </div>
     </div>
   </section>
