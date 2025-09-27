@@ -168,8 +168,12 @@ layout: importantdates
     <th>Name</th>
     <th>Affiliation</th>
   </tr>
-
-
+<tr><td>Diaeddin M A Rimawi</td><td>Free University of Bozen-Bolzano, Italy</td></tr>
+<tr><td>Frédéric Pattyn</td><td>Ghent University, Belgium</td></tr>
+<tr><td>Woubshet Behutiye</td><td>University of Oulu, Finland</td></tr>
+<tr><td>Zeeshan Hameed</td><td>Free University of Bozen-Bolzano, Italy</td></tr>
+<tr><td>Zheying Zhang</td><td>Tampere University, Finland</td></tr>
+<tr><td>Zlatko Stapic</td><td>University of Zagreb, Croatia</td></tr>
 </table>
 </p>
 
