@@ -86,7 +86,7 @@ permalink: /PhDRetreat/
 </p>
 <div class="highlight-box">
   <ul>
-    <li><b>Submission Deadline:</b><s> October 06, 2025</s> October 13, 2025 <span style='color:#a90808'>(extended)</span></li>
+    <li><b>Submission Deadline:</b><s> October 06, 2025</s> October 20, 2025 <span style='color:#a90808'>(extended)</span></li>
     <li><b>Notification of Acceptance:</b> October 27, 2025</li>
     <li><b>Conference Dates:</b> November 24–26, 2025</li>
     <li><b>Camera-ready Papers Due:</b> December 08, 2025</li>
