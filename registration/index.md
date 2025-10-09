@@ -22,6 +22,27 @@ permalink: /registration/
   .hero h1{margin:0; font-size:clamp(28px, 4vw, 44px)}
   .hero p{margin:10px 0 0; opacity:.95}
 
+  /* CTA button */
+  .hero .cta{ text-align:center; margin-top:24px }
+  .register-btn{
+    display:inline-block;
+    padding:14px 24px;
+    border-radius:12px;
+    background: linear-gradient(90deg, var(--accent-2), #6b95ff);
+    color:#fff;
+    text-decoration:none;
+    font-weight:700;
+    letter-spacing:.2px;
+    box-shadow: 0 0 0 3px rgba(255,255,255,.16), 0 10px 22px rgba(79,124,255,.35);
+    border:1px solid rgba(255,255,255,.18);
+    transition: transform .15s ease, box-shadow .2s ease, filter .2s ease;
+  }
+  .register-btn:hover{
+    transform: translateY(-1px);
+    box-shadow: 0 0 0 3px rgba(255,255,255,.22), 0 12px 26px rgba(79,124,255,.45);
+    filter: brightness(1.03);
+  }
+
   .card{background:var(--card); border:1px solid #e3e9fc; border-radius:var(--radius); box-shadow:var(--shadow); margin:22px 0}
   .card h2{margin:0; padding:18px 22px; font-size:22px; color:var(--accent); border-bottom:1px solid #e3e9fc; background:linear-gradient(90deg,#eaf2ff,#e6f0ff)}
   .card .body{padding:18px 22px}
@@ -45,7 +66,9 @@ permalink: /registration/
     <h1>Registration</h1>
     <p>Information about fees, extra pages, and policies. Registration and payment will be handled via our external provider</p>
   </div>
-  <a href="https://eveeno.com/288682045" target="_blank" style="font-weight:bold">Register now »</a>
+  <div class="cta">
+    <a class="register-btn" href="https://eveeno.com/288682045" target="_blank" rel="noopener">Register now →</a>
+  </div>
 </div>
 
 <div class="container">
