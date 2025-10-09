@@ -104,7 +104,8 @@ conference:
           #  relative_url: /speakers/
           - name: 3rd International Workshop on Advances in Software Intensive Startups
             relative_url: "/workshop1"
-
+          - name: First International Workshop on AI-Enabled Data Trustees
+            relative_url: "/workshop2"
       - name: Important Dates
         relative_url: /importantdates/
 
