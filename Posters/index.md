@@ -108,7 +108,7 @@ permalink: /Posters/
         <em>Note: If the links do not work, please contact the organizers for assistance.</em>
       </li>
       <li>All submissions will be peer-reviewed by two members of the conference Program Committee through a single-blind review process.</li>
-      <li>Submissions should be made through the ICSOB submission system via <a href="https://www.conftool.com/icsob2025/index.php?page=login" target="_blank">Conftool</a>.</li>.</li>
+      <li>Submissions should be made through the ICSOB submission system via <a href="https://www.conftool.com/icsob2025/index.php?page=login" target="_blank">Conftool</a>.</li>
     </ul>
   </div>
 
