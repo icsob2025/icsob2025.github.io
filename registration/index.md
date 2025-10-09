@@ -45,7 +45,7 @@ permalink: /registration/
     <h1>Registration</h1>
     <p>Information about fees, extra pages, and policies. Registration and payment will be handled via our external provider</p>
   </div>
-  <a href="https://eveeno.com/288682045" target="_blank" style="font-weight:bold; color:#303030">Register now »</a>
+  <a href="https://eveeno.com/288682045" target="_blank" style="font-weight:bold">Register now »</a>
 </div>
 
 <div class="container">
