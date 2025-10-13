@@ -84,11 +84,11 @@ permalink: /importantdates/
   <div class="track-box">
     <h2>Poster & Demo Track</h2>
     <ul>
-      <li><strong>Submission Deadline:</strong> October 14, 2025</li>
-      <li><strong>Notification of Acceptance:</strong> October 21, 2025</li>
-      <li><strong>Camera-ready Papers Due:</strong> October 31, 2025</li>
-      <li><strong>Conference Dates:</strong> November 24–26, 2025</li>
-    </ul>
+      <li><b>Submission Deadline:</b><s> October 14, 2025</s> October 20, 2025 <span style='color:#a90808'>(extended)</span></li>
+      <li><b>Notification:</b> October 27, 2025</li>
+      <li><b>Camera-ready:</b> November 07, 2025</li>
+<li><b>Conference Dates:</b> November 24-26, 2025</li>        
+</ul>
   </div>
 
   <div class="track-box">
