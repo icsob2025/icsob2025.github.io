@@ -98,6 +98,8 @@ conference:
         menu:
           - name: Program Overview
             relative_url: /program
+          - name: Social Program & Excursions
+            relative_url: /socialevent
           # - name: Detailed Schedule
           #  relative_url: /Schedule/
           # - name: Keynotes
