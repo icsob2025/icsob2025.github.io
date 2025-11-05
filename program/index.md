@@ -49,13 +49,20 @@ permalink: /program
   .slots{padding:12px}
   details.slot{border:1px solid #e8ecf9; border-radius:14px; background:#fff; margin:12px; box-shadow:0 6px 14px rgba(10,22,70,.05); overflow:hidden}
   details.slot[open]{box-shadow:0 10px 22px rgba(10,22,70,.09)}
-  summary{list-style:none; padding:14px 44px 14px 16px; cursor:pointer; display:grid; grid-template-columns:110px 1fr auto; gap:12px; align-items:center; position:relative; border-radius:12px}
+  summary{list-style:none; padding:14px 48px 14px 16px; cursor:pointer; display:grid; grid-template-columns:110px 1fr auto; gap:12px; align-items:center; position:relative; border-radius:12px}
   summary::-webkit-details-marker{display:none}
-  /* Chevron indicator */
-  summary::after{content:'\25B8'; /* ▸ */ position:absolute; right:14px; top:50%; transform:translateY(-50%); color:#6c7cff; font-size:18px; font-weight:800; transition:transform .18s ease,color .18s ease}
-  details[open] > summary::after{transform:translateY(-50%) rotate(90deg); color:var(--accent-2)}
+  /* Chevron indicator (outlined, grey, bigger) */
+  summary::after{content:'\203A'; /* › */ position:absolute; right:14px; top:50%; transform:translateY(-50%); color:#848e9c; font-size:22px; font-weight:800; transition:transform .18s ease}
+  details[open] > summary::after{transform:translateY(-50%) rotate(90deg)}
+  /* Hide chevron when no dropdown body exists */
+  details.slot.static > summary::after{display:none}
+  summary:not(:has(+ .slot-body))::after{display:none}
   summary:hover{background:#f3f6ff}
   summary:focus-visible{outline:3px solid #c9d7ff}
+  /* Static (non-expandable) cards: dim + no pointer */
+  details.slot.static summary{cursor:default; opacity:.88}
+  details.slot.static summary:hover{background:transparent}
+  details.slot.static summary:focus-visible{outline:none}
   .time{font-weight:800; color:var(--accent)}
   .title{font-weight:800}
   .label{font-size:12px; font-weight:800; color:#fff; padding:4px 8px; border-radius:999px; background:var(--accent-2)}
@@ -105,7 +112,7 @@ permalink: /program
       <div class="date">24 November 2025</div>
     </div>
     <div class="slots">
-      <details class="slot" open>
+      <details class="slot static" open>
         <summary>
           <div class="time">09:00–09:30</div>
           <div class="title">Walk‑In & Registration</div>
@@ -137,7 +144,7 @@ permalink: /program
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">10:30–11:00</div>
           <div class="title">Coffee Break</div>
@@ -160,11 +167,11 @@ permalink: /program
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">12:00–13:00</div>
-          <div class="title">Lunch</div>
-          <span class="label break">Break</span>
+          <div class="title">PhD Retreat Opening with Lunch</div>
+          <span class="label cozy">PhD Retreat</span>
         </summary>
       </details>
 
@@ -176,14 +183,21 @@ permalink: /program
         </summary>
         <div class="slot-body">
           <div class="tracks three">
-            <div class="track"><h4>PhD Retreat</h4></div>
+            <div class="track">
+              <h4>PhD Retreat — Presentations</h4>
+              <ul class="papers">
+                <li>13:00–13:30: “An AI‑Based Approach to Measuring Return on Investment in UX Design”, by Gessé Evangelista (UFSCar, Brazil) — Advisors: Luciana Zaina (UFSCar, Brazil) and Pekka Abrahamsson (Tampere University, Finland)</li>
+                <li>13:30–14:00: “Sustainable Transformation of IT Service Management: A PhD Research Plan for Green ITSM”, by Larissa Koch de Souza (University of Stuttgart, Germany) — Advisor: Georg Herzwurm (University of Stuttgart, Germany)</li>
+                <li>14:00–14:30: “Towards a Framework for Capturing Software Purpose in AI‑Augmented Development“, by Daniel Planötscher (Free University of Bolzano, Italy) — Advisor: Xiaofeng Wang (Free University of Bolzano, Italy)</li>
+              </ul>
+            </div>
             <div class="track"><h4>Software Intensive Startups Workshop</h4></div>
             <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
           </div>
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">14:30–15:00</div>
           <div class="title">Coffee Break</div>
@@ -191,22 +205,31 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
-          <div class="time">15:00–17:00</div>
-          <div class="title">Afternoon Sessions</div>
-          <span class="label">Tracks</span>
+          <div class="time">15:00–16:00</div>
+          <div class="title">PhD Retreat Motivational Keynote (to be defined)</div>
+          <span class="label cozy">PhD Retreat</span>
         </summary>
-        <div class="slot-body">
-          <div class="tracks three">
-            <div class="track"><h4>PhD Retreat</h4></div>
-            <div class="track"><h4>Software Intensive Startups Workshop</h4></div>
-            <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
-          </div>
-        </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
+        <summary>
+          <div class="time">16:00–17:00</div>
+          <div class="title">PhD Retreat Working Session (mentors and students)</div>
+          <span class="label cozy">PhD Retreat</span>
+        </summary>
+      </details>
+
+      <details class="slot static">
+        <summary>
+          <div class="time">17:00</div>
+          <div class="title">PhD Retreat Closing</div>
+          <span class="label cozy">PhD Retreat</span>
+        </summary>
+      </details>
+
+      <details class="slot static">
         <summary>
           <div class="time">—</div>
           <div class="title">Time for Hotel Check‑in & Transfer to Markthalle Stuttgart</div>
@@ -234,7 +257,7 @@ permalink: /program
       <div class="date">25 November 2025</div>
     </div>
     <div class="slots">
-      <details class="slot" open>
+      <details class="slot static" open>
         <summary>
           <div class="time">08:30–09:00</div>
           <div class="title">Walk‑In & Registration</div>
@@ -242,7 +265,7 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot" open>
+      <details class="slot static" open>
         <summary>
           <div class="time">09:00–09:15</div>
           <div class="title">Opening & Introduction</div>
@@ -250,7 +273,7 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot" open>
+      <details class="slot static" open>
         <summary>
           <div class="time">09:15–10:00</div>
           <div class="title">Keynote 1</div>
@@ -258,7 +281,7 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">10:00–10:15</div>
           <div class="title">Coffee Break</div>
@@ -295,7 +318,7 @@ permalink: /program
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">11:45–12:45</div>
           <div class="title">Lunch</div>
@@ -331,7 +354,7 @@ permalink: /program
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">14:00–14:30</div>
           <div class="title">Coffee Break, Demos & Poster Session</div>
@@ -424,7 +447,7 @@ permalink: /program
       <div class="date">26 November 2025</div>
     </div>
     <div class="slots">
-      <details class="slot" open>
+      <details class="slot static" open>
         <summary>
           <div class="time">09:00–09:15</div>
           <div class="title">Opening & Introduction</div>
@@ -432,7 +455,7 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot" open>
+      <details class="slot static" open>
         <summary>
           <div class="time">09:15–10:00</div>
           <div class="title">Keynote 3</div>
@@ -440,7 +463,7 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">10:00–10:30</div>
           <div class="title">Coffee Break, Demos & Poster Session</div>
@@ -464,7 +487,7 @@ permalink: /program
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">12:30–13:30</div>
           <div class="title">Lunch</div>
@@ -500,7 +523,7 @@ permalink: /program
         </div>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">15:00–15:15</div>
           <div class="title">Coffee Break, Demos & Poster Session</div>
@@ -508,7 +531,7 @@ permalink: /program
         </summary>
       </details>
 
-      <details class="slot">
+      <details class="slot static">
         <summary>
           <div class="time">15:15–15:45</div>
           <div class="title">Closing</div>
