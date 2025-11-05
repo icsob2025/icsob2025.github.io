@@ -49,8 +49,13 @@ permalink: /program
   .slots{padding:12px}
   details.slot{border:1px solid #e8ecf9; border-radius:14px; background:#fff; margin:12px; box-shadow:0 6px 14px rgba(10,22,70,.05); overflow:hidden}
   details.slot[open]{box-shadow:0 10px 22px rgba(10,22,70,.09)}
-  summary{list-style:none; padding:14px 16px; cursor:pointer; display:grid; grid-template-columns:110px 1fr auto; gap:12px; align-items:center}
+  summary{list-style:none; padding:14px 44px 14px 16px; cursor:pointer; display:grid; grid-template-columns:110px 1fr auto; gap:12px; align-items:center; position:relative; border-radius:12px}
   summary::-webkit-details-marker{display:none}
+  /* Chevron indicator */
+  summary::after{content:'\25B8'; /* ▸ */ position:absolute; right:14px; top:50%; transform:translateY(-50%); color:#6c7cff; font-size:18px; font-weight:800; transition:transform .18s ease,color .18s ease}
+  details[open] > summary::after{transform:translateY(-50%) rotate(90deg); color:var(--accent-2)}
+  summary:hover{background:#f3f6ff}
+  summary:focus-visible{outline:3px solid #c9d7ff}
   .time{font-weight:800; color:var(--accent)}
   .title{font-weight:800}
   .label{font-size:12px; font-weight:800; color:#fff; padding:4px 8px; border-radius:999px; background:var(--accent-2)}
@@ -77,7 +82,6 @@ permalink: /program
 <div class="title-wrap">
   <h1>Conference Program</h1>
   <div class="subtitle">Tap a slot to see details. All times local.</div>
-  <span class="hint">Mobile-friendly • Collapsible sessions • Tracks</span>
   <div class="controls">
     <button class="btn" id="expandAll">Expand all</button>
     <button class="btn alt" id="collapseAll">Collapse all</button>
@@ -524,4 +528,3 @@ permalink: /program
   if(expandAllBtn){ expandAllBtn.addEventListener('click', () => allSlots().forEach(d => d.open = true)); }
   if(collapseAllBtn){ collapseAllBtn.addEventListener('click', () => allSlots().forEach(d => d.open = false)); }
 </script>
-
