@@ -129,10 +129,6 @@ permalink: /program
         <div class="slot-body">
           <div class="tracks three">
             <div class="track">
-              <h4>PhD Retreat</h4>
-              <p class="note">Group activities and mentoring.</p>
-            </div>
-            <div class="track">
               <h4>3rd International Workshop on Advances in Software Intensive Startups</h4>
               <p class="note">Talks and discussions.</p>
             </div>
@@ -160,7 +156,6 @@ permalink: /program
         </summary>
         <div class="slot-body">
           <div class="tracks three">
-            <div class="track"><h4>PhD Retreat</h4></div>
             <div class="track"><h4>Software Intensive Startups Workshop</h4></div>
             <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
           </div>
@@ -170,8 +165,8 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">12:00–13:00</div>
-          <div class="title">PhD Retreat Opening with Lunch</div>
-          <span class="label cozy">PhD Retreat</span>
+          <div class="title">Lunch and PhD Retreat Opening</div>
+          <span class="label break">Break</span>
         </summary>
       </details>
 
