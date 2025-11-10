@@ -502,7 +502,7 @@ permalink: /program
               <h4>Track 1 — Session “Startups, SaaS, and Innovation Ecosystems”</h4>
               <ul class="papers">
                 <li>156: The Finnish Way to SaaS Scaling: A Qualitative Study</li>
-                <li>176: Product Feature Prioritization in Software Startups: A Multiple Case‑study on the Status Quo and Potential of AI‑based Decision Support Systems</li>
+                <li>176: An AI-Driven Decision Support System for Product Feature Prioritization in Software Startups</li>
                 <li>175: Accelerating Software‑Intensive Innovation via Living Labs: Evidence from the AIAMO Project</li>
               </ul>
             </div>
