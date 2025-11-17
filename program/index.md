@@ -130,7 +130,10 @@ permalink: /program
           <div class="tracks three">
             <div class="track">
               <h4>3rd International Workshop on Advances in Software Intensive Startups</h4>
-              <p class="note">Talks and discussions.</p>
+              <ul class="papers">
+                <li>09:30-09:40: Workshop Intro — Xiaofeng Wang, Henry Edison (face to face), and Nirnaya Tripathi (online)</li>
+                <li>09:40-10:30: Keynote "Startups - Business Development and AI" (tentative) — Michael Zyder (NXTGN, Germany), Industrial Talk</li>
+              </ul>
             </div>
             <div class="track">
               <h4>1st International Workshop on AI‑Enabled Data Trustees</h4>
@@ -156,7 +159,14 @@ permalink: /program
         </summary>
         <div class="slot-body">
           <div class="tracks three">
-            <div class="track"><h4>Software Intensive Startups Workshop</h4></div>
+            <div class="track">
+              <h4>Software Intensive Startups Workshop</h4>
+              <ul class="papers">
+                <li>11:00-11:20: Book Chapter "Do Agile Practices Inhibit Innovation?" �?" Mario Simaremare</li>
+                <li>11:20-11:40: Book Chapter "Designing a SaaS Pricing Strategy Canvas: Guiding Startups Towards Structured Decision-Making" �?" Andrey Saltan</li>
+                <li>11:40-12:00: Book Chapter "From Classrooms to Social Commerce: How 5G Is Turning Educators into Software Entrepreneurs" �?" Nan Yang</li>
+              </ul>
+            </div>
             <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
           </div>
         </div>
@@ -186,7 +196,13 @@ permalink: /program
                 <li>14:00–14:30: “Towards a Framework for Capturing Software Purpose in AI‑Augmented Development“, by Daniel Planötscher (Free University of Bolzano, Italy) — Advisor: Xiaofeng Wang (Free University of Bolzano, Italy)</li>
               </ul>
             </div>
-            <div class="track"><h4>Software Intensive Startups Workshop</h4></div>
+            <div class="track">
+              <h4>Software Intensive Startups Workshop</h4>
+              <ul class="papers">
+                <li>13:00-14:20: Interactive Session "Updating roadmap" �?" Henry Edison (group activity)</li>
+                <li>14:20-14:30: Wrap-up: next steps</li>
+              </ul>
+            </div>
             <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
           </div>
         </div>
