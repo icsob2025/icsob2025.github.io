@@ -162,7 +162,7 @@ permalink: /program
             <div class="track">
               <h4>Software Intensive Startups Workshop</h4>
               <ul class="papers">
-                <li>11:00-11:20: Book Chapter "Do Agile Practices Inhibit Innovation?" �?" Mario Simaremare</li>
+                <li>11:00-11:20: Book Chapter "Do Agile Practices Inhibit Innovation" Mario Simaremare</li>
                 <li>11:20-11:40: Book Chapter "Designing a SaaS Pricing Strategy Canvas: Guiding Startups Towards Structured Decision-Making" �?" Andrey Saltan</li>
                 <li>11:40-12:00: Book Chapter "From Classrooms to Social Commerce: How 5G Is Turning Educators into Software Entrepreneurs" �?" Nan Yang</li>
               </ul>
@@ -199,7 +199,7 @@ permalink: /program
             <div class="track">
               <h4>Software Intensive Startups Workshop</h4>
               <ul class="papers">
-                <li>13:00-14:20: Interactive Session "Updating roadmap" �?" Henry Edison (group activity)</li>
+                <li>13:00-14:20: Interactive Session Updating roadmap Henry Edison (group activity)</li>
                 <li>14:20-14:30: Wrap-up: next steps</li>
               </ul>
             </div>
@@ -219,7 +219,7 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">15:00–17:00</div>
-          <div class="title">PhD Retreat Working Session (mentors and students)</div>
+          <div class="title">PhD Retreat Working Session (mentors and students) &amp; AI-Enabled Data Trustees Workshop</div>
           <span class="label cozy">PhD Retreat</span>
         </summary>
       </details>
