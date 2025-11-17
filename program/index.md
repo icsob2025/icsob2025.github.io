@@ -165,7 +165,7 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">12:00–13:00</div>
-          <div class="title">Lunch and PhD Retreat Opening</div>
+          <div class="title">Lunch and PhD Retreat Opening by Mentors: Jürgen Münch (Reutlingen University, Germany), Krzysztof Wnuk (Blekinge Institute of Technology, Sweden), Thomas Kude (University of Bamberg, Germany)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
@@ -202,15 +202,7 @@ permalink: /program
 
       <details class="slot static">
         <summary>
-          <div class="time">15:00–16:00</div>
-          <div class="title">PhD Retreat Motivational Keynote (to be defined)</div>
-          <span class="label cozy">PhD Retreat</span>
-        </summary>
-      </details>
-
-      <details class="slot static">
-        <summary>
-          <div class="time">16:00–17:00</div>
+          <div class="time">15:00–17:00</div>
           <div class="title">PhD Retreat Working Session (mentors and students)</div>
           <span class="label cozy">PhD Retreat</span>
         </summary>
