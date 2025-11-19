@@ -88,7 +88,7 @@ permalink: /socialevent/
 
   <div class="highlight-box">
     <h2 class="section-title">Excursions (Tuesday, November 26)</h2>
-    <p>Three parallel excursions will take place on Thursday afternoon. Please note the different departure times and locations:</p>
+    <p>Two parallel excursions will take place on Tuesday afternoon. Please note the different departure times and locations:</p>
 
     <h3>Excursion 1: IBM Research – Quantum Computing</h3>
     <p><strong>Departure:</strong> 16:15 (earlier bus)</p>
@@ -104,11 +104,6 @@ permalink: /socialevent/
     <img src="/assets/images/Computermuseum.jpg" alt="Computer Museum Stuttgart exhibit" class="event-image" loading="lazy">
     <div class="image-caption">Computer Museum Stuttgart (source https://www.f05.uni-stuttgart.de/informatik/fachbereich/computermuseum/)</div>
 
-    <h3>Excursion 3: ARENA2036 Innovation Campus</h3>
-    <p><strong>Departure:</strong> 17:30</p>
-    <p>Discover one of Europe’s leading research platforms for the mobility and production of the future. ARENA2036 brings together academia and industry to shape innovative solutions for the factory of tomorrow.</p>
-    <img src="/assets/images/Arena_2036.jpg" alt="ARENA2036 innovation campus" class="event-image" loading="lazy">
-    <div class="image-caption">ARENA2036 (source https://arena2036.de/)</div>
   </div>
 
   <h2 class="section-title">Social Events</h2>
