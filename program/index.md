@@ -88,7 +88,7 @@ permalink: /program
 
 <div class="title-wrap">
   <h1>Conference Program</h1>
-  <div class="subtitle">Tap a slot to see details. All times local.</div>
+  <div class="subtitle"><a class="map-link" href="https://www.openstreetmap.org/?#map=19/48.778901/9.173276" target="_blank" rel="noopener">Address of Location </a></div>
   <div class="controls">
     <button class="btn" id="expandAll">Expand all</button>
     <button class="btn alt" id="collapseAll">Collapse all</button>
@@ -129,19 +129,11 @@ permalink: /program
         <div class="slot-body">
           <div class="tracks three">
             <div class="track">
-              <h4>PhD Retreat (Tower room Baden-Baden)</h4>
-              <p class="note">Begins with lunch at 12:00.</p>
-            </div>
-            <div class="track">
               <h4>Workshop 1: 3rd International Workshop on Advances in Software Intensive Startups (Room Karlsruhe)</h4>
               <ul class="papers">
                 <li>Workshop start</li>
                 <li>Keynote: From Paralysis to Gruenderzeit 2.0</li>
               </ul>
-            </div>
-            <div class="track">
-              <h4>Workshop 2: 1st International Workshop on AI-Enabled Data Trustees (Room Mannheim)</h4>
-              <p class="note">Workshop start.</p>
             </div>
           </div>
         </div>
@@ -194,14 +186,6 @@ permalink: /program
             <div class="track">
               <h4>PhD Retreat</h4>
               <p class="note">Opening with mentors (with lunch).</p>
-            </div>
-            <div class="track">
-              <h4>Workshop 1</h4>
-              <p class="note">Lunch.</p>
-            </div>
-            <div class="track">
-              <h4>Workshop 2</h4>
-              <p class="note">Lunch.</p>
             </div>
           </div>
         </div>
@@ -435,16 +419,8 @@ permalink: /program
                 <li>19:00-19:30 transfer (via 3)</li>
               </ul>
             </div>
-            <div class="track">
-              <h4>Ex 3: Arena2036</h4>
-              <ul class="papers">
-                <li>17:30-17:50 transfer</li>
-                <li>17:50-19:10 tour</li>
-                <li>19:10-19:30 transfer</li>
-              </ul>
-            </div>
           </div>
-          <p class="note">Bus for Excursion 1 leaves early (longer drive). Excursions 2 and 3 share a bus and depart later due to shorter travel time.</p>
+          <p class="note">Bus for Excursion 1 leaves early (longer drive).</p>
         </div>
       </details>
 
