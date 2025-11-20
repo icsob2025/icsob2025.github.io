@@ -109,7 +109,7 @@ permalink: /location/
         loading="lazy"
         title="Map showing Haus der Wirtschaft Baden-Württemberg"></iframe>
     </div>
-    <a class="map-link" href="https://www.openstreetmap.org/?#map=19/48.778901/9.173276" target="_blank" rel="noopener">Open in OpenStreetMap</a>
+    <a class="map-link" href="https://www.openstreetmap.org/?mlat=48.778901&mlon=9.173276#map=19/48.778901/9.173276" target="_blank" rel="noopener">Open in OpenStreetMap</a>
   </div>
 
   <p>We're proud to welcome ICSOB 2025 to this landmark venue, combining over a century of history with modern facilities for our conference on <em>Software Business in Digital Societies</em>.</p>

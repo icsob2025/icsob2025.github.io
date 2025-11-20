@@ -88,7 +88,7 @@ permalink: /program
 
 <div class="title-wrap">
   <h1>Conference Program</h1>
-  <div class="subtitle"><a class="map-link" href="https://www.openstreetmap.org/?#map=19/48.778901/9.173276" target="_blank" rel="noopener">Address of Location </a></div>
+  <div class="subtitle"><a class="map-link" href="https://www.openstreetmap.org/?mlat=48.778901&mlon=9.173276#map=19/48.778901/9.173276" target="_blank" rel="noopener">Address of Location </a></div>
   <div class="controls">
     <button class="btn" id="expandAll">Expand all</button>
     <button class="btn alt" id="collapseAll">Collapse all</button>
