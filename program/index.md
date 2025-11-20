@@ -273,7 +273,7 @@ permalink: /program
       <details class="slot static" open>
         <summary>
           <div class="time">09:15-10:00</div>
-          <div class="title">Keynote 1: Daniel Trabucchi (Room Karlsruhe)</div>
+          <div class="title">Keynote 1: Daniel Trabucchi: Future-Proof Your Business: Embracing Platform Thinking for Sustainable Growth (Room Karlsruhe)</div>
           <span class="label cozy">Keynote</span>
         </summary>
       </details>
