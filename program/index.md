@@ -119,7 +119,6 @@ permalink: /program
           <span class="label cozy">Welcome</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">09:30-10:30</div>
@@ -138,7 +137,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">10:30-11:00</div>
@@ -146,7 +144,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">11:00-12:00</div>
@@ -174,7 +171,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">12:00-13:00</div>
@@ -190,7 +186,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">13:00-14:30</div>
@@ -217,7 +212,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">14:30-15:00</div>
@@ -225,7 +219,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">15:00-17:00</div>
@@ -240,7 +233,6 @@ permalink: /program
           <p class="note">Time for hotel check-in and transfer to Restaurant Empore, Markthalle Stuttgart (self-organized) ahead of reception.</p>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">18:00-20:30</div>
@@ -271,7 +263,6 @@ permalink: /program
           <span class="label cozy">Welcome</span>
         </summary>
       </details>
-
       <details class="slot static" open>
         <summary>
           <div class="time">09:00-09:15</div>
@@ -279,7 +270,6 @@ permalink: /program
           <span class="label cozy">Plenary</span>
         </summary>
       </details>
-
       <details class="slot static" open>
         <summary>
           <div class="time">09:15-10:00</div>
@@ -287,7 +277,6 @@ permalink: /program
           <span class="label cozy">Keynote</span>
         </summary>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">10:00-10:15</div>
@@ -295,7 +284,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">10:15-11:45</div>
@@ -324,7 +312,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">11:45-12:45</div>
@@ -332,7 +319,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">12:45-14:00</div>
@@ -360,7 +346,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">14:00-14:30</div>
@@ -368,7 +353,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">14:30-16:00</div>
@@ -397,7 +381,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">16:15-19:15</div>
@@ -426,7 +409,6 @@ permalink: /program
           <p class="note">Bus for Excursion 1 leaves early (longer drive).</p>
         </div>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">19:15-22:00</div>
@@ -434,7 +416,10 @@ permalink: /program
           <span class="label social">Social</span>
         </summary>
         <div class="slot-body">
-          <p class="note">Leonhardts, Fernsehturm</p>
+          <p class="note">
+            Restaurant Leonhardts, Fernsehturm Stuttgart (Jahnstraße 120, 70597 Stuttgart)
+            <a class="map-link" href="https://www.openstreetmap.org/?mlat=48.755774&mlon=9.189676#map=19/48.755774/9.189676" target="_blank" rel="noopener">Open in OpenStreetMap</a>
+          </p>
         </div>
       </details>
     </div>
@@ -454,7 +439,6 @@ permalink: /program
           <span class="label cozy">Plenary</span>
         </summary>
       </details>
-
       <details class="slot static" open>
         <summary>
           <div class="time">09:15-10:00</div>
@@ -462,7 +446,6 @@ permalink: /program
           <span class="label cozy">Keynote</span>
         </summary>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">10:00-10:30</div>
@@ -470,7 +453,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">10:30-12:30</div>
@@ -486,7 +468,6 @@ permalink: /program
           </ul>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">12:30-13:30</div>
@@ -494,7 +475,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot">
         <summary>
           <div class="time">13:30-15:00</div>
@@ -522,7 +502,6 @@ permalink: /program
           </div>
         </div>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">15:00-15:15</div>
@@ -530,7 +509,6 @@ permalink: /program
           <span class="label break">Break</span>
         </summary>
       </details>
-
       <details class="slot static">
         <summary>
           <div class="time">15:15-15:45</div>
@@ -540,7 +518,6 @@ permalink: /program
       </details>
     </div>
   </section>
-
 </div>
 
 <script>
