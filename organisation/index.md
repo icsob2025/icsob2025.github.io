@@ -205,8 +205,20 @@ permalink: /organisation/
     <div class="org-cards">
       <div class="org-card">
         <img src="/assets/images/organisation/TBD.png" alt="TBD">
-        <h3>TBD</h3>
-        <p>TBD</p>
+        <h3>Gamsanaa Nithinathan</h3>
+        <p>University of Stuttgart, Germany</p>
+      </div>
+      <div class="org-cards">
+      <div class="org-card">
+        <img src="/assets/images/organisation/TBD.png" alt="TBD">
+        <h3>Philipp Burow</h3>
+        <p>University of Stuttgart, Germany</p>
+      </div>
+      <div class="org-cards">
+      <div class="org-card">
+        <img src="/assets/images/organisation/TBD.png" alt="TBD">
+        <h3>Ana-Bianca Burduf</h3>
+        <p>University of Stuttgart, Germany</p>
       </div>
     </div>
   </section>
@@ -214,25 +226,12 @@ permalink: /organisation/
   <hr class="section-separator">
 
   <section class="org-section">
-    <h2>Awards Chair</h2>
+    <h2>Design Chair</h2>
     <div class="org-cards">
       <div class="org-card">
-        <img src="/assets/images/organisation/TBD.png" alt="TBD">
-        <h3>TBD</h3>
-        <p>TBD</p>
-      </div>
-    </div>
-  </section>
-
-  <hr class="section-separator">
-
-  <section class="org-section">
-    <h2>Organization & Registration Chair</h2>
-    <div class="org-cards">
-      <div class="org-card">
-        <img src="/assets/images/organisation/TBD.png" alt="TBD">
-        <h3>TBD</h3>
-        <p>TBD</p>
+        <img src="/assets/images/organisation/hofer.jpg" alt="Philipp Hofer">
+        <h3>Philipp Hofer</h3>
+        <p>University of Stuttgart, Germany</p>
       </div>
     </div>
   </section>
