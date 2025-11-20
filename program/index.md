@@ -132,7 +132,7 @@ permalink: /program
               <h4>3rd International Workshop on Advances in Software Intensive Startups</h4>
               <ul class="papers">
                 <li>09:30-09:40: Workshop Intro — Xiaofeng Wang, Henry Edison (face to face), and Nirnaya Tripathi (online)</li>
-                <li>09:40-10:30: Keynote "Startups - Business Development and AI" (tentative) — Michael Zyder (NXTGN, Germany), Industrial Talk</li>
+                <li>09:40-10:30: Keynote "From Paralysis to Gründerzeit 2.0 — Michael Zyder (NXTGN, Germany), Industrial Talk</li>
               </ul>
             </div>
             <div class="track">
