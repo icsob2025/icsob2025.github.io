@@ -237,7 +237,7 @@ permalink: /program
             <li>Mentor teams meet each PhD student (30 min each)</li>
             <li>Panel of all mentors with Jan as facilitator (starts 16:30)</li>
           </ul>
-          <p class="note">Time for hotel check-in and transfer to Markthalle Stuttgart (self-organized) ahead of reception.</p>
+          <p class="note">Time for hotel check-in and transfer to Restaurant Empore, Markthalle Stuttgart (self-organized) ahead of reception.</p>
         </div>
       </details>
 
@@ -248,7 +248,10 @@ permalink: /program
           <span class="label social">Social</span>
         </summary>
         <div class="slot-body">
-          <p class="note">Restaurant Ampulle, Markthalle Stuttgart</p>
+          <p class="note">
+            Restaurant Empore, Markthalle Stuttgart (Dorotheenstraße 4, 70173 Stuttgart)
+            <a class="map-link" href="https://www.openstreetmap.org/?mlat=48.776345&mlon=9.178927#map=19/48.776345/9.178927" target="_blank" rel="noopener">Open in OpenStreetMap</a>
+          </p>
         </div>
       </details>
     </div>
