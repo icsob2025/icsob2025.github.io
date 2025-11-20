@@ -51,8 +51,8 @@ permalink: /program
   details.slot[open]{box-shadow:0 10px 22px rgba(10,22,70,.09)}
   summary{list-style:none; padding:14px 48px 14px 16px; cursor:pointer; display:grid; grid-template-columns:110px 1fr auto; gap:12px; align-items:center; position:relative; border-radius:12px}
   summary::-webkit-details-marker{display:none}
-  /* Chevron indicator (outlined, grey, bigger) */
-  summary::after{content:'\203A'; /* › */ position:absolute; right:14px; top:50%; transform:translateY(-50%); color:#848e9c; font-size:22px; font-weight:800; transition:transform .18s ease}
+  /* Chevron indicator */
+  summary::after{content:'\203A'; position:absolute; right:14px; top:50%; transform:translateY(-50%); color:#848e9c; font-size:22px; font-weight:800; transition:transform .18s ease}
   details[open] > summary::after{transform:translateY(-50%) rotate(90deg)}
   /* Hide chevron when no dropdown body exists */
   details.slot.static > summary::after{display:none}
@@ -114,30 +114,34 @@ permalink: /program
     <div class="slots">
       <details class="slot static" open>
         <summary>
-          <div class="time">09:00–09:30</div>
-          <div class="title">Walk‑In & Registration</div>
+          <div class="time">09:00-09:30</div>
+          <div class="title">Walk-In & Registration</div>
           <span class="label cozy">Welcome</span>
         </summary>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">09:30–10:30</div>
-          <div class="title">Morning Sessions</div>
+          <div class="time">09:30-10:30</div>
+          <div class="title">Workshop Kick-off & Keynote</div>
           <span class="label">Tracks</span>
         </summary>
         <div class="slot-body">
           <div class="tracks three">
             <div class="track">
-              <h4>3rd International Workshop on Advances in Software Intensive Startups</h4>
+              <h4>PhD Retreat (Tower room Baden-Baden)</h4>
+              <p class="note">Begins with lunch at 12:00.</p>
+            </div>
+            <div class="track">
+              <h4>Workshop 1: 3rd International Workshop on Advances in Software Intensive Startups (Room Karlsruhe)</h4>
               <ul class="papers">
-                <li>09:30-09:40: Workshop Intro — Xiaofeng Wang, Henry Edison (face to face), and Nirnaya Tripathi (online)</li>
-                <li>09:40-10:30: Keynote "From Paralysis to Gründerzeit 2.0 — Michael Zyder (NXTGN, Germany), Industrial Talk</li>
+                <li>Workshop start</li>
+                <li>Keynote: From Paralysis to Gruenderzeit 2.0</li>
               </ul>
             </div>
             <div class="track">
-              <h4>1st International Workshop on AI‑Enabled Data Trustees</h4>
-              <p class="note">Talks and discussions.</p>
+              <h4>Workshop 2: 1st International Workshop on AI-Enabled Data Trustees (Room Mannheim)</h4>
+              <p class="note">Workshop start.</p>
             </div>
           </div>
         </div>
@@ -145,7 +149,7 @@ permalink: /program
 
       <details class="slot static">
         <summary>
-          <div class="time">10:30–11:00</div>
+          <div class="time">10:30-11:00</div>
           <div class="title">Coffee Break</div>
           <span class="label break">Break</span>
         </summary>
@@ -153,96 +157,109 @@ permalink: /program
 
       <details class="slot">
         <summary>
-          <div class="time">11:00–12:00</div>
+          <div class="time">11:00-12:00</div>
           <div class="title">Late Morning Sessions</div>
           <span class="label">Tracks</span>
         </summary>
         <div class="slot-body">
           <div class="tracks three">
             <div class="track">
-              <h4>Software Intensive Startups Workshop</h4>
+              <h4>Workshop 1: Book Chapter Presentations</h4>
               <ul class="papers">
-                <li>11:00-11:20: Book Chapter "Do Agile Practices Inhibit Innovation" Mario Simaremare</li>
-                <li>11:20-11:40: Book Chapter "Designing a SaaS Pricing Strategy Canvas: Guiding Startups Towards Structured Decision-Making" �?" Andrey Saltan</li>
-                <li>11:40-12:00: Book Chapter "From Classrooms to Social Commerce: How 5G Is Turning Educators into Software Entrepreneurs" �?" Nan Yang</li>
+                <li>Do Agile Practices Inhibit Innovation?</li>
+                <li>Designing a SaaS Pricing Strategy Canvas: Guiding Startups Towards Structured Decision-Making</li>
+                <li>From Classrooms to Social Commerce: How 5G Is Turning Educators into Software Entrepreneurs</li>
               </ul>
             </div>
-            <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
+            <div class="track">
+              <h4>Workshop 2: AI-Enabled Data Trustees</h4>
+              <p class="note">Talks and discussions.</p>
+            </div>
+            <div class="track">
+              <h4>PhD Retreat</h4>
+              <p class="note">Starts at 12:00 with lunch.</p>
+            </div>
           </div>
         </div>
       </details>
 
       <details class="slot static">
         <summary>
-          <div class="time">12:00–13:00</div>
-          <div class="title">Lunch and PhD Retreat Opening by Mentors: Jürgen Münch (Reutlingen University, Germany), Krzysztof Wnuk (Blekinge Institute of Technology, Sweden), Thomas Kude (University of Bamberg, Germany)</div>
+          <div class="time">12:00-13:00</div>
+          <div class="title">Lunch & PhD Retreat Start</div>
           <span class="label break">Break</span>
         </summary>
+        <div class="slot-body">
+          <div class="tracks three">
+            <div class="track">
+              <h4>PhD Retreat</h4>
+              <p class="note">Opening with mentors (with lunch).</p>
+            </div>
+            <div class="track">
+              <h4>Workshop 1</h4>
+              <p class="note">Lunch.</p>
+            </div>
+            <div class="track">
+              <h4>Workshop 2</h4>
+              <p class="note">Lunch.</p>
+            </div>
+          </div>
+        </div>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">13:00–14:30</div>
+          <div class="time">13:00-14:30</div>
           <div class="title">Early Afternoon Sessions</div>
           <span class="label">Tracks</span>
         </summary>
         <div class="slot-body">
           <div class="tracks three">
             <div class="track">
-              <h4>PhD Retreat — Presentations</h4>
+              <h4>PhD Retreat</h4>
+              <p class="note">3 PhD students' papers (15 min presentation + 15 min questions each)</p>
+            </div>
+            <div class="track">
+              <h4>Workshop 1: Startups</h4>
               <ul class="papers">
-                <li>13:00–13:30: “An AI‑Based Approach to Measuring Return on Investment in UX Design”, by Gessé Evangelista (UFSCar, Brazil) — Advisors: Luciana Zaina (UFSCar, Brazil) and Pekka Abrahamsson (Tampere University, Finland)</li>
-                <li>13:30–14:00: “Sustainable Transformation of IT Service Management: A PhD Research Plan for Green ITSM”, by Larissa Koch de Souza (University of Stuttgart, Germany) — Advisor: Georg Herzwurm (University of Stuttgart, Germany)</li>
-                <li>14:00–14:30: “Towards a Framework for Capturing Software Purpose in AI‑Augmented Development“, by Daniel Planötscher (Free University of Bolzano, Italy) — Advisor: Xiaofeng Wang (Free University of Bolzano, Italy)</li>
+                <li>Interactive Session: Updating roadmap</li>
+                <li>Wrap-up: next steps</li>
               </ul>
             </div>
             <div class="track">
-              <h4>Software Intensive Startups Workshop</h4>
-              <ul class="papers">
-                <li>13:00-14:20: Interactive Session Updating roadmap Henry Edison (group activity)</li>
-                <li>14:20-14:30: Wrap-up: next steps</li>
-              </ul>
+              <h4>Workshop 2: AI-Enabled Data Trustees</h4>
+              <p class="note">Workshop 2 start.</p>
             </div>
-            <div class="track"><h4>AI‑Enabled Data Trustees Workshop</h4></div>
           </div>
         </div>
       </details>
 
       <details class="slot static">
         <summary>
-          <div class="time">14:30–15:00</div>
+          <div class="time">14:30-15:00</div>
           <div class="title">Coffee Break</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
-      <details class="slot static">
-        <summary>
-          <div class="time">15:00–17:00</div>
-          <div class="title">PhD Retreat Working Session (mentors and students) &amp; AI-Enabled Data Trustees Workshop</div>
-          <span class="label cozy">PhD Retreat</span>
-        </summary>
-      </details>
-
-      <details class="slot static">
-        <summary>
-          <div class="time">17:00</div>
-          <div class="title">PhD Retreat Closing</div>
-          <span class="label cozy">PhD Retreat</span>
-        </summary>
-      </details>
-
-      <details class="slot static">
-        <summary>
-          <div class="time">—</div>
-          <div class="title">Time for Hotel Check‑in & Transfer to Markthalle Stuttgart</div>
-          <span class="label break">Self‑organized</span>
-        </summary>
-      </details>
-
       <details class="slot">
         <summary>
-          <div class="time">18:00–20:30</div>
+          <div class="time">15:00-17:00</div>
+          <div class="title">PhD Retreat Working Session</div>
+          <span class="label cozy">PhD Retreat</span>
+        </summary>
+        <div class="slot-body">
+          <ul class="papers">
+            <li>Mentor teams meet each PhD student (30 min each)</li>
+            <li>Panel of all mentors with Jan as facilitator (starts 16:30)</li>
+          </ul>
+          <p class="note">Time for hotel check-in and transfer to Markthalle Stuttgart (self-organized) ahead of reception.</p>
+        </div>
+      </details>
+
+      <details class="slot static">
+        <summary>
+          <div class="time">18:00-20:30</div>
           <div class="title">Welcome Reception</div>
           <span class="label social">Social</span>
         </summary>
@@ -262,59 +279,59 @@ permalink: /program
     <div class="slots">
       <details class="slot static" open>
         <summary>
-          <div class="time">08:30–09:00</div>
-          <div class="title">Walk‑In & Registration</div>
+          <div class="time">08:30-09:00</div>
+          <div class="title">Walk-In & Registration</div>
           <span class="label cozy">Welcome</span>
         </summary>
       </details>
 
       <details class="slot static" open>
         <summary>
-          <div class="time">09:00–09:15</div>
-          <div class="title">Opening & Introduction</div>
+          <div class="time">09:00-09:15</div>
+          <div class="title">Opening & Introduction (Room Karlsruhe)</div>
           <span class="label cozy">Plenary</span>
         </summary>
       </details>
 
       <details class="slot static" open>
         <summary>
-          <div class="time">09:15–10:00</div>
-          <div class="title">Keynote 1</div>
+          <div class="time">09:15-10:00</div>
+          <div class="title">Keynote 1: Daniel Trabucchi (Room Karlsruhe)</div>
           <span class="label cozy">Keynote</span>
         </summary>
       </details>
 
       <details class="slot static">
         <summary>
-          <div class="time">10:00–10:15</div>
-          <div class="title">Coffee Break</div>
+          <div class="time">10:00-10:15</div>
+          <div class="title">Coffee Break (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">10:15–11:45</div>
+          <div class="time">10:15-11:45</div>
           <div class="title">Parallel Sessions</div>
           <span class="label">Tracks 1 & 2</span>
         </summary>
         <div class="slot-body">
           <div class="tracks">
             <div class="track">
-              <h4>Track 1 — Session “Data Economy: Data Practices, Spaces, and Architectures”</h4>
+              <h4>Track 1: Data Economy: Data Practices, Spaces, and Architectures (Room Karlsruhe)</h4>
               <ul class="papers">
-                <li>105: The Beauty and the Beast: Patterns and Anti‑Patterns in use of Data</li>
+                <li>105: The Beauty and the Beast: Patterns and Anti-Patterns in use of Data</li>
                 <li>132: What Characterizes Data Spaces in Industry 4.0? Towards a Better Understanding</li>
                 <li>185: What Are Digital Identities in Practice? Initial Insight from Finnish B2B Software Companies</li>
                 <li>144: Engineering Data Architectures for AI/ML Integration in Regulated Manufacturing</li>
               </ul>
             </div>
             <div class="track">
-              <h4>Track 2 — Session “Security, Trust, and Ethical Practices in Software Business”</h4>
+              <h4>Track 2: Security, Trust, and Ethical Practices in Software Business (Room Mannheim)</h4>
               <ul class="papers">
-                <li>129: Trust in Practice: Evaluating Third‑Party Software in Large Organisational Procurement</li>
+                <li>129: Trust in Practice: Evaluating Third-Party Software in Large Organisational Procurement</li>
                 <li>146: Simulating ERP Cyber Incidents: A Serious Game for Awareness and Incident Management</li>
-                <li>165: The Ethical Requirements Stack: Operationalizing Adaptive Ethical Requirements with Human‑AI Collaboration and GPT‑based LLMs</li>
+                <li>165: The Ethical Requirements Stack: Operationalizing Adaptive Ethical Requirements with Human-AI Collaboration and GPT-based LLMs</li>
               </ul>
             </div>
           </div>
@@ -323,34 +340,34 @@ permalink: /program
 
       <details class="slot static">
         <summary>
-          <div class="time">11:45–12:45</div>
-          <div class="title">Lunch</div>
+          <div class="time">11:45-12:45</div>
+          <div class="title">Lunch (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">12:45–14:00</div>
+          <div class="time">12:45-14:00</div>
           <div class="title">Parallel Sessions</div>
           <span class="label">Tracks 1 & 2</span>
         </summary>
         <div class="slot-body">
           <div class="tracks">
             <div class="track">
-              <h4>Track 1 — Session “AI Adoption and Governance in Software Organizations”</h4>
+              <h4>Track 1: AI Adoption and Governance in Software Organizations (Room Karlsruhe)</h4>
               <ul class="papers">
                 <li>161: Cost of Not Investing (CONI) in Intelligent Processes Automation</li>
                 <li>174: Understanding Organizational Decision to Adopt AI Technologies: A Qualitative Study</li>
-                <li>148: Investigating Generative AI’s Impact on Software Organizations’ Security Practices: A Multi‑Case Study Using Gioia Methodology</li>
+                <li>148: Investigating Generative AI's Impact on Software Organizations' Security Practices: A Multi-Case Study Using Gioia Methodology</li>
               </ul>
             </div>
             <div class="track">
-              <h4>Track 2 — Session “Sustainable and Responsible Software and Reporting”</h4>
+              <h4>Track 2: Sustainable and Responsible Software and Reporting (Room Mannheim)</h4>
               <ul class="papers">
-                <li>154: Recommended Features for Digital Reporting Systems to Support Emissions Disclosures for Small and Medium‑Sized Enterprises</li>
-                <li>166: A Thematic Analysis of Environmental Sustainability in Software‑Intensive Business: Understanding Practices, Barriers, and Benefits</li>
-                <li>126: Design Principles for IT‑Driven Circular Economy Initiatives</li>
+                <li>154: Recommended Features for Digital Reporting Systems to Support Emissions Disclosures for Small and Medium-Sized Enterprises</li>
+                <li>166: A Thematic Analysis of Environmental Sustainability in Software-Intensive Business: Understanding Practices, Barriers, and Benefits</li>
+                <li>126: Design Principles for IT-Driven Circular Economy Initiatives</li>
               </ul>
             </div>
           </div>
@@ -359,35 +376,35 @@ permalink: /program
 
       <details class="slot static">
         <summary>
-          <div class="time">14:00–14:30</div>
-          <div class="title">Coffee Break, Demos & Poster Session</div>
+          <div class="time">14:00-14:30</div>
+          <div class="title">Coffee Break, Demos & Poster Session (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">14:30–16:00</div>
+          <div class="time">14:30-16:00</div>
           <div class="title">Parallel Sessions</div>
           <span class="label">Tracks 1 & 2</span>
         </summary>
         <div class="slot-body">
           <div class="tracks">
             <div class="track">
-              <h4>Track 1 — Session “GenAI for Software Engineering and Education”</h4>
+              <h4>Track 1: GenAI for Software Engineering and Education (Room Karlsruhe)</h4>
               <ul class="papers">
                 <li>134: Comparative Analysis of Generative AI Performance in University Programming Courses</li>
-                <li>170: Enhancing Agile Workflows with AI‑Driven, Sustainability‑Aware Requirements Engineering: A Design Science Approach</li>
-                <li>141: Narrative AI Strategies for Media, Ethics and Higher Education – Impulse Perspectives from Practice Based Media Education</li>
+                <li>170: Enhancing Agile Workflows with AI-Driven, Sustainability-Aware Requirements Engineering: A Design Science Approach</li>
+                <li>141: Narrative AI Strategies for Media, Ethics and Higher Education: Impulse Perspectives from Practice Based Media Education</li>
               </ul>
-              <p class="note">Preparation for Excursion</p>
+              <p class="note">Preparation for Excursion (get dressed, gather, and go to the bus)</p>
             </div>
             <div class="track">
-              <h4>Track 2 — Session “Digital Strategy, Enterprise Architecture, and Value Networks”</h4>
+              <h4>Track 2: Digital Strategy, Enterprise Architecture, and Value Networks (Room Mannheim)</h4>
               <ul class="papers">
                 <li>173: Active Personas for Synthetic User Feedback</li>
                 <li>163: Transitioning Towards Enterprise Architecture Management in a Software and Service Mobility Company: A Case Study</li>
-                <li>184: A Software‑Driven Approach to Model, Simulate and Optimize Service‑Oriented Value Creation</li>
+                <li>184: A Software-Driven Approach to Model, Simulate and Optimize Service-Oriented Value Creation</li>
               </ul>
             </div>
           </div>
@@ -396,43 +413,44 @@ permalink: /program
 
       <details class="slot">
         <summary>
-          <div class="time">16:15–19:15</div>
+          <div class="time">16:15-19:15</div>
           <div class="title">Excursions</div>
-          <span class="label social">Off‑site</span>
+          <span class="label social">Off-site</span>
         </summary>
         <div class="slot-body">
           <div class="tracks">
             <div class="track">
               <h4>Ex 1: IBM / Quantum Computing</h4>
               <ul class="papers">
-                <li>16:15–17:00 transfer</li>
-                <li>17:00–18:45 tour</li>
-                <li>18:45–19:30 transfer</li>
+                <li>16:15-17:00 transfer</li>
+                <li>17:00-18:45 tour</li>
+                <li>18:45-19:30 transfer</li>
               </ul>
             </div>
             <div class="track">
               <h4>Ex 2: Computer Museum</h4>
               <ul class="papers">
-                <li>17:30–18:00 transfer (via 3)</li>
-                <li>18:00–19:00 tour</li>
-                <li>19:00–19:30 transfer (via 3)</li>
+                <li>17:30-18:00 transfer (via 3)</li>
+                <li>18:00-19:00 tour</li>
+                <li>19:00-19:30 transfer (via 3)</li>
               </ul>
             </div>
             <div class="track">
               <h4>Ex 3: Arena2036</h4>
               <ul class="papers">
-                <li>17:30–17:50 transfer</li>
-                <li>17:50–19:10 tour</li>
-                <li>19:10–19:30 transfer</li>
+                <li>17:30-17:50 transfer</li>
+                <li>17:50-19:10 tour</li>
+                <li>19:10-19:30 transfer</li>
               </ul>
             </div>
           </div>
+          <p class="note">Bus for Excursion 1 leaves early (longer drive). Excursions 2 and 3 share a bus and depart later due to shorter travel time.</p>
         </div>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">19:15–22:00</div>
+          <div class="time">19:15-22:00</div>
           <div class="title">Dinner, Entertaining Keynote 2 & Awards</div>
           <span class="label social">Social</span>
         </summary>
@@ -452,32 +470,32 @@ permalink: /program
     <div class="slots">
       <details class="slot static" open>
         <summary>
-          <div class="time">09:00–09:15</div>
-          <div class="title">Opening & Introduction</div>
+          <div class="time">09:00-09:15</div>
+          <div class="title">Opening & Introduction (Room Karlsruhe)</div>
           <span class="label cozy">Plenary</span>
         </summary>
       </details>
 
       <details class="slot static" open>
         <summary>
-          <div class="time">09:15–10:00</div>
-          <div class="title">Keynote 3</div>
+          <div class="time">09:15-10:00</div>
+          <div class="title">Keynote 3: Rose Sturm (Room Karlsruhe)</div>
           <span class="label cozy">Keynote</span>
         </summary>
       </details>
 
       <details class="slot static">
         <summary>
-          <div class="time">10:00–10:30</div>
-          <div class="title">Coffee Break, Demos & Poster Session</div>
+          <div class="time">10:00-10:30</div>
+          <div class="title">Coffee Break, Demos & Poster Session (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">10:30–12:30</div>
-          <div class="title">Best Paper Session</div>
+          <div class="time">10:30-12:30</div>
+          <div class="title">Best Paper Session (Room Karlsruhe)</div>
           <span class="label">Plenary</span>
         </summary>
         <div class="slot-body">
@@ -492,34 +510,34 @@ permalink: /program
 
       <details class="slot static">
         <summary>
-          <div class="time">12:30–13:30</div>
-          <div class="title">Lunch</div>
+          <div class="time">12:30-13:30</div>
+          <div class="title">Lunch (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
       <details class="slot">
         <summary>
-          <div class="time">13:30–15:00</div>
+          <div class="time">13:30-15:00</div>
           <div class="title">Parallel Sessions</div>
           <span class="label">Tracks 1 & 2</span>
         </summary>
         <div class="slot-body">
           <div class="tracks">
-            <div class="track">
-              <h4>Track 1 — Session “Startups, SaaS, and Innovation Ecosystems”</h4>
-              <ul class="papers">
-                <li>156: The Finnish Way to SaaS Scaling: A Qualitative Study</li>
-                <li>176: An AI-Driven Decision Support System for Product Feature Prioritization in Software Startups</li>
-                <li>175: Accelerating Software‑Intensive Innovation via Living Labs: Evidence from the AIAMO Project</li>
-              </ul>
-            </div>
-            <div class="track">
-              <h4>Track 2 — Session “Human‑Centered and Socially Responsible Software Business”</h4>
+          <div class="track">
+              <h4>Track 2: Human-Centered and Socially Responsible Software Business (Room Mannheim)</h4>
               <ul class="papers">
                 <li>142: Balancing Power and Participation: Ethical Contributions to Digital Strategy Development Based on a Case Study at a Public University</li>
                 <li>140: Playing Against Creative Burnout in Sprint Retrospectives: A Design Science Research Study</li>
-                <li>169: Understanding consumer behavior and sustainability perception for digital technology products and services: addressing end‑user unmet sustainability needs</li>
+                <li>169: Understanding consumer behavior and sustainability perception for digital technology products and services: addressing end-user unmet sustainability needs</li>
+              </ul>
+            </div>
+            <div class="track">
+              <h4>Track 1: Startups, SaaS, and Innovation Ecosystems (Room Karlsruhe)</h4>
+              <ul class="papers">
+                <li>176: Product Feature Prioritization in Software Startups: A Multiple Case-study on the Status Quo and Potential of AI-based Decision Support Systems</li>
+                <li>156: The Finnish Way to SaaS Scaling: A Qualitative Study</li>
+                <li>175: Accelerating Software-Intensive Innovation via Living Labs: Evidence from the AIAMO Project</li>
               </ul>
             </div>
           </div>
@@ -528,16 +546,16 @@ permalink: /program
 
       <details class="slot static">
         <summary>
-          <div class="time">15:00–15:15</div>
-          <div class="title">Coffee Break, Demos & Poster Session</div>
+          <div class="time">15:00-15:15</div>
+          <div class="title">Coffee Break, Demos & Poster Session (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
 
       <details class="slot static">
         <summary>
-          <div class="time">15:15–15:45</div>
-          <div class="title">Closing</div>
+          <div class="time">15:15-15:45</div>
+          <div class="title">Closing (Room Mannheim)</div>
           <span class="label cozy">Plenary</span>
         </summary>
       </details>
