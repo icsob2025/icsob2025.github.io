@@ -115,7 +115,7 @@ permalink: /program
       <details class="slot static" open>
         <summary>
           <div class="time">09:00-09:30</div>
-          <div class="title">Walk-In & Registration</div>
+          <div class="title">Walk-In & Registration (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label cozy">Welcome</span>
         </summary>
       </details>
@@ -126,7 +126,7 @@ permalink: /program
           <span class="label">Tracks</span>
         </summary>
         <div class="slot-body">
-          <div class="tracks three">
+          <div class="tracks one">
             <div class="track">
               <h4>Workshop 1: 3rd International Workshop on Advances in Software Intensive Startups (Room Karlsruhe)</h4>
               <ul class="papers">
@@ -140,7 +140,7 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">10:30-11:00</div>
-          <div class="title">Coffee Break</div>
+          <div class="title">Coffee Break (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
@@ -151,22 +151,14 @@ permalink: /program
           <span class="label">Tracks</span>
         </summary>
         <div class="slot-body">
-          <div class="tracks three">
+          <div class="tracks one">
             <div class="track">
-              <h4>Workshop 1: Book Chapter Presentations</h4>
+              <h4>Workshop 1: Book Chapter Presentations (Room Karlsruhe)</h4>
               <ul class="papers">
                 <li>Do Agile Practices Inhibit Innovation?</li>
                 <li>Designing a SaaS Pricing Strategy Canvas: Guiding Startups Towards Structured Decision-Making</li>
                 <li>From Classrooms to Social Commerce: How 5G Is Turning Educators into Software Entrepreneurs</li>
               </ul>
-            </div>
-            <div class="track">
-              <h4>Workshop 2: AI-Enabled Data Trustees</h4>
-              <p class="note">Talks and discussions.</p>
-            </div>
-            <div class="track">
-              <h4>PhD Retreat</h4>
-              <p class="note">Starts at 12:00 with lunch.</p>
             </div>
           </div>
         </div>
@@ -174,7 +166,7 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">12:00-13:00</div>
-          <div class="title">Lunch & PhD Retreat Start</div>
+          <div class="title">Lunch (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
         <div class="slot-body">
@@ -182,6 +174,10 @@ permalink: /program
             <div class="track">
               <h4>PhD Retreat</h4>
               <p class="note">Opening with mentors (with lunch).</p>
+            </div>
+            <div class="track">
+              <h4>Workshop 1: 3rd International Workshop on Advances in Software Intensive Startups</h4>
+              <p class="note">lunch</p>
             </div>
           </div>
         </div>
@@ -195,19 +191,19 @@ permalink: /program
         <div class="slot-body">
           <div class="tracks three">
             <div class="track">
-              <h4>PhD Retreat</h4>
+              <h4>PhD Retreat (Room Baden-Baden)</h4>
               <p class="note">3 PhD students' papers (15 min presentation + 15 min questions each)</p>
             </div>
             <div class="track">
-              <h4>Workshop 1: Startups</h4>
+              <h4>Workshop 1: Startups (Room Karlsruhe)</h4>
               <ul class="papers">
                 <li>Interactive Session: Updating roadmap</li>
                 <li>Wrap-up: next steps</li>
               </ul>
             </div>
             <div class="track">
-              <h4>Workshop 2: AI-Enabled Data Trustees</h4>
-              <p class="note">Workshop 2 start.</p>
+              <h4>Workshop 2: AI-Enabled Data Trustees (Room Mannheim)</h4>
+              <p class="note">Workshop 2: Focus Group </p>
             </div>
           </div>
         </div>
@@ -215,22 +211,26 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">14:30-15:00</div>
-          <div class="title">Coffee Break</div>
+          <div class="title">Coffee Break (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label break">Break</span>
         </summary>
       </details>
       <details class="slot">
         <summary>
           <div class="time">15:00-17:00</div>
-          <div class="title">PhD Retreat Working Session</div>
-          <span class="label cozy">PhD Retreat</span>
+          <div class="title">Late Afternoon Session</div>
+          <span class="label cozy">PhD Retreat (Room Baden-Baden)</span>
         </summary>
         <div class="slot-body">
           <ul class="papers">
             <li>Mentor teams meet each PhD student (30 min each)</li>
             <li>Panel of all mentors with Jan as facilitator (starts 16:30)</li>
           </ul>
-          <p class="note">Time for hotel check-in and transfer to Restaurant Empore, Markthalle Stuttgart (self-organized) ahead of reception.</p>
+          <div class="track">
+              <h4>Workshop 2: AI-Enabled Data Trustees (Room Mannheim)</h4>
+              <p class="note">Workshop 2: AI-Service demonstration </p>
+          </div>
+          <p class="note">Time for hotel check-in and transfer to Restaurant Empore, Markthalle Stuttgart (Dorotheenstraße 4, 70173 Stuttgart) (self-organized) ahead of reception.</p>
         </div>
       </details>
       <details class="slot static">
@@ -259,7 +259,7 @@ permalink: /program
       <details class="slot static" open>
         <summary>
           <div class="time">08:30-09:00</div>
-          <div class="title">Walk-In & Registration</div>
+          <div class="title">Walk-In & Registration (Foyer Heinrich-Meidinger-Saal)</div>
           <span class="label cozy">Welcome</span>
         </summary>
       </details>
@@ -368,7 +368,6 @@ permalink: /program
                 <li>170: Enhancing Agile Workflows with AI-Driven, Sustainability-Aware Requirements Engineering: A Design Science Approach</li>
                 <li>141: Narrative AI Strategies for Media, Ethics and Higher Education: Impulse Perspectives from Practice Based Media Education</li>
               </ul>
-              <p class="note">Preparation for Excursion (get dressed, gather, and go to the bus)</p>
             </div>
             <div class="track">
               <h4>Track 2: Digital Strategy, Enterprise Architecture, and Value Networks (Room Mannheim)</h4>
@@ -400,9 +399,9 @@ permalink: /program
             <div class="track">
               <h4>Ex 2: Computer Museum</h4>
               <ul class="papers">
-                <li>17:30-18:00 transfer (via 3)</li>
+                <li>17:30-18:00 transfer</li>
                 <li>18:00-19:00 tour</li>
-                <li>19:00-19:30 transfer (via 3)</li>
+                <li>19:00-19:30 transfer</li>
               </ul>
             </div>
           </div>
@@ -512,7 +511,7 @@ permalink: /program
       <details class="slot static">
         <summary>
           <div class="time">15:15-15:45</div>
-          <div class="title">Closing (Room Mannheim)</div>
+          <div class="title">Closing (Room Karlsruhe)</div>
           <span class="label cozy">Plenary</span>
         </summary>
       </details>
