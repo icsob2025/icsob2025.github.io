@@ -101,11 +101,7 @@ conference:
           - name: Social Program & Excursions
             relative_url: /socialevent
           - name: AI Paper Summaries & Podcasts
-            menu: /summeries
-          # - name: Detailed Schedule
-          #  relative_url: /Schedule/
-          # - name: Keynotes
-          #  relative_url: /speakers/
+            menu: /summaries
           - name: 3rd International Workshop on Advances in Software Intensive Startups
             relative_url: "/workshop1"
           - name: First International Workshop on AI-Enabled Data Trustees

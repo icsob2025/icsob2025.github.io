@@ -1,7 +1,7 @@
 ---
 layout: home
 title: AI Paper Summaries & Podcasts
-permalink: /summeries
+permalink: /summaries/
 ---
 
 <style>
