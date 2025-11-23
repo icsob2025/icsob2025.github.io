@@ -147,10 +147,10 @@ permalink: /Posters/
 
  <div class="highlight-box">
     <h3 class="section-title">Important Dates</h3>
-    <ul>
+   <ul>
       <li><b>Submission Deadline:</b><s> October 14, 2025</s> October 20, 2025 <span style='color:#a90808'>(extended)</span></li>
-      <li><b>Notification:</b> October 31, 2025</li>
-      <li><b>Camera-ready:</b> November 14, 2025 <span style='color:#a90808'>(extended)</span></li>
+      <li><b>Notification:</b><s> October 31, 2025</s></li>
+      <li><b>Camera-ready:</b><s> November 14, 2025 <span style='color:#a90808'>(extended)</span></s></li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        
 </ul>
   </div>
