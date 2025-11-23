@@ -49,6 +49,35 @@ permalink: /PhDRetreat/
     text-align: center;
     font-weight: bold;
   }
+
+  .past-date {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 8px;
+    color: #6b7280;
+    background: #f7e8e8;
+    border-radius: 6px;
+    text-decoration: line-through;
+    text-decoration-color: #b91c1c;
+    text-decoration-thickness: 2px;
+    text-decoration-skip-ink: none;
+  }
+
+  .deadline-flag {
+    display: inline-block;
+    padding: 2px 8px;
+    margin-left: 2px;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: #8b1b1b;
+    background: #fde4e4;
+    border: 1px solid #f2bcbc;
+    border-radius: 999px;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+  }
 </style>
 
 <h1>PhD Retreat – Call for Submissions</h1>
@@ -86,8 +115,8 @@ permalink: /PhDRetreat/
 </p>
 <div class="highlight-box">
    <ul>
-        <li><b>Submission Deadline:</b><s> October 06, 2025 October 20, 2025 <span style='color:#a90808'>(extended)</s></span></li>
-        <li><b>Notification of Acceptance:</b><s> October 31, 2025</s></li>
+        <li><b>Submission Deadline:</b> <span class="past-date">October 06, 2025</span> <span class="past-date">October 20, 2025 <span class="deadline-flag">extended</span></span></li>
+        <li><b>Notification of Acceptance:</b> <span class="past-date">October 31, 2025</span></li>
         <li><b>Conference Dates:</b> November 24–26, 2025</li>
         <li><b>Camera-ready Papers Due:</b> December 08, 2025</li>
   </ul>

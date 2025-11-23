@@ -33,6 +33,35 @@ layout: home
     margin-bottom: 15px;
   }
 
+  .past-date {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 8px;
+    color: #6b7280;
+    background: #f7e8e8;
+    border-radius: 6px;
+    text-decoration: line-through;
+    text-decoration-color: #b91c1c;
+    text-decoration-thickness: 2px;
+    text-decoration-skip-ink: none;
+  }
+
+  .deadline-flag {
+    display: inline-block;
+    padding: 2px 8px;
+    margin-left: 2px;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: #8b1b1b;
+    background: #fde4e4;
+    border: 1px solid #f2bcbc;
+    border-radius: 999px;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+  }
+
   .highlight-box {
     background-color: #EDF5FF;
     border-left: 6px solid #0E1B4D;
@@ -109,10 +138,10 @@ layout: home
   <div class="highlight-box">
     <h3 class="section-title">Research Papers</h3>
     <ul>
-      <li><b><s>Abstract Deadline (voluntary): July 14, 2025</s></b></li>
-      <li><b>Full Paper Deadline: <s>August 4, 2025</s></b><b><s> August 18, 2025 <span style='color:#a90808'>(extended)</span></s></b></li>
-      <li><b>Notification:</b><s> October 6, 2025</s></li>
-      <li><b>Camera-ready:</b><s> October 26, 2025</s></li>
+      <li><b><span class="past-date">Abstract Deadline (voluntary): July 14, 2025</span></b></li>
+      <li><b>Full Paper Deadline:</b> <span class="past-date">August 4, 2025</span> <span class="past-date">August 18, 2025 <span class="deadline-flag">extended</span></span></li>
+      <li><b>Notification:</b> <span class="past-date">October 6, 2025</span></li>
+      <li><b>Camera-ready:</b> <span class="past-date">October 26, 2025</span></li>
       <li><b>Conference Dates:</b> November 24-26, 2025</li>    
     </ul>
   </div>
@@ -120,9 +149,9 @@ layout: home
   <div class="highlight-box">
     <h3 class="section-title">Short Position, Research in Progress & Practice Papers</h3>
     <ul>
-      <li><b>Deadline: <s>August 4, 2025</s></b><b><s> August 18, 2025 <span style='color:#a90808'>(extended)</span></s></b></li>
-      <li><b>Notification:</b><s> October 6, 2025</s></li>
-      <li><b>Camera-ready:</b><s> October 26, 2025</s></li>
+      <li><b>Deadline:</b> <span class="past-date">August 4, 2025</span> <span class="past-date">August 18, 2025 <span class="deadline-flag">extended</span></span></li>
+      <li><b>Notification:</b> <span class="past-date">October 6, 2025</span></li>
+      <li><b>Camera-ready:</b> <span class="past-date">October 26, 2025</span></li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        
 </ul>
   </div>
@@ -130,9 +159,9 @@ layout: home
   <div class="highlight-box">
     <h3 class="section-title">Poster & Demo Track</h3>
     <ul>
-      <li><b>Submission Deadline:</b><s> October 14, 2025</s> October 20, 2025 <span style='color:#a90808'>(extended)</span></li>
-      <li><b>Notification:</b><s> October 31, 2025</s></li>
-      <li><b>Camera-ready:</b><s> November 14, 2025 <span style='color:#a90808'>(extended)</span></s></li>
+      <li><b>Submission Deadline:</b> <span class="past-date">October 14, 2025</span> <span class="past-date">October 20, 2025 <span class="deadline-flag">extended</span></span></li>
+      <li><b>Notification:</b> <span class="past-date">October 31, 2025</span></li>
+      <li><b>Camera-ready:</b> <span class="past-date">November 14, 2025 <span class="deadline-flag">extended</span></span></li>
 <li><b>Conference Dates:</b> November 24-26, 2025</li>        
 </ul>
   </div>
@@ -140,8 +169,8 @@ layout: home
   <div class="highlight-box">
     <h3 class="section-title">PhD Retreat</h3>
     <ul>
-        <li><b>Submission Deadline:</b><s> October 06, 2025 October 20, 2025 <span style='color:#a90808'>(extended)</s></span></li>
-        <li><b>Notification of Acceptance:</b><s> October 31, 2025</s></li>
+        <li><b>Submission Deadline:</b> <span class="past-date">October 06, 2025</span> <span class="past-date">October 20, 2025 <span class="deadline-flag">extended</span></span></li>
+        <li><b>Notification of Acceptance:</b> <span class="past-date">October 31, 2025</span></li>
         <li><b>Conference Dates:</b> November 24–26, 2025</li>
         <li><b>Camera-ready Papers Due:</b> December 08, 2025</li>
   </ul>
