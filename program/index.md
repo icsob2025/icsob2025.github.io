@@ -23,6 +23,8 @@ permalink: /program
   .title-wrap{position:relative; overflow:hidden; background:linear-gradient(160deg,#0e1b4d 0%, #1e3a8a 60%, #0ea89e 120%); color:#fff; padding:56px 20px; border-radius:0 0 28px 28px; box-shadow:var(--shadow); text-align:center}
   .title-wrap h1{margin:0; font-size:clamp(28px, 4vw, 44px)}
   .subtitle{opacity:.95; margin-top:10px; font-size:clamp(14px, 2vw, 18px)}
+  .subtitle a{color:#fff; text-decoration:underline}
+  .subtitle a:hover{color:#dce7ff}
   .hint{display:inline-block; margin-top:14px; background:rgba(255,255,255,.16); padding:8px 12px; border-radius:999px; font-size:14px}
 
   /* Top controls */
