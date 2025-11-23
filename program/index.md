@@ -90,8 +90,9 @@ permalink: /program
   <h1>Conference Program</h1>
   <div class="subtitle">
     <a class="map-link" href="https://www.openstreetmap.org/?mlat=48.778901&mlon=9.173276#map=19/48.778901/9.173276" target="_blank" rel="noopener">Address of Location</a>
-    &nbsp;·&nbsp;
+    &nbsp;|&nbsp;
     <a class="map-link" href="/assets/ICSOB 2025 Program.pdf" target="_blank" rel="noopener">Download Program (PDF)</a>
+    <div class="hint">Full paper presentation time: 15 min / Short paper presentation time: 10 min / Subsequent discussion: 5-10 min</div>
   </div>
   <div class="controls">
     <button class="btn" id="expandAll">Expand all</button>
