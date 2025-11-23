@@ -1,7 +1,7 @@
 ---
 layout: home
 title: AI Paper Summaries & Podcasts
-permalink: /summeries/
+permalink: /summeries
 ---
 
 <style>
@@ -47,7 +47,7 @@ permalink: /summeries/
   </div>
 
   <div id="podcastList" class="podcast-grid" aria-live="polite"></div>
-  <p class="notice">Play counts are stored locally in your browser. If site analytics (gtag or Plausible) are enabled, a <code>podcast_play</code> event will be sent for aggregate stats.</p>
+
 </div>
 
 <script id="podcast-data" type="application/json">
@@ -287,53 +287,3 @@ permalink: /summeries/
 ]
 </script>
 
-<script>
-  const dataEl = document.getElementById('podcast-data');
-  const podcasts = JSON.parse(dataEl.textContent);
-  const list = document.getElementById('podcastList');
-  const playCounts = JSON.parse(localStorage.getItem('podcastPlayCounts') || '{}');
-
-  function renderCards() {
-    list.innerHTML = podcasts.map(p => `
-      <article class="podcast-card">
-        <div class="meta">
-          <span class="badge">Paper ${p.program_id || p.id}</span>
-          <span>Plays: <span class="play-count" data-id="${p.id}">${playCounts[p.id] || 0}</span></span>
-        </div>
-        <h3>${p.title}</h3>
-        <p class="summary">${p.summary}...</p>
-        <div class="controls">
-          <audio controls preload="metadata" data-podcast-id="${p.id}">
-            <source src="${p.mp3}" type="audio/mpeg">
-            Your browser does not support the audio element.
-          </audio>
-          <a class="btn" href="${p.pdf}" target="_blank" rel="noopener">Full summary (PDF)</a>
-        </div>
-        <div class="error" data-error-for="${p.id}" hidden>Audio failed to load. <a href="${p.mp3}" target="_blank" rel="noopener">Open the file directly</a>.</div>
-      </article>
-    `).join('');
-  }
-
-  function initTracking() {
-    document.querySelectorAll('audio[data-podcast-id]').forEach(audio => {
-      const id = audio.dataset.podcastId;
-      const countEl = document.querySelector(`.play-count[data-id="${id}"]`);
-      const errorEl = document.querySelector(`.error[data-error-for="${id}"]`);
-      const updateDisplay = () => { if (countEl) countEl.textContent = playCounts[id] || 0; };
-      updateDisplay();
-      audio.addEventListener('play', () => {
-        playCounts[id] = (playCounts[id] || 0) + 1;
-        localStorage.setItem('podcastPlayCounts', JSON.stringify(playCounts));
-        updateDisplay();
-        if (window.gtag) { window.gtag('event', 'podcast_play', {event_category:'AI Podcasts', event_label:id}); }
-        if (window.plausible) { window.plausible('podcast_play', {props:{id}}); }
-      });
-      audio.addEventListener('error', () => {
-        if (errorEl) errorEl.hidden = false;
-      });
-    });
-  }
-
-  renderCards();
-  initTracking();
-</script>
