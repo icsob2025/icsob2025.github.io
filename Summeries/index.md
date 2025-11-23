@@ -287,3 +287,80 @@ permalink: /summeries
 ]
 </script>
 
+<script>
+  (function () {
+    const dataNode = document.getElementById('podcast-data');
+    const listNode = document.getElementById('podcastList');
+    if (!dataNode || !listNode) return;
+
+    let items;
+    try {
+      items = JSON.parse(dataNode.textContent);
+      if (!Array.isArray(items)) throw new Error('Data is not an array');
+    } catch (err) {
+      listNode.innerHTML = '<div class="podcast-card"><p class="error">Could not load podcast data.</p><p class="error">' + err.message + '</p></div>';
+      console.error('Podcast data load failed', err);
+      return;
+    }
+
+    if (!items.length) {
+      listNode.innerHTML = '<div class="podcast-card"><p class="error">No podcasts available yet. Please check back soon.</p></div>';
+      return;
+    }
+
+    const trim = (text, limit = 260) => {
+      const clean = (text || '').replace(/\s+/g, ' ').trim();
+      return clean.length > limit ? clean.slice(0, limit - 1) + '...' : clean || 'No summary available.';
+    };
+
+    items.forEach((item) => {
+      const card = document.createElement('article');
+      card.className = 'podcast-card';
+      card.dataset.id = item.id || '';
+
+      const heading = document.createElement('h3');
+      heading.textContent = item.title || 'Untitled';
+      card.appendChild(heading);
+
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      meta.innerHTML = '<span class="badge">Program ' + (item.program_id || 'n/a') + '</span><span>ID ' + (item.id || 'n/a') + '</span>';
+      card.appendChild(meta);
+
+      const summary = document.createElement('p');
+      summary.className = 'summary';
+      summary.textContent = trim(item.summary);
+      card.appendChild(summary);
+
+      const controls = document.createElement('div');
+      controls.className = 'controls';
+
+      if (item.mp3) {
+        const audio = document.createElement('audio');
+        audio.controls = true;
+        audio.preload = 'none';
+        audio.src = item.mp3;
+        audio.setAttribute('aria-label', 'Podcast for ' + (item.title || 'paper'));
+        controls.appendChild(audio);
+      } else {
+        const missing = document.createElement('span');
+        missing.className = 'error';
+        missing.textContent = 'Audio coming soon';
+        controls.appendChild(missing);
+      }
+
+      if (item.pdf) {
+        const pdfLink = document.createElement('a');
+        pdfLink.className = 'btn';
+        pdfLink.href = item.pdf;
+        pdfLink.target = '_blank';
+        pdfLink.rel = 'noopener';
+        pdfLink.textContent = 'Read PDF Summary';
+        controls.appendChild(pdfLink);
+      }
+
+      card.appendChild(controls);
+      listNode.appendChild(card);
+    });
+  })();
+</script>
