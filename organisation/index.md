@@ -208,13 +208,11 @@ permalink: /organisation/
         <h3>Gamsanaa Nithinathan</h3>
         <p>University of Stuttgart, Germany</p>
       </div>
-      <div class="org-cards">
       <div class="org-card">
         <img src="/assets/images/organisation/TBD.png" alt="TBD">
         <h3>Philipp Burow</h3>
         <p>University of Stuttgart, Germany</p>
       </div>
-      <div class="org-cards">
       <div class="org-card">
         <img src="/assets/images/organisation/TBD.png" alt="TBD">
         <h3>Ana-Bianca Burduf</h3>
