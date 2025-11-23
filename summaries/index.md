@@ -198,7 +198,7 @@ permalink: /summaries/
   },
   {
     "id": "5740020",
-    "program_id": "5740020",
+    "program_id": "173",
     "title": "Active Personas for Synthetic User Feedback: A Design Science Study",
     "summary": "About This study evaluates the effectiveness of Active Personas (APs), which are user archetypes powered by Generative AI, in producing realistic user feedback for new product development. Using a Design Science Research approach, the researchers created APs based on different personas and Large Language Models (LLMs) to provide feedback on a mobile transport app. The AI-generated feedback was then compared against feedback from human users and Google Play reviews to assess its alignment and validity. Problem Securing consistent and diverse user feedback is a critical part of product development, but it is often a resource-intensive and time-consuming process. Development teams struggle to get rapid feedback from a wide range of user types, which can slow down innovation. This study explores whether AI-powered personas can serve as a low-cost, on-demand alternative to generate valuable u",
     "pdf": "/assets/aI_summeries/pdfs/summary_5740020.pdf",
@@ -278,7 +278,7 @@ permalink: /summaries/
   },
   {
     "id": "5740030",
-    "program_id": "5740030",
+    "program_id": "169",
     "title": "Understanding Consumer Behavior and Sustainability Perception for Digital Technology Products and Services: Addressing End-users' Unmet Sustainability Concerns",
     "summary": "About This study investigates the sustainability perceptions and behaviors of consumers regarding digital technology products and services. Through a global survey of 490 technology end-users, the research identifies their key concerns, unmet expectations, and views on the current sustainability efforts of technology companies. Problem While there is extensive research on technology and sustainability, most of it focuses on the digital technologies themselves or the companies behind them, leaving a gap in understanding the end-user's perspective. This study addresses the lack of insight into consumer sustainability perceptions, behaviors, and expectations, which is crucial for promoting sustainable consumption in the digital economy. Study Outcome - Consumers' most pressing unmet sustainability needs are product durability, transparency, corporate legitimacy, ethical practices, the right",
     "pdf": "/assets/aI_summeries/pdfs/summary_5740030.pdf",
