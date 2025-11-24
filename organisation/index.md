@@ -188,7 +188,7 @@ permalink: /organisation/
   <hr class="section-separator">
 
   <section class="org-section">
-    <h2>Sponsorship Chair</h2>
+    <h2>Partnerships & Social Events Chair</h2>
     <div class="org-cards">
       <div class="org-card">
         <img src="/assets/images/organisation/Andreas.png" alt="Andreas Helferich">
