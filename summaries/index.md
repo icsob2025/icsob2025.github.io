@@ -4,6 +4,8 @@ title: AI Paper Summaries & Podcasts
 permalink: /summaries/
 ---
 
+<script defer src="https://umami.uni-muenster.de/script.js" data-website-id="859c5be6-5027-4246-bdad-f0b5d70be100"></script>
+
 <style>
   :root {
     --ink:#0b1026;
@@ -289,6 +291,12 @@ permalink: /summaries/
 
 <script>
   (function () {
+    const tracker = (event, data) => {
+      if (window.umami && typeof window.umami.track === 'function') {
+        window.umami.track(event, data);
+      }
+    };
+
     const dataNode = document.getElementById('podcast-data');
     const listNode = document.getElementById('podcastList');
     if (!dataNode || !listNode) return;
@@ -341,6 +349,7 @@ permalink: /summaries/
         audio.preload = 'none';
         audio.src = item.mp3;
         audio.setAttribute('aria-label', 'Podcast for ' + (item.title || 'paper'));
+        audio.addEventListener('play', () => tracker('podcast_play', { id: item.id, title: item.title }));
         controls.appendChild(audio);
       } else {
         const missing = document.createElement('span');
@@ -356,11 +365,19 @@ permalink: /summaries/
         pdfLink.target = '_blank';
         pdfLink.rel = 'noopener';
         pdfLink.textContent = 'Read PDF Summary';
+        pdfLink.addEventListener('click', () => tracker('summary_pdf_click', { id: item.id, title: item.title }));
         controls.appendChild(pdfLink);
       }
 
       card.appendChild(controls);
       listNode.appendChild(card);
     });
+
+    const trackRender = () => tracker('summaries_rendered', { count: items.length });
+    if (document.readyState === 'complete') {
+      trackRender();
+    } else {
+      window.addEventListener('load', trackRender, { once: true });
+    }
   })();
 </script>
