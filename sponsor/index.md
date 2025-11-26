@@ -39,3 +39,13 @@ permalink: /sponsor/
     </div>
 
 </div>
+
+<div style="display: flex; align-items: center; margin-top: 30px;">
+    <img src="/assets/images/ISM_logo_monochrome.png" alt="International School of Management logo" width="150" height="150" style="margin-right: 20px;">
+    <div>
+    <p><b>International School of Management (ISM)</b> is an AACSB-accredited German business school with seven campuses that offer bachelor, master, and MBA programs. Guided by its "International. Individual. Inspiring." philosophy, ISM brings together students from 84 nationalities, leverages a network of around 190 partner universities, and pairs practice-oriented teaching with small class sizes and strong corporate ties to launch global business careers.</p>
+
+ <p><a href="https://en.ism.de/" target="_blank">https://en.ism.de/</a></p>
+    </div>
+
+</div>
