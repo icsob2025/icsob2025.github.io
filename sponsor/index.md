@@ -29,3 +29,13 @@ permalink: /sponsor/
     </div>
 
 </div>
+
+<div style="display: flex; align-items: center; margin-top: 30px;">
+    <img src="/assets/images/unistuttgart_logo_deutsch_cmyk-01.png" alt="University of Stuttgart logo" width="150" height="150" style="margin-right: 20px;">
+    <div>
+    <p><b>University of Stuttgart</b> has been visionary since 1829, standing for exceptional, world-acclaimed research across engineering, natural sciences, humanities, and social sciences. As a leading, technology-focused institution with an outstanding global reputation, it fosters interdisciplinary collaboration that drives solutions to the challenges of our time.</p>
+
+ <p><a href="https://www.uni-stuttgart.de/" target="_blank">https://www.uni-stuttgart.de/</a></p>
+    </div>
+
+</div>
