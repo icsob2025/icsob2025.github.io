@@ -6,7 +6,7 @@ permalink: /sponsor/
 
 
 <h1 class="display-4" style="text-align: left;">
-	Our Sponsors and Partners
+    Our Sponsors and Partners
 </h1>
 <hr>
 
@@ -20,6 +20,12 @@ permalink: /sponsor/
 
 </div>
 
+<div style="display: flex; align-items: center; margin-top: 30px;">
+    <img src="/assets/images/ERCIS_logo_color.png" alt="ERCIS logo" width="150" height="150" style="margin-right: 20px;">
+    <div>
+    <p><b>European Research Center for Information Systems (ERCIS)</b> is a dynamic and thriving international collaboration comprising research institutions and companies united in the world of Information Systems. Our network includes researchers, practitioners, and affiliates from over 25 countries, providing us with the ability to address current challenges on our path to a truly Digital Europe from a multi-disciplinary and international perspective. The students we include in this journey get their best education to become the shapers of our digital tomorrow.</p>
 
+ <p><a href="https://www.ercis.org/" target="_blank">https://www.ercis.org/</a></p>
+    </div>
 
-
+</div>
