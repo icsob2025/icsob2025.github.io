@@ -111,8 +111,13 @@ layout: home
 
 <div class="container">
   <div style="text-align: justify;">
+    <div class="highlight-box">
+      <strong>Proceedings now available:</strong>
+      The proceedings are out and can be found at
+      <a href="https://link.springer.com/book/10.1007/978-3-032-14518-5" target="_blank" rel="noopener">https://link.springer.com/book/10.1007/978-3-032-14518-5</a>.
+    </div>
     <h1>Welcome to ICSOB 2025</h1>
-    <p>We are delighted to invite you to contribute to the <strong>16th International Conference on Software Business (ICSOB 2025)</strong>, to be held in the beautiful city of Stuttgart, Germany, on <strong>November 24–26, 2025</strong>. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.</p>
+    <p>We are delighted to invite you to contribute to the <strong>16th International Conference on Software Business (ICSOB 2025)</strong>, to be held in the beautiful city of Stuttgart, Germany, on <strong><span class="past-date">November 24–26, 2025</span></strong>. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.</p>
     <hr>
     <h2>Conference Theme: <br> Software Business in Digital Societies</h2>
     <p>In an era where software permeates all aspects of society, software businesses play a critical role in driving economic progress and shaping individual and collective well-being. This transformation presents new challenges for both incumbent organizations, which are increasingly evolving into software-driven enterprises, and for established and emerging software ventures.</p>
@@ -142,7 +147,7 @@ layout: home
       <li><b>Full Paper Deadline:</b> <span class="past-date">August 4, 2025</span> <span class="past-date">August 18, 2025 <span class="deadline-flag">extended</span></span></li>
       <li><b>Notification:</b> <span class="past-date">October 6, 2025</span></li>
       <li><b>Camera-ready:</b> <span class="past-date">October 26, 2025</span></li>
-      <li><b>Conference Dates:</b> November 24-26, 2025</li>    
+      <li><b>Conference Dates:</b> <span class="past-date">November 24-26, 2025</span></li>    
     </ul>
   </div>
 
@@ -152,7 +157,7 @@ layout: home
       <li><b>Deadline:</b> <span class="past-date">August 4, 2025</span> <span class="past-date">August 18, 2025 <span class="deadline-flag">extended</span></span></li>
       <li><b>Notification:</b> <span class="past-date">October 6, 2025</span></li>
       <li><b>Camera-ready:</b> <span class="past-date">October 26, 2025</span></li>
-<li><b>Conference Dates:</b> November 24-26, 2025</li>        
+<li><b>Conference Dates:</b> <span class="past-date">November 24-26, 2025</span></li>        
 </ul>
   </div>
 
@@ -162,7 +167,7 @@ layout: home
       <li><b>Submission Deadline:</b> <span class="past-date">October 14, 2025</span> <span class="past-date">October 20, 2025 <span class="deadline-flag">extended</span></span></li>
       <li><b>Notification:</b> <span class="past-date">October 31, 2025</span></li>
       <li><b>Camera-ready:</b> <span class="past-date">November 14, 2025 <span class="deadline-flag">extended</span></span></li>
-<li><b>Conference Dates:</b> November 24-26, 2025</li>        
+<li><b>Conference Dates:</b> <span class="past-date">November 24-26, 2025</span></li>        
 </ul>
   </div>
 
@@ -171,8 +176,8 @@ layout: home
     <ul>
         <li><b>Submission Deadline:</b> <span class="past-date">October 06, 2025</span> <span class="past-date">October 20, 2025 <span class="deadline-flag">extended</span></span></li>
         <li><b>Notification of Acceptance:</b> <span class="past-date">October 31, 2025</span></li>
-        <li><b>Conference Dates:</b> November 24–26, 2025</li>
-        <li><b>Camera-ready Papers Due:</b> December 08, 2025</li>
+        <li><b>Conference Dates:</b> <span class="past-date">November 24–26, 2025</span></li>
+        <li><b>Camera-ready Papers Due:</b> <span class="past-date">December 08, 2025</span></li>
   </ul>
   </div>
 
